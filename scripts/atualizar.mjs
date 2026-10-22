@@ -1,6 +1,7 @@
 // Estação Jaú-1 — busca clima, notícias e jogos do São Paulo e grava data.json.
 // Roda sozinho no GitHub Actions a cada 30 minutos (.github/workflows/dados.yml).
 import { readFile, writeFile } from 'node:fs/promises';
+import { randomBytes, pbkdf2Sync, createCipheriv } from 'node:crypto';
 
 const SPFC = '2026'; // id do São Paulo na ESPN
 
@@ -97,15 +98,116 @@ async function jogos() {
   return { proximo: futuros[0] || null, seguintes: futuros.slice(1, 3), ultimo: passados[0] || null };
 }
 
+/* ---------- agenda (Google Agenda, endereço secreto iCal) ----------
+   O endereço fica guardado no segredo GOOGLE_AGENDA_URL do repositório e os
+   compromissos saem CRIPTOGRAFADOS com a chave do segredo CHAVE_ESTACAO,
+   porque este repositório é público. Só quem tem a chave (a TV) consegue ler. */
+const OFFSET = -3 * 3600e3; // horário de Brasília (sem horário de verão desde 2019)
+function desdobrar(txt) { return txt.replace(/\r?\n[ \t]/g, '').split(/\r?\n/); }
+function textoIcs(s) { return s.replace(/\\n/gi, ' ').replace(/\\([,;\\])/g, '$1').trim(); }
+function dataIcs(params, v) {
+  const m = /^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})(Z)?)?$/.exec(v.trim());
+  if (!m) return null;
+  const [, Y, M, D, h = '00', mi = '00', s = '00', z] = m;
+  const utc = Date.UTC(+Y, +M - 1, +D, +h, +mi, +s);
+  return { ms: z ? utc : utc - OFFSET, diaInteiro: !m[4] || /VALUE=DATE(?!-)/.test(params) };
+}
+function lerEventos(txt) {
+  const eventos = []; let ev = null;
+  for (const linha of desdobrar(txt)) {
+    if (linha === 'BEGIN:VEVENT') { ev = { exdates: [] }; continue; }
+    if (linha === 'END:VEVENT') { if (ev && ev.inicio) eventos.push(ev); ev = null; continue; }
+    if (!ev) continue;
+    const i = linha.indexOf(':'); if (i < 0) continue;
+    const chave = linha.slice(0, i), valor = linha.slice(i + 1);
+    const nome = chave.split(';')[0], params = chave.slice(nome.length);
+    if (nome === 'DTSTART') ev.inicio = dataIcs(params, valor);
+    else if (nome === 'DTEND') ev.fim = dataIcs(params, valor);
+    else if (nome === 'SUMMARY') ev.titulo = textoIcs(valor);
+    else if (nome === 'RRULE') ev.rrule = Object.fromEntries(valor.split(';').map(p => p.split('=')));
+    else if (nome === 'EXDATE') valor.split(',').forEach(v => { const d = dataIcs(params, v); if (d) ev.exdates.push(d.ms); });
+    else if (nome === 'RECURRENCE-ID') ev.recId = dataIcs(params, valor);
+    else if (nome === 'UID') ev.uid = valor;
+    else if (nome === 'STATUS') ev.status = valor;
+  }
+  return eventos;
+}
+const DIAS_RR = { SU: 0, MO: 1, TU: 2, WE: 3, TH: 4, FR: 5, SA: 6 };
+function ocorrencias(ev, de, ate) {
+  const ini = ev.inicio.ms, dur = ev.fim ? Math.max(0, ev.fim.ms - ini) : 0;
+  if (!ev.rrule) return [ini];
+  const r = ev.rrule, passo = +(r.INTERVAL || 1), limite = r.COUNT ? +r.COUNT : Infinity;
+  const ateR = r.UNTIL ? Math.min(ate, dataIcs('', r.UNTIL).ms + (r.UNTIL.length === 8 ? 864e5 - 1 : 0)) : ate;
+  const local = new Date(ini + OFFSET); // campos UTC = hora de Brasília
+  const hms = ini + OFFSET - Date.UTC(local.getUTCFullYear(), local.getUTCMonth(), local.getUTCDate()); // hora do dia
+  const diaEm = (Y, M, D) => Date.UTC(Y, M, D) - OFFSET + hms;
+  const out = []; let n = 0;
+  const add = ms => { if (ms < ini) return true; n++; if (n > limite || ms > ateR) return false; if (ms + dur >= de) out.push(ms); return true; };
+  const freq = r.FREQ, byday = r.BYDAY ? r.BYDAY.split(',') : null;
+  // pula direto para perto da janela (eventos repetidos antigos), quando não há COUNT
+  const periodo = { DAILY: 864e5, WEEKLY: 7 * 864e5, MONTHLY: 31 * 864e5, YEARLY: 366 * 864e5 }[freq] * passo;
+  const k0 = !r.COUNT && periodo ? Math.max(0, Math.floor((de - ini) / periodo) - 2) : 0;
+  for (let k = k0; k < k0 + 3000; k++) {
+    const Y = local.getUTCFullYear(), M = local.getUTCMonth(), D = local.getUTCDate();
+    let lote = [];
+    if (freq === 'DAILY') lote = [diaEm(Y, M, D + k * passo)];
+    else if (freq === 'WEEKLY') {
+      const semana = D - local.getUTCDay() + k * 7 * passo; // domingo da semana
+      lote = (byday || [Object.keys(DIAS_RR)[local.getUTCDay()]]).map(b => diaEm(Y, M, semana + DIAS_RR[b.slice(-2)])).sort((a, b) => a - b);
+    } else if (freq === 'MONTHLY') {
+      const mes = M + k * passo;
+      if (byday && /^-?\d/.test(byday[0])) {
+        const ord = parseInt(byday[0], 10), wd = DIAS_RR[byday[0].slice(-2)];
+        if (ord > 0) { const p = new Date(Date.UTC(Y, mes, 1)).getUTCDay(); lote = [diaEm(Y, mes, 1 + ((wd - p + 7) % 7) + (ord - 1) * 7)]; }
+        else { const u = new Date(Date.UTC(Y, mes + 1, 0)); lote = [diaEm(Y, mes + 1, -((u.getUTCDay() - wd + 7) % 7))]; }
+      } else if (new Date(Date.UTC(Y, mes, D)).getUTCDate() === D) lote = [diaEm(Y, mes, D)];
+    } else if (freq === 'YEARLY') lote = [diaEm(Y + k * passo, M, D)];
+    else return [ini];
+    let continuar = true;
+    for (const ms of lote) { if (!add(ms)) { continuar = false; break; } }
+    if (!continuar || (lote.length && lote[0] > ateR)) break;
+  }
+  return out.filter(ms => !ev.exdates.includes(ms));
+}
+async function agenda() {
+  const url = process.env.GOOGLE_AGENDA_URL;
+  if (!url) return null;
+  const txt = await get(url, 'text');
+  const todos = lerEventos(txt).filter(e => e.status !== 'CANCELLED');
+  const de = Date.now() - 864e5, ate = Date.now() + 8 * 864e5;
+  const trocados = new Set(todos.filter(e => e.recId).map(e => e.uid + '@' + e.recId.ms));
+  const lista = [];
+  for (const ev of todos) {
+    const dur = ev.fim ? ev.fim.ms - ev.inicio.ms : 0;
+    for (const ms of ocorrencias(ev, de, ate)) {
+      if (!ev.recId && trocados.has(ev.uid + '@' + ms)) continue;
+      if (ms > ate || ms + dur < de) continue;
+      lista.push({ inicio: new Date(ms).toISOString(), fim: new Date(ms + dur).toISOString(), titulo: ev.titulo || '(sem título)', diaInteiro: ev.inicio.diaInteiro });
+    }
+  }
+  lista.sort((a, b) => a.inicio.localeCompare(b.inicio));
+  return lista.slice(0, 60);
+}
+function cifrar(obj, senha) {
+  const sal = randomBytes(16), iv = randomBytes(12);
+  const chave = pbkdf2Sync(senha, sal, 60000, 32, 'sha256');
+  const c = createCipheriv('aes-256-gcm', chave, iv);
+  const dados = Buffer.concat([c.update(JSON.stringify(obj), 'utf8'), c.final(), c.getAuthTag()]);
+  return { v: 1, sal: sal.toString('base64'), iv: iv.toString('base64'), dados: dados.toString('base64') };
+}
+
 /* ---------- junta tudo ---------- */
 const anterior = await readFile('data.json', 'utf8').then(JSON.parse).catch(() => ({}));
-const [c, n, j] = await Promise.all([safe(clima(), null), safe(noticias(), []), safe(jogos(), null)]);
+const [c, n, j, ag] = await Promise.all([safe(clima(), null), safe(noticias(), []), safe(jogos(), null), safe(agenda(), null)]);
+const senha = process.env.CHAVE_ESTACAO;
 const dados = {
   atualizado: new Date().toISOString(),
   clima: c || anterior.clima || null,
   noticias: n.length ? n : (anterior.noticias || []),
-  jogos: j || anterior.jogos || null
+  jogos: j || anterior.jogos || null,
+  privado: ag && senha ? cifrar({ eventos: ag }, senha) : (anterior.privado || null)
 };
 await writeFile('data.json', JSON.stringify(dados, null, 1) + '\n');
 console.log('ok:', dados.clima ? dados.clima.temp + '°C' : 'sem clima', '|', dados.noticias.length, 'notícias |',
-  dados.jogos && dados.jogos.proximo ? 'próximo: ' + dados.jogos.proximo.casa + ' x ' + dados.jogos.proximo.fora : 'sem jogo');
+  dados.jogos && dados.jogos.proximo ? 'próximo: ' + dados.jogos.proximo.casa + ' x ' + dados.jogos.proximo.fora : 'sem jogo', '|',
+  ag ? ag.length + ' compromissos (criptografados)' : 'sem agenda');

@@ -58,7 +58,7 @@ body{background:var(--void);color:var(--ink);font-family:var(--f-body);
 #pAgenda li.next .h{color:var(--amber)}
 #pAgenda li.next::before{content:"\25B8";margin-right:calc(var(--u)*-1.4)}
 #board{padding:calc(var(--u)*2.4) calc(var(--u)*2);display:flex;flex-direction:column;gap:calc(var(--u)*2.4)}
-.note{font-family:var(--f-body);font-size:calc(var(--u)*5.6);line-height:.9;color:#1b1630;padding:calc(var(--u)*1.6) calc(var(--u)*1.6) calc(var(--u)*2.2);box-shadow:calc(var(--u)*.8) calc(var(--u)*.8) 0 rgba(0,0,0,.35)}
+.note{overflow-wrap:break-word;word-break:break-word;font-family:var(--f-body);font-size:calc(var(--u)*5.6);line-height:.9;color:#1b1630;padding:calc(var(--u)*1.6) calc(var(--u)*1.6) calc(var(--u)*2.2);box-shadow:calc(var(--u)*.8) calc(var(--u)*.8) 0 rgba(0,0,0,.35)}
 .note:nth-child(2){background:#ffe27a;transform:rotate(-2deg)}
 .note:nth-child(3){background:#ff9ec4;transform:rotate(1.5deg)}
 .note:nth-child(4){background:#8ff0c8;transform:rotate(-1deg)}
@@ -120,7 +120,7 @@ body.tv #wrap{gap:0;height:100%;justify-content:center}
       </div>
 
       <div class="ov panel" id="pAgenda">
-        <div class="lbl">Agenda · hoje</div>
+        <div class="lbl" id="agendaTitle">Agenda · hoje</div>
         <ul class="txt" id="agenda"></ul>
       </div>
 
@@ -643,11 +643,13 @@ function easeIn(t) { return t * t * t; }
 function easeOut(t) { return 1 - Math.pow(1 - t, 3); }
 
 /* ---------------- falas ---------------- */
+(function () {
+  var d = new Date();
+  DADOS.agenda = DADOS.agenda.map(function (a) { var p = a.h.split(':'); return { ms: new Date(d.getFullYear(), d.getMonth(), d.getDate(), +p[0], +p[1]).getTime(), h: a.h, t: a.t }; });
+})();
 function nextAgenda() {
-  var now = new Date(), m = now.getHours() * 60 + now.getMinutes();
-  for (var i = 0; i < DADOS.agenda.length; i++) {
-    var p = DADOS.agenda[i].h.split(':'); if (+p[0] * 60 + +p[1] > m) return DADOS.agenda[i];
-  }
+  var now = Date.now();
+  for (var i = 0; i < DADOS.agenda.length; i++) if (DADOS.agenda[i].ms > now) return DADOS.agenda[i];
   return null;
 }
 function countdown(short) {
@@ -1042,7 +1044,14 @@ place(document.getElementById('ticker'), 0, 168, W, 12);
 place(document.getElementById('hit'), WX - WR, WY - WR, WR * 2, WR * 2);
 
 var board = document.getElementById('board');
-DADOS.lembretes.forEach(function (t) { var n = document.createElement('div'); n.className = 'note'; n.textContent = t; board.appendChild(n); });
+function renderLembretes() {
+  var old = board.querySelectorAll('.note');
+  for (var i = 0; i < old.length; i++) board.removeChild(old[i]);
+  (DADOS.lembretes.length ? DADOS.lembretes : ['Nada pendente']).slice(0, 3).forEach(function (t) {
+    var n = document.createElement('div'); n.className = 'note'; n.textContent = t; board.appendChild(n);
+  });
+}
+renderLembretes();
 var track = document.getElementById('track');
 
 function renderEstatico() {
@@ -1058,7 +1067,7 @@ function renderEstatico() {
   }
   track.innerHTML = '';
   DADOS.noticias.forEach(function (t) { var s = document.createElement('span'); s.textContent = t; track.appendChild(s); });
-  if (DADOS.real) document.getElementById('badge').textContent = 'Agenda e lembretes de exemplo';
+  if (DADOS.real) document.getElementById('badge').textContent = DADOS.agendaReal ? '' : (DADOS.aviso || 'Agenda e lembretes de exemplo');
 }
 
 /* dados reais: data.json é atualizado a cada 30 min pelo GitHub Actions */
@@ -1080,6 +1089,52 @@ function aplicarDados(d) {
   }
   DADOS.real = true;
   renderEstatico(); tick();
+  if (d.privado) abrirPrivado(d.privado);
+}
+/* agenda e lembretes: chegam criptografados; a chave vem uma vez pelo link (#tv&chave=...) e fica salva na TV */
+var CHAVE = null;
+(function () {
+  var m = /chave=([A-Za-z0-9]+)/.exec(location.hash);
+  try { if (m) localStorage.setItem('estacao-chave', m[1]); CHAVE = m ? m[1] : localStorage.getItem('estacao-chave'); }
+  catch (e) { CHAVE = m ? m[1] : null; }
+  if (m && history.replaceState) history.replaceState(null, '', location.pathname + (location.hash.indexOf('#tv') === 0 ? '#tv' : ''));
+})();
+function b64(s) { var bin = atob(s), u = new Uint8Array(bin.length); for (var i = 0; i < bin.length; i++) u[i] = bin.charCodeAt(i); return u; }
+function avisar(t) { DADOS.aviso = t; renderEstatico(); }
+function abrirPrivado(p) {
+  if (!CHAVE) { avisar('Agenda trancada: falta a chave'); return; }
+  if (!window.crypto || !crypto.subtle || !window.TextEncoder) { avisar('Esta TV não abre a agenda'); return; }
+  crypto.subtle.importKey('raw', new TextEncoder().encode(CHAVE), { name: 'PBKDF2' }, false, ['deriveKey'])
+    .then(function (base) { return crypto.subtle.deriveKey({ name: 'PBKDF2', salt: b64(p.sal), iterations: 60000, hash: 'SHA-256' }, base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']); })
+    .then(function (k) { return crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(p.iv) }, k, b64(p.dados)); })
+    .then(function (buf) { aplicarAgenda(JSON.parse(new TextDecoder().decode(buf)).eventos || []); })
+    .catch(function () { avisar('Chave da agenda incorreta'); });
+}
+function aplicarAgenda(evs) {
+  var agora = Date.now(), d = new Date(), ini = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime(), fimHoje = ini + 864e5;
+  function rotulo(ms, hora) {
+    var x = new Date(ms), mesmoDia = ms >= ini && ms < fimHoje;
+    return (mesmoDia ? '' : DIAS[x.getDay()] + ' ') + (hora ? two(x.getHours()) + ':' + two(x.getMinutes()) : '');
+  }
+  var timed = evs.filter(function (e) { return !e.diaInteiro; }).map(function (e) { return { ms: Date.parse(e.inicio), fim: Date.parse(e.fim), t: e.titulo }; });
+  var hoje = timed.filter(function (e) { return e.ms < fimHoje && e.fim > ini; });
+  var temFuturoHoje = hoje.some(function (e) { return e.ms > agora; });
+  var lista;
+  if (temFuturoHoje) {
+    var primeiro = 0; for (var i = 0; i < hoje.length; i++) if (hoje[i].ms > agora) { primeiro = Math.max(0, i - 1); break; }
+    lista = hoje.slice(primeiro, primeiro + 4);
+    // completa com os próximos dias, se o dia estiver vazio
+    lista = lista.concat(timed.filter(function (e) { return e.ms >= fimHoje; }).slice(0, 4 - lista.length));
+    document.getElementById('agendaTitle').textContent = 'Agenda · hoje';
+  } else {
+    lista = timed.filter(function (e) { return e.ms > agora; }).slice(0, 4);
+    document.getElementById('agendaTitle').textContent = 'Agenda · próximos';
+  }
+  DADOS.agenda = lista.map(function (e) { return { ms: e.ms, h: rotulo(e.ms, true), t: e.t }; });
+  DADOS.lembretes = evs.filter(function (e) { return e.diaInteiro && Date.parse(e.fim) > agora && Date.parse(e.inicio) < agora + 7 * 864e5; })
+    .map(function (e) { var r = rotulo(Math.max(Date.parse(e.inicio), ini), false); return (r ? r.trim() + ': ' : '') + e.titulo; });
+  DADOS.agendaReal = true; DADOS.aviso = '';
+  renderLembretes(); renderEstatico(); tick();
 }
 function carregar() {
   if (!window.fetch || location.protocol === 'file:') return;
@@ -1092,11 +1147,12 @@ function tick() {
   document.getElementById('time').textContent = two(d.getHours()) + ':' + two(d.getMinutes());
   document.getElementById('date').textContent = DIAS[d.getDay()] + ', ' + d.getDate() + ' ' + MESES[d.getMonth()] + ' · ' + DADOS.clima.texto.toLowerCase();
   document.getElementById('gcount').textContent = countdown(false);
-  var m = d.getHours() * 60 + d.getMinutes(), nextDone = false;
+  var now = d.getTime(), nextDone = false;
   agendaEl.innerHTML = '';
+  if (!DADOS.agenda.length) { var vazio = document.createElement('li'); vazio.textContent = 'Nada marcado'; agendaEl.appendChild(vazio); }
   DADOS.agenda.forEach(function (a) {
-    var p = a.h.split(':'), am = +p[0] * 60 + +p[1], li = document.createElement('li');
-    if (am <= m) li.className = 'past'; else if (!nextDone) { li.className = 'next'; nextDone = true; }
+    var li = document.createElement('li');
+    if (a.ms <= now) li.className = 'past'; else if (!nextDone) { li.className = 'next'; nextDone = true; }
     var h = document.createElement('span'); h.className = 'h'; h.textContent = a.h;
     var t = document.createElement('span'); t.textContent = a.t;
     li.appendChild(h); li.appendChild(t); agendaEl.appendChild(li);
@@ -1122,8 +1178,8 @@ function fit() {
   stage.style.width = w + 'px'; stage.style.height = (w * 9 / 16) + 'px';
   stage.style.setProperty('--u', (w / 320) + 'px');
 }
-if (location.hash === '#tv') document.body.classList.add('tv');
-window.addEventListener('hashchange', function () { document.body.classList.toggle('tv', location.hash === '#tv'); fit(); });
+if (location.hash.indexOf('#tv') === 0) document.body.classList.add('tv');
+window.addEventListener('hashchange', function () { document.body.classList.toggle('tv', location.hash.indexOf('#tv') === 0); fit(); });
 window.addEventListener('resize', fit);
 document.addEventListener('fullscreenchange', fit);
 document.addEventListener('webkitfullscreenchange', fit);

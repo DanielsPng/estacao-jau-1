@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-22T03:33:35.613Z",
+ "atualizado": "2026-10-22T08:28:10.974Z",
  "clima": {
-  "temp": 19,
-  "max": 29,
+  "temp": 18,
+  "max": 26,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
+  "Mundo: Midterms 2026: Como está a aprovação de Trump a menos de duas semanas das eleições de meio de mandato nos EUA",
+  "Tecnologia: Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
+  "Mundo: Abóbora de 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia 3 mil tortas",
+  "Tecnologia: Austrália abre ação coletiva contra Meta por danos a crianças",
+  "Mundo: Rússia e Ucrânia intensificam ataques após avanço diplomático mediado pelos EUA",
   "Tecnologia: Fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma",
-  "Mundo: Egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda",
+  "Mundo: Eleições de meio de mandato nos EUA: quando serão as midterms?",
   "Tecnologia: Golpe do QR Code: criminosos adulteram códigos para roubar dinheiro; veja como se proteger",
-  "Mundo: Prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil",
-  "Tecnologia: Meta é condenada a pagar US$ 25 bilhões por enganar consumidores no caso Cambridge Analytica",
-  "Mundo: Bukele anuncia operação militar para resgatar 4 salvadorenhos sequestrados por gangues no Haiti",
-  "Tecnologia: É #FAKE vídeo de Brizola associando Jair Bolsonaro a milícias; material foi adulterado com inteligência artificial",
-  "Mundo: Em derrota rara para Trump, Suprema Corte mantém acesso de presos trans a tratamentos",
-  "Tecnologia: Governos e empresas tiram sites do ar após descoberta de falhas que facilitam ataques hackers",
-  "Mundo: Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia"
+  "Mundo: ‘É como se ele tivesse nascido de novo’: menino com surdez rara escuta pela 1ª vez após tratamento inédito; VÍDEO"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "I6mOuSnRqTR1bVHyZ5Txzg==",
-  "iv": "QKn97tukdQD1fHKt",
-  "dados": "PDZ5u6gS8qWyioa+gBr7Q29qGSIIh4JN9No8opKuW8KP4pNBsQbQqpxcneQ1HfmM4Nd1TgqUfpOVZhR+EIHGbrV2ivx6lKuGuMuwwIbKDMFutUdiGFpDxG5zOcHfxF3QuMSmrRHuZKx2tdmv2+1fEhkR2QKH9Uxr/FUgxfljn3N643MDTZCpM4nXT9OilA=="
+  "sal": "jte+T6b33XA7XnHKWGRHQA==",
+  "iv": "2AwsyA7xDdb/PZ9e",
+  "dados": "fDRT1HvlyBIUrXMIHwpSvWAGcUXV07+DqI2j2XqRuZEganuloF/idXH1tlTxFSNOZT4dBqj3T2cB57uOS+ewGofFHYgpEYlYg+LbPyfGG+FS+dgJyc5ymoPEP2k0Q+uDDLerEhYDjbP2xir87p/jQcQCJVa+JioGp7SrusO17bEkGLjBwRJ7Oouw2fnmsw=="
  }
 }

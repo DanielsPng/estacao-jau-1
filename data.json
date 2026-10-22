@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T03:25:52.459Z",
+ "atualizado": "2026-10-22T03:33:35.613Z",
  "clima": {
   "temp": 19,
   "max": 29,
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "1fdEmrBFvIRdNwSMqBg0XA==",
-  "iv": "G6QLfPlwzV7g9xay",
-  "dados": "+6rPfiPvqHmcejc4sR72bfli/Ee8AKWS4mU0vjLY"
+  "sal": "I6mOuSnRqTR1bVHyZ5Txzg==",
+  "iv": "QKn97tukdQD1fHKt",
+  "dados": "PDZ5u6gS8qWyioa+gBr7Q29qGSIIh4JN9No8opKuW8KP4pNBsQbQqpxcneQ1HfmM4Nd1TgqUfpOVZhR+EIHGbrV2ivx6lKuGuMuwwIbKDMFutUdiGFpDxG5zOcHfxF3QuMSmrRHuZKx2tdmv2+1fEhkR2QKH9Uxr/FUgxfljn3N643MDTZCpM4nXT9OilA=="
  }
 }

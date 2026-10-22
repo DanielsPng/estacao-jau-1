@@ -1,0 +1,74 @@
+{
+ "atualizado": "2026-10-22T02:55:35.778Z",
+ "clima": {
+  "temp": 19,
+  "max": 28,
+  "min": 14,
+  "cond": "nuvens",
+  "texto": "Nublado"
+ },
+ "noticias": [
+  "Tecnologia: Fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma",
+  "Mundo: Prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil",
+  "Tecnologia: Golpe do QR Code: criminosos adulteram códigos para roubar dinheiro; veja como se proteger",
+  "Mundo: Bukele anuncia operação militar para resgatar 4 salvadorenhos sequestrados por gangues no Haiti",
+  "Tecnologia: Meta é condenada a pagar US$ 25 bilhões por enganar consumidores no caso Cambridge Analytica",
+  "Mundo: Em derrota rara para Trump, Suprema Corte mantém acesso de presos trans a tratamentos",
+  "Tecnologia: É #FAKE vídeo de Brizola associando Jair Bolsonaro a milícias; material foi adulterado com inteligência artificial",
+  "Mundo: Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia",
+  "Tecnologia: Governos e empresas tiram sites do ar após descoberta de falhas que facilitam ataques hackers",
+  "Mundo: Supertufão Champi chega a 296 km/h e forma olho gigante no Pacífico"
+ ],
+ "jogos": {
+  "proximo": {
+   "quando": "2026-10-24T19:30Z",
+   "casa": "Mirassol",
+   "fora": "São Paulo",
+   "siglaCasa": "MIR",
+   "siglaFora": "SAO",
+   "emCasa": false,
+   "campeonato": "Brasileirão",
+   "local": "Estadio Municipal José Maria de Campos Maia",
+   "placar": null,
+   "estado": "pre"
+  },
+  "seguintes": [
+   {
+    "quando": "2026-10-29T00:30Z",
+    "casa": "Bahia",
+    "fora": "São Paulo",
+    "siglaCasa": "BAH",
+    "siglaFora": "SAO",
+    "emCasa": false,
+    "campeonato": "Brasileirão",
+    "local": "Arena Fonte Nova",
+    "placar": null,
+    "estado": "pre"
+   },
+   {
+    "quando": "2026-11-05T00:30Z",
+    "casa": "São Paulo",
+    "fora": "Corinthians",
+    "siglaCasa": "SAO",
+    "siglaFora": "COR",
+    "emCasa": true,
+    "campeonato": "Brasileirão",
+    "local": "Estádio Vila Belmiro (Urbano Caldeira)",
+    "placar": null,
+    "estado": "pre"
+   }
+  ],
+  "ultimo": {
+   "quando": "2026-10-18T00:00Z",
+   "casa": "São Paulo",
+   "fora": "Vasco",
+   "siglaCasa": "SAO",
+   "siglaFora": "VAS",
+   "emCasa": true,
+   "campeonato": "Brasileirão",
+   "local": "Estádio Cícero Pompeu de Toledo",
+   "placar": "1×0",
+   "estado": "post"
+  }
+ }
+}

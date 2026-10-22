@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-22T08:28:10.974Z",
+ "atualizado": "2026-10-22T14:03:09.549Z",
  "clima": {
-  "temp": 18,
+  "temp": 25,
   "max": 26,
-  "min": 18,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "min": 17,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
+  "Mundo: Paciente morre na França após infecção pelo vírus Shamonda; caso é inédito em humanos",
+  "Tecnologia: O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
+  "Mundo: Líder da oposição de esquerda no Equador e ex-candidata a presidente é presa",
   "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
-  "Mundo: Midterms 2026: Como está a aprovação de Trump a menos de duas semanas das eleições de meio de mandato nos EUA",
+  "Mundo: Fofinhos? Cidade na Itália vai transferir coelhos invasores de cemitério após reclamações de parentes de falecidos",
   "Tecnologia: Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
-  "Mundo: Abóbora de 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia 3 mil tortas",
+  "Mundo: Zelensky denuncia uso de munição fragmentada em ataque da Rússia contra Kiev",
   "Tecnologia: Austrália abre ação coletiva contra Meta por danos a crianças",
-  "Mundo: Rússia e Ucrânia intensificam ataques após avanço diplomático mediado pelos EUA",
-  "Tecnologia: Fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma",
-  "Mundo: Eleições de meio de mandato nos EUA: quando serão as midterms?",
-  "Tecnologia: Golpe do QR Code: criminosos adulteram códigos para roubar dinheiro; veja como se proteger",
-  "Mundo: ‘É como se ele tivesse nascido de novo’: menino com surdez rara escuta pela 1ª vez após tratamento inédito; VÍDEO"
+  "Mundo: Houthis afirmam ter atacado Ministério da Defesa da Arábia Saudita"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "jte+T6b33XA7XnHKWGRHQA==",
-  "iv": "2AwsyA7xDdb/PZ9e",
-  "dados": "fDRT1HvlyBIUrXMIHwpSvWAGcUXV07+DqI2j2XqRuZEganuloF/idXH1tlTxFSNOZT4dBqj3T2cB57uOS+ewGofFHYgpEYlYg+LbPyfGG+FS+dgJyc5ymoPEP2k0Q+uDDLerEhYDjbP2xir87p/jQcQCJVa+JioGp7SrusO17bEkGLjBwRJ7Oouw2fnmsw=="
+  "sal": "T40f3/I5cSsgwtSJFLr3tg==",
+  "iv": "OHdIl0UHW/2zRwjZ",
+  "dados": "XWADDMIYM8813Hd0ulQA5Lhrl4hzXdXL3UEqmffar/DGfYB9RblwAbDpqON4i87XfmTv9g5BiqZ8KpXntG0qBJYxoC728Jx0YvIQuFXcoCda7Q35fLk8Nh8gozWK2NsHixjlj+jSW/R7N1Z9GonqJEXy0rLIdsc4BPVjkV3OLQIkZUuykaQdFP2RXMS64A=="
  }
 }

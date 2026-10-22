@@ -651,6 +651,7 @@ function nextAgenda() {
   return null;
 }
 function countdown(short) {
+  if (!DADOS.jogo) return short ? 'breve' : '—';
   var ms = DADOS.jogo.quando.getTime() - Date.now();
   if (ms < 0 && ms > -2 * 3600e3) return 'AO VIVO';
   if (ms < 0) return 'encerrado';
@@ -668,7 +669,11 @@ function sayLine(c) {
   if (ph.id === 'sono' && c.robot) return pick(FALAS_FASE.sono);
   pool.push(pick(FALAS_FASE[ph.id])); pool.push(pick(FALAS_FASE[ph.id]));
   if (hr >= 9 && hr < 22) pool.push('Já bebeu água hoje?');
-  if (c.name === 'Tito') { pool.push('Tricolor joga em ' + countdown(true) + '!'); pool.push('Vamos, São Paulo!'); }
+  if (c.name === 'Tito') {
+    if (DADOS.jogo) pool.push('Tricolor contra o ' + DADOS.jogo.fora + ' em ' + countdown(true) + '!');
+    if (DADOS.ultimo) pool.push('Último jogo: ' + DADOS.ultimo + '.');
+    pool.push('Vamos, São Paulo!');
+  }
   if (c.robot) { pool.push('Bip. Sistemas ok.'); pool.push('Bip bop. Recalculando rota.'); }
   return pick(pool);
 }
@@ -890,7 +895,7 @@ function drawWindow() {
 }
 
 function drawWeatherIcon() {
-  var x = 205, y = 64, cond = DADOS.clima.cond, night = isNight();
+  var x = 201, y = 63, cond = DADOS.clima.cond, night = isNight();
   if (cond === 'sol' || cond === 'nuvens') {
     if (night) {
       ctx.fillStyle = '#f2ecc8'; ctx.fillRect(x + 1, y, 5, 8); ctx.fillRect(x, y + 1, 7, 6);
@@ -976,7 +981,7 @@ function draw(dt) {
     ctx.fillRect(200 + i * 8, 155, 2, 2);
   }
   // luz de alerta do jogo (pisca em dia de jogo)
-  var ms = DADOS.jogo.quando.getTime() - Date.now(), gameSoon = ms < 864e5 && ms > -2 * 3600e3;
+  var ms = DADOS.jogo ? DADOS.jogo.quando.getTime() - Date.now() : 1e12, gameSoon = ms < 864e5 && ms > -2 * 3600e3;
   if ((gameSoon && Math.floor(T * 2) % 2) || flash > 0) { ctx.fillStyle = '#ff3b3b'; ctx.fillRect(309, 50, 4, 2); }
   else { ctx.fillStyle = '#4a1a24'; ctx.fillRect(309, 50, 4, 2); }
 
@@ -1039,14 +1044,47 @@ place(document.getElementById('hit'), WX - WR, WY - WR, WR * 2, WR * 2);
 var board = document.getElementById('board');
 DADOS.lembretes.forEach(function (t) { var n = document.createElement('div'); n.className = 'note'; n.textContent = t; board.appendChild(n); });
 var track = document.getElementById('track');
-DADOS.noticias.forEach(function (t) { var s = document.createElement('span'); s.textContent = t; track.appendChild(s); });
 
-document.getElementById('temp').textContent = DADOS.clima.temp + '°';
-document.getElementById('wtext').innerHTML = '';
-document.getElementById('wtext').appendChild(document.createTextNode(DADOS.cidade + ' · ' + DADOS.clima.max + '°/' + DADOS.clima.min + '°'));
-var j = DADOS.jogo.quando;
-document.getElementById('vs').textContent = 'SPFC × ' + DADOS.jogo.fora;
-document.getElementById('gwhen').textContent = DIAS[j.getDay()] + ' ' + two(j.getHours()) + ':' + two(j.getMinutes()) + ' · ' + DADOS.jogo.local;
+function renderEstatico() {
+  document.getElementById('temp').textContent = DADOS.clima.temp + '°';
+  document.getElementById('wtext').textContent = DADOS.cidade + ' · ' + DADOS.clima.max + '°/' + DADOS.clima.min + '°';
+  if (DADOS.jogo) {
+    var j = DADOS.jogo.quando;
+    document.getElementById('vs').textContent = DADOS.jogo.vs || ('SPFC × ' + DADOS.jogo.fora);
+    document.getElementById('gwhen').textContent = DIAS[j.getDay()] + ' ' + two(j.getHours()) + ':' + two(j.getMinutes()) + ' · ' + DADOS.jogo.local;
+  } else {
+    document.getElementById('vs').textContent = 'SPFC';
+    document.getElementById('gwhen').textContent = 'sem jogo marcado';
+  }
+  track.innerHTML = '';
+  DADOS.noticias.forEach(function (t) { var s = document.createElement('span'); s.textContent = t; track.appendChild(s); });
+  if (DADOS.real) document.getElementById('badge').textContent = 'Agenda e lembretes de exemplo';
+}
+
+/* dados reais: data.json é atualizado a cada 30 min pelo GitHub Actions */
+function sigla(s) { return s === 'SAO' ? 'SPFC' : s; }
+function aplicarDados(d) {
+  if (!d) return;
+  if (d.clima) DADOS.clima = d.clima;
+  if (d.noticias && d.noticias.length) DADOS.noticias = d.noticias;
+  if (d.jogos) {
+    var p = d.jogos.proximo;
+    DADOS.jogo = p ? {
+      fora: p.emCasa ? p.fora : p.casa,
+      vs: sigla(p.siglaCasa) + ' × ' + sigla(p.siglaFora),
+      quando: new Date(p.quando),
+      local: p.campeonato || p.local
+    } : null;
+    var u = d.jogos.ultimo;
+    DADOS.ultimo = u && u.placar ? sigla(u.siglaCasa) + ' ' + u.placar + ' ' + sigla(u.siglaFora) : null;
+  }
+  DADOS.real = true;
+  renderEstatico(); tick();
+}
+function carregar() {
+  if (!window.fetch || location.protocol === 'file:') return;
+  fetch('data.json?t=' + Date.now()).then(function (r) { return r.ok ? r.json() : null; }).then(aplicarDados).catch(function () {});
+}
 
 var agendaEl = document.getElementById('agenda');
 function tick() {
@@ -1064,7 +1102,9 @@ function tick() {
     li.appendChild(h); li.appendChild(t); agendaEl.appendChild(li);
   });
 }
+renderEstatico();
 tick(); setInterval(tick, 1000);
+carregar(); setInterval(carregar, 10 * 60e3);
 
 /* ---------------- controles ---------------- */
 function goal() {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-22T14:03:09.549Z",
+ "atualizado": "2026-10-22T18:44:30.299Z",
  "clima": {
-  "temp": 25,
-  "max": 26,
+  "temp": 27,
+  "max": 28,
   "min": 17,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
+  "Mundo: Milhares protestam em Paris após Justiça derrubar proibição de manifestação",
   "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
-  "Mundo: Paciente morre na França após infecção pelo vírus Shamonda; caso é inédito em humanos",
+  "Mundo: Hóspede de Airbnb não será mais obrigado a lavar louça e tirar lixo no check-out",
   "Tecnologia: O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
-  "Mundo: Líder da oposição de esquerda no Equador e ex-candidata a presidente é presa",
+  "Mundo: Terremoto de magnitude 7,0 atinge o Tibete, região autônoma da China",
   "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
-  "Mundo: Fofinhos? Cidade na Itália vai transferir coelhos invasores de cemitério após reclamações de parentes de falecidos",
+  "Mundo: Democratas dizem que Rússia faz campanha de desinformação contra oposição de Trump nas midterms",
   "Tecnologia: Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
-  "Mundo: Zelensky denuncia uso de munição fragmentada em ataque da Rússia contra Kiev",
-  "Tecnologia: Austrália abre ação coletiva contra Meta por danos a crianças",
-  "Mundo: Houthis afirmam ter atacado Ministério da Defesa da Arábia Saudita"
+  "Mundo: Paciente morre na França após infecção pelo vírus Shamonda; caso é inédito em humanos"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "T40f3/I5cSsgwtSJFLr3tg==",
-  "iv": "OHdIl0UHW/2zRwjZ",
-  "dados": "XWADDMIYM8813Hd0ulQA5Lhrl4hzXdXL3UEqmffar/DGfYB9RblwAbDpqON4i87XfmTv9g5BiqZ8KpXntG0qBJYxoC728Jx0YvIQuFXcoCda7Q35fLk8Nh8gozWK2NsHixjlj+jSW/R7N1Z9GonqJEXy0rLIdsc4BPVjkV3OLQIkZUuykaQdFP2RXMS64A=="
+  "sal": "IzApl9VF6w/WE0+I4LNe1w==",
+  "iv": "9h69Iywbn+qnqoE2",
+  "dados": "dXRR/Y+K16Tlfph46HIysR0LTMYMDZIDi+N29DdhGndzsOek+wMdGVxU6FRVYdso9ezvudo7dovUeXBRPz+ARK3SW9IhUXvcoFFfJc+jvdwkJ8hZ3kJip++RoPd6imQoABn/6hRkssPL3Um7t1ffNRfvNYpZc4Hu+bgIFLb5touza+abaGFHoDZUxkU7jw=="
  }
 }

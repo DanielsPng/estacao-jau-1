@@ -665,7 +665,7 @@ function sayLine(c) {
   var P = PLANETS[travel.cur], hr = new Date().getHours(), pool = [];
   pool.push('Jaú tá com ' + DADOS.clima.temp + '°C lá embaixo.');
   var a = nextAgenda(); if (a) pool.push('Próximo na agenda: ' + a.h + ', ' + a.t.toLowerCase() + '.');
-  pool.push('Não esquece: ' + pick(DADOS.lembretes).toLowerCase() + '.');
+  if (DADOS.lembretes.length) pool.push('Não esquece: ' + pick(DADOS.lembretes).toLowerCase() + '.');
   pool.push(pick(fatosOf(P)));
   var ph = phase();
   if (ph.id === 'sono' && c.robot) return pick(FALAS_FASE.sono);
@@ -693,7 +693,8 @@ function loop(now) {
   var dt = Math.min(.1, (now - last) / 1000); last = now; acc += dt;
   if (acc < 1 / 30) return;   // ~30 fps, mais leve para a TV
   dt = acc; acc = 0; T += dt; frameN++;
-  update(dt); draw(dt);
+  try { update(dt); } catch (e) { if (window.console) console.error(e); }
+  try { draw(dt); } catch (e) { if (window.console) console.error(e); }
 }
 
 function update(dt) {

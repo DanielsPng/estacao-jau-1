@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-22T18:44:30.299Z",
+ "atualizado": "2026-10-22T22:13:29.027Z",
  "clima": {
-  "temp": 27,
+  "temp": 23,
   "max": 28,
   "min": 17,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
-  "Mundo: Milhares protestam em Paris após Justiça derrubar proibição de manifestação",
+  "Mundo: Parlamentares dos EUA cobram explicações de Zuckerberg sobre ações da Meta na eleição brasileira",
   "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
-  "Mundo: Hóspede de Airbnb não será mais obrigado a lavar louça e tirar lixo no check-out",
+  "Mundo: Governo Trump cancela vistos de 61 autoridades e ex-integrantes de governos da Bolívia e da Colômbia",
   "Tecnologia: O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
-  "Mundo: Terremoto de magnitude 7,0 atinge o Tibete, região autônoma da China",
+  "Mundo: Milhares protestam em Paris após Justiça derrubar proibição de manifestação",
   "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
-  "Mundo: Democratas dizem que Rússia faz campanha de desinformação contra oposição de Trump nas midterms",
+  "Mundo: Hóspede de Airbnb não será mais obrigado a lavar louça e tirar lixo no check-out",
   "Tecnologia: Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
-  "Mundo: Paciente morre na França após infecção pelo vírus Shamonda; caso é inédito em humanos"
+  "Mundo: Terremoto de magnitude 7,0 atinge o Tibete e mata 16 pessoas; VÍDEO mostra desespero"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "IzApl9VF6w/WE0+I4LNe1w==",
-  "iv": "9h69Iywbn+qnqoE2",
-  "dados": "dXRR/Y+K16Tlfph46HIysR0LTMYMDZIDi+N29DdhGndzsOek+wMdGVxU6FRVYdso9ezvudo7dovUeXBRPz+ARK3SW9IhUXvcoFFfJc+jvdwkJ8hZ3kJip++RoPd6imQoABn/6hRkssPL3Um7t1ffNRfvNYpZc4Hu+bgIFLb5touza+abaGFHoDZUxkU7jw=="
+  "sal": "pOl4hOPdcfvhl/DkRKp6eA==",
+  "iv": "56/TCNCjc0bCDab/",
+  "dados": "oGgYGTXkZPhWydxTqdy6n1T1SHOMTfycbCbKMbvQVlhuZN2ca3FJWll0Qzn8IGI78rmcQHnMk1KAfooEHSzZkXuhIcFKyPyEkXeamlRFXrVB2myJuqB0DdFnkTsj2fqpjhjOMTfJWFWucGUk3IrDc7tE1d6mHv1C88Tk3b4b6MTDJGc9nwzjaUNR6yjscg=="
  }
 }

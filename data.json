@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-22T02:55:35.778Z",
+ "atualizado": "2026-10-22T03:25:52.459Z",
  "clima": {
   "temp": 19,
-  "max": 28,
-  "min": 14,
+  "max": 29,
+  "min": 18,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma",
-  "Mundo: Prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil",
+  "Mundo: Egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda",
   "Tecnologia: Golpe do QR Code: criminosos adulteram códigos para roubar dinheiro; veja como se proteger",
-  "Mundo: Bukele anuncia operação militar para resgatar 4 salvadorenhos sequestrados por gangues no Haiti",
+  "Mundo: Prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil",
   "Tecnologia: Meta é condenada a pagar US$ 25 bilhões por enganar consumidores no caso Cambridge Analytica",
-  "Mundo: Em derrota rara para Trump, Suprema Corte mantém acesso de presos trans a tratamentos",
+  "Mundo: Bukele anuncia operação militar para resgatar 4 salvadorenhos sequestrados por gangues no Haiti",
   "Tecnologia: É #FAKE vídeo de Brizola associando Jair Bolsonaro a milícias; material foi adulterado com inteligência artificial",
-  "Mundo: Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia",
+  "Mundo: Em derrota rara para Trump, Suprema Corte mantém acesso de presos trans a tratamentos",
   "Tecnologia: Governos e empresas tiram sites do ar após descoberta de falhas que facilitam ataques hackers",
-  "Mundo: Supertufão Champi chega a 296 km/h e forma olho gigante no Pacífico"
+  "Mundo: Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia"
  ],
  "jogos": {
   "proximo": {
@@ -70,5 +70,11 @@
    "placar": "1×0",
    "estado": "post"
   }
+ },
+ "privado": {
+  "v": 1,
+  "sal": "1fdEmrBFvIRdNwSMqBg0XA==",
+  "iv": "G6QLfPlwzV7g9xay",
+  "dados": "+6rPfiPvqHmcejc4sR72bfli/Ee8AKWS4mU0vjLY"
  }
 }

@@ -20,8 +20,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Buscar clima, notícias e jogos
+      - name: Buscar clima, notícias, jogos e agenda
         run: node scripts/atualizar.mjs
+        env:
+          GOOGLE_AGENDA_URL: ${{ secrets.GOOGLE_AGENDA_URL }}
+          CHAVE_ESTACAO: ${{ secrets.CHAVE_ESTACAO }}
       - name: Salvar data.json
         run: |
           git config user.name "estacao-bot"

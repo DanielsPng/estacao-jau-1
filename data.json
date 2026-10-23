@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-23T19:53:17.562Z",
+ "atualizado": "2026-10-23T22:59:03.973Z",
  "clima": {
-  "temp": 24,
+  "temp": 21,
   "max": 25,
   "min": 18,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Argentina identifica restos mortais de oito desaparecidos da ditadura",
+  "Mundo: Trump diz que EUA vão 'cuidar de Cuba' depois de lidarem com Irã",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Macron diz que ataque a tiros nos arredores de Paris foi ato 'terrorista e racista'",
+  "Mundo: Argentina identifica restos mortais de oito desaparecidos da ditadura",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Eleições nos EUA: governo Trump tenta barrar eventual vitória de democrata ao Senado pelo Alasca",
+  "Mundo: Macron diz que ataque a tiros nos arredores de Paris foi ato 'terrorista e racista'",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Prédio de mais de 10 andares desaba no Quênia; equipes buscam vítimas",
+  "Mundo: Eleições nos EUA: governo Trump tenta barrar eventual vitória de democrata ao Senado pelo Alasca",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Pai de Meghan Markle é investigado por guardar imagens de abuso sexual infantil"
+  "Mundo: Prédio de mais de 10 andares desaba no Quênia; equipes buscam vítimas"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "X4bscrSbs5OuEj9K96JhpQ==",
-  "iv": "PQnJ1P8CG7FOb3h9",
-  "dados": "7n2iqrnHDOw7qiTTGnd/lZpuLhAyBaEItjB05P+n"
+  "sal": "/AcSAMQaI1xArDXtuomMeQ==",
+  "iv": "n7H6BPEkZG3P7Sgf",
+  "dados": "yuXtTkee47w6EeJxQT/8IRUkHH6I0NOzVdG+AohD"
  }
 }

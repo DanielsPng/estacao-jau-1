@@ -1,22 +1,22 @@
 {
- "atualizado": "2026-10-23T00:51:12.520Z",
+ "atualizado": "2026-10-23T05:52:21.460Z",
  "clima": {
-  "temp": 20,
-  "max": 27,
-  "min": 17,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "temp": 19,
+  "max": 29,
+  "min": 19,
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
-  "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
+  "Tecnologia: Qual iPhone 'antigo' comprar quando o novo custa até R$ 31 mil?",
   "Mundo: Parlamentares dos EUA cobram explicações de Zuckerberg sobre ações da Meta na eleição brasileira",
-  "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
+  "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
   "Mundo: Governo Trump cancela vistos de 61 autoridades e ex-integrantes de governos da Bolívia e da Colômbia",
-  "Tecnologia: O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
+  "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
   "Mundo: Milhares protestam em Paris após Justiça derrubar proibição de manifestação",
-  "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
+  "Tecnologia: O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
   "Mundo: Hóspede de Airbnb não será mais obrigado a lavar louça e tirar lixo no check-out",
-  "Tecnologia: Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
+  "Tecnologia: Celular, comparação e diálogo: os desafios de educar adolescentes em uma geração hiperconectada",
   "Mundo: Terremoto de magnitude 7,0 atinge o Tibete e mata 16 pessoas; VÍDEO mostra desespero"
  ],
  "jogos": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "eeKzZUBQrALoSSV7nfwZUQ==",
-  "iv": "ORGOiOViJYrsuLh1",
-  "dados": "O3QtYzGFgzEE3Ow0tG4pZ13j4WQ6+3shJ/SROh3raJTE4+5iwaJ+c3X8n6Ps42u+Nk/BO6SCvAq3qhfDhnTvYMrJLQf98ZuTPcPzlWu/lHXI2VA1YErCv65PhxkWki6vDh6fTYVCBMSBf45ydTSjDfKD26nptxp7M48Q4I+JLvz9NSmo/V84QMoRz4Djng=="
+  "sal": "0oqNPEmWDw0hAK012ZepRQ==",
+  "iv": "9AA74KV/DzDW3Jk6",
+  "dados": "wneyD0aa7Pev++ucgAaeMF3hOTB9ZOWpfxzsIxd/dNufROYJNoj7V+iToWY78qekeQ9BfdSdzCytBUbVBtuY7ownRenA4hZcpz3kzVYz60l/QK7Xde8CLdxL7VKIm4OkS9Decj/MDsVsy1KGnu7pumEbwU9aSyHw33yt0xGQ1lW6f/dAGlWwDKUfS9WOiA=="
  }
 }

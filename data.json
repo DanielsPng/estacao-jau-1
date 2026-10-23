@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-23T11:21:29.146Z",
+ "atualizado": "2026-10-23T15:51:13.981Z",
  "clima": {
-  "temp": 21,
+  "temp": 27,
   "max": 29,
   "min": 18,
   "cond": "chuva",
   "texto": "Chuva"
  },
  "noticias": [
-  "Tecnologia: O jovem que criou portal para localizar desaparecidos em terremoto na Venezuela: 'Ainda não sabemos a extensão dos estragos'",
-  "Mundo: Diplomatas estrangeiros no Brasil avaliam reconhecer rapidamente ganhador das eleições e temem reação de Trump",
-  "Tecnologia: Zumbido que não para: Fantástico mostra como é morar ao lado de um data center nos EUA",
-  "Mundo: Meghan Markle se diz 'profundamente abalada' com acusações de abuso infantil contra o pai",
-  "Tecnologia: Qual iPhone 'antigo' comprar quando o novo custa até R$ 31 mil?",
-  "Mundo: Rússia anuncia negociações trilaterais com Ucrânia e EUA em novembro nos Emirados Árabes",
-  "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
-  "Mundo: Motorista atira contra pedestres e mata uma pessoa e fere 4 nos arredores de Paris",
-  "Tecnologia: Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
-  "Mundo: O jovem que criou portal para localizar desaparecidos em terremoto na Venezuela: 'Ainda não sabemos a extensão dos estragos'"
+  "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
+  "Mundo: Bukele envia forças especiais ao Haiti e ameaça gangues após sequestro de soldados salvadorenhos",
+  "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
+  "Mundo: Grécia aprova proibição de redes sociais para menores de 15 anos",
+  "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
+  "Mundo: STJ determina prisão no Brasil de torturador uruguaio condenado por crimes durante a ditadura militar",
+  "Tecnologia: China pede a órgãos governamentais que reduzam perdas de empregos causadas pela IA",
+  "Mundo: 'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio e Lula",
+  "Tecnologia: Brecha no PHP que tirou sites do ar foi descoberta há dois anos; responsável cita falta de recursos para corrigi-la",
+  "Mundo: Melania consegue cessar-fogo para levar ajuda a cidade ucraniana ocupada pela Rússia, diz Casa Branca"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "4FgTf+jGJSnUHw93nxxG9A==",
-  "iv": "QHxb6WoWrBGFlVjd",
-  "dados": "aF9aSJcTQ0wY2M5cK1clxp1loZ4FbV1FnOlPlMGLmKWcqSV/V2WsZWdjZA71maOW9PKR+2zQvZCMbkXHEIYqPiNfyjeRT6sCrLsO4lsxuqUKB6TPxT1kwx2OmdSZx6XRo+uUV6nwZzrtYu9TRxVlB05Kv0CUbshS5hCSZJNtA08LRBkrRoHbH1LnY80Hdw=="
+  "sal": "ysGAi9kVjepCilE1kgETyA==",
+  "iv": "Us7QbghVAW0IXzYd",
+  "dados": "SybyJGj1Y3pqOGuArDolNzNkHNg8TUHlr+SxUpMo"
  }
 }

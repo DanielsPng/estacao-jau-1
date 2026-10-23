@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-10-22T22:13:29.027Z",
+ "atualizado": "2026-10-23T00:51:12.520Z",
  "clima": {
-  "temp": 23,
-  "max": 28,
+  "temp": 20,
+  "max": 27,
   "min": 17,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "pOl4hOPdcfvhl/DkRKp6eA==",
-  "iv": "56/TCNCjc0bCDab/",
-  "dados": "oGgYGTXkZPhWydxTqdy6n1T1SHOMTfycbCbKMbvQVlhuZN2ca3FJWll0Qzn8IGI78rmcQHnMk1KAfooEHSzZkXuhIcFKyPyEkXeamlRFXrVB2myJuqB0DdFnkTsj2fqpjhjOMTfJWFWucGUk3IrDc7tE1d6mHv1C88Tk3b4b6MTDJGc9nwzjaUNR6yjscg=="
+  "sal": "eeKzZUBQrALoSSV7nfwZUQ==",
+  "iv": "ORGOiOViJYrsuLh1",
+  "dados": "O3QtYzGFgzEE3Ow0tG4pZ13j4WQ6+3shJ/SROh3raJTE4+5iwaJ+c3X8n6Ps42u+Nk/BO6SCvAq3qhfDhnTvYMrJLQf98ZuTPcPzlWu/lHXI2VA1YErCv65PhxkWki6vDh6fTYVCBMSBf45ydTSjDfKD26nptxp7M48Q4I+JLvz9NSmo/V84QMoRz4Djng=="
  }
 }

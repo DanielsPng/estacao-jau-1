@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-10-24T21:06:19.967Z",
+ "atualizado": "2026-10-24T23:34:03.289Z",
  "clima": {
-  "temp": 26,
+  "temp": 22,
   "max": 30,
   "min": 19,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
+  "Mundo: Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Multidões protestam na França, Espanha, Itália, Bélgica e Albânia; confrontos incluem bombas, pedras e prisões",
+  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Após morte de visitante, parque Six Flags anuncia instalação de cintos de segurança em montanhas-russas",
+  "Mundo: Multidões protestam na França, Espanha, Itália, Bélgica e Albânia; confrontos incluem bombas, pedras e prisões",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias",
+  "Mundo: Após morte de visitante, parque Six Flags anuncia instalação de cintos de segurança em montanhas-russas",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Sobe para nove o número de mortos em ataque armado em igreja na Jordânia"
+  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-10-24T19:30Z",
-   "casa": "Mirassol",
+   "quando": "2026-10-29T00:30Z",
+   "casa": "Bahia",
    "fora": "São Paulo",
-   "siglaCasa": "MIR",
+   "siglaCasa": "BAH",
    "siglaFora": "SAO",
    "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estadio Municipal José Maria de Campos Maia",
-   "placar": "1×1",
-   "estado": "in"
+   "local": "Arena Fonte Nova",
+   "placar": null,
+   "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-10-29T00:30Z",
-    "casa": "Bahia",
-    "fora": "São Paulo",
-    "siglaCasa": "BAH",
-    "siglaFora": "SAO",
-    "emCasa": false,
-    "campeonato": "Brasileirão",
-    "local": "Arena Fonte Nova",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2026-11-05T00:30Z",
     "casa": "São Paulo",
@@ -56,18 +44,30 @@
     "local": "Estádio Vila Belmiro (Urbano Caldeira)",
     "placar": null,
     "estado": "pre"
+   },
+   {
+    "quando": "2026-11-18T20:00Z",
+    "casa": "São Paulo",
+    "fora": "Fluminense",
+    "siglaCasa": "SAO",
+    "siglaFora": "FLU",
+    "emCasa": true,
+    "campeonato": "Brasileirão",
+    "local": "Estádio Cícero Pompeu de Toledo",
+    "placar": null,
+    "estado": "pre"
    }
   ],
   "ultimo": {
-   "quando": "2026-10-18T00:00Z",
-   "casa": "São Paulo",
-   "fora": "Vasco",
-   "siglaCasa": "SAO",
-   "siglaFora": "VAS",
-   "emCasa": true,
+   "quando": "2026-10-24T19:30Z",
+   "casa": "Mirassol",
+   "fora": "São Paulo",
+   "siglaCasa": "MIR",
+   "siglaFora": "SAO",
+   "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estádio Cícero Pompeu de Toledo",
-   "placar": "1×0",
+   "local": "Estadio Municipal José Maria de Campos Maia",
+   "placar": "1×1",
    "estado": "post"
   }
  },

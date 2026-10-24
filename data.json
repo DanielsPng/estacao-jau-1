@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-10-23T22:59:03.973Z",
+ "atualizado": "2026-10-24T01:29:44.739Z",
  "clima": {
-  "temp": 21,
+  "temp": 19,
   "max": 25,
   "min": 18,
   "cond": "nuvens",
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "/AcSAMQaI1xArDXtuomMeQ==",
-  "iv": "n7H6BPEkZG3P7Sgf",
-  "dados": "yuXtTkee47w6EeJxQT/8IRUkHH6I0NOzVdG+AohD"
+  "sal": "j8ka9clsNdsRZm0Ppxh7MA==",
+  "iv": "AwirBeZ7FCfdEv6F",
+  "dados": "BCIa5Ws6sVsRIbETB/QkrDKEtT6UeOlf2OFYvwye"
  }
 }

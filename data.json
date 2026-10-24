@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-24T18:00:12.185Z",
+ "atualizado": "2026-10-24T21:06:19.967Z",
  "clima": {
-  "temp": 28,
-  "max": 29,
+  "temp": 26,
+  "max": 30,
   "min": 19,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias",
+  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Sobe para nove o número de mortos em ataque armado em igreja na Jordânia",
+  "Mundo: Multidões protestam na França, Espanha, Itália, Bélgica e Albânia; confrontos incluem bombas, pedras e prisões",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Protestos na Bélgica e na Albânia têm confronto entre manifestantes e policiais; VÍDEO",
+  "Mundo: Após morte de visitante, parque Six Flags anuncia instalação de cintos de segurança em montanhas-russas",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Incêndio atinge 'Ninho da Águia', construção usada por Hitler na Alemanha; veja FOTOS",
+  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula"
+  "Mundo: Sobe para nove o número de mortos em ataque armado em igreja na Jordânia"
  ],
  "jogos": {
   "proximo": {
@@ -29,8 +29,8 @@
    "emCasa": false,
    "campeonato": "Brasileirão",
    "local": "Estadio Municipal José Maria de Campos Maia",
-   "placar": null,
-   "estado": "pre"
+   "placar": "1×1",
+   "estado": "in"
   },
   "seguintes": [
    {

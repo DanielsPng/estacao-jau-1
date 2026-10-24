@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-24T11:28:16.884Z",
+ "atualizado": "2026-10-24T14:49:06.414Z",
  "clima": {
-  "temp": 23,
+  "temp": 27,
   "max": 29,
   "min": 19,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Investigação da BBC revela que anúncios pagos no Facebook espalham desinformação em eleição na Sérvia",
+  "Mundo: Protestos na França: polícia usa gás lacrimogêneo em Lyon e Pau; VÍDEO",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Museus de Paris fecham e lojas montam barricadas em meio à promessa de novos protestos",
+  "Mundo: Ataques sauditas no Iêmen deixam ao menos 10 mortos, diz emissora",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Trump diz que EUA vão 'cuidar de Cuba' depois de lidarem com Irã",
+  "Mundo: Protestos na França: 135 presos e armas apreendidas, anuncia governo",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Argentina identifica restos mortais de oito desaparecidos da ditadura",
+  "Mundo: Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Macron diz que ataque a tiros nos arredores de Paris foi ato 'terrorista e racista'"
+  "Mundo: Ex-funcionários do FBI são acusados de mentir em caso envolvendo filho de Biden"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "+Za3JSt96ZjWXVZGAd7sMA==",
-  "iv": "Zof6ENLDluOVQ6mN",
-  "dados": "a8oZTX+C1hagsVdzo53xzg1PPnvTl8C2lJkRYwxC"
+  "sal": "cL/0Hxlpoby2UIxgK8+Tyw==",
+  "iv": "ETUNwmaGzB1L/xOQ",
+  "dados": "gPfltUETnsgHPLYuLxb+UodtgL+GnMk8k+b+hunb"
  }
 }

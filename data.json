@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-24T14:49:06.414Z",
+ "atualizado": "2026-10-24T18:00:12.185Z",
  "clima": {
-  "temp": 27,
+  "temp": 28,
   "max": 29,
   "min": 19,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Protestos na França: polícia usa gás lacrimogêneo em Lyon e Pau; VÍDEO",
+  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Ataques sauditas no Iêmen deixam ao menos 10 mortos, diz emissora",
+  "Mundo: Sobe para nove o número de mortos em ataque armado em igreja na Jordânia",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Protestos na França: 135 presos e armas apreendidas, anuncia governo",
+  "Mundo: Protestos na Bélgica e na Albânia têm confronto entre manifestantes e policiais; VÍDEO",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
+  "Mundo: Incêndio atinge 'Ninho da Águia', construção usada por Hitler na Alemanha; veja FOTOS",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Ex-funcionários do FBI são acusados de mentir em caso envolvendo filho de Biden"
+  "Mundo: Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "cL/0Hxlpoby2UIxgK8+Tyw==",
-  "iv": "ETUNwmaGzB1L/xOQ",
-  "dados": "gPfltUETnsgHPLYuLxb+UodtgL+GnMk8k+b+hunb"
+  "sal": "sZY2DCa5UpSy3rmSCV3TYg==",
+  "iv": "8WkLS59Hs3yuI7qG",
+  "dados": "3vm9vp/SoWSDfaglDQAIeT90ChUklcyHF+hBGWBB"
  }
 }

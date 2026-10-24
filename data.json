@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-24T06:24:47.808Z",
+ "atualizado": "2026-10-24T11:28:16.884Z",
  "clima": {
-  "temp": 18,
-  "max": 31,
-  "min": 18,
+  "temp": 23,
+  "max": 29,
+  "min": 19,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: França tem novos protestos neste sábado após um mês de manifestações; Governo mobiliza 70 mil agentes",
+  "Mundo: Investigação da BBC revela que anúncios pagos no Facebook espalham desinformação em eleição na Sérvia",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Trump diz que EUA vão 'cuidar de Cuba' depois de lidarem com Irã",
+  "Mundo: Museus de Paris fecham e lojas montam barricadas em meio à promessa de novos protestos",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Argentina identifica restos mortais de oito desaparecidos da ditadura",
+  "Mundo: Trump diz que EUA vão 'cuidar de Cuba' depois de lidarem com Irã",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Macron diz que ataque a tiros nos arredores de Paris foi ato 'terrorista e racista'",
+  "Mundo: Argentina identifica restos mortais de oito desaparecidos da ditadura",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Eleições nos EUA: governo Trump tenta barrar eventual vitória de democrata ao Senado pelo Alasca"
+  "Mundo: Macron diz que ataque a tiros nos arredores de Paris foi ato 'terrorista e racista'"
  ],
  "jogos": {
   "proximo": {
@@ -73,8 +73,8 @@
  },
  "privado": {
   "v": 1,
-  "sal": "QxwzSQwqJl1IYw8SF/o9JQ==",
-  "iv": "PSfxSbukTQJQsw0/",
-  "dados": "LfDQxTeA6mWY5w+9jHc4JrKSQlq2mXivPgix56iS"
+  "sal": "+Za3JSt96ZjWXVZGAd7sMA==",
+  "iv": "Zof6ENLDluOVQ6mN",
+  "dados": "a8oZTX+C1hagsVdzo53xzg1PPnvTl8C2lJkRYwxC"
  }
 }

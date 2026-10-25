@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-25T13:51:58.988Z",
+ "atualizado": "2026-10-25T17:32:10.841Z",
  "clima": {
-  "temp": 23,
+  "temp": 24,
   "max": 28,
   "min": 18,
   "cond": "chuva",
-  "texto": "Chuva"
+  "texto": "Tempestade"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+  "Mundo: Líder da oposição, María Corina Machado volta à Venezuela após quase um ano no exílio",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026?",
+  "Mundo: Após ridicularizar voto antecipado, Trump vota 10 dias antes nas eleições parlamentares nos EUA",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Votação no exterior: quem ganhou na China no 2º turno das eleições 2026?",
+  "Mundo: ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e na Malásia",
+  "Mundo: Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026?",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York"
+  "Mundo: Votação no exterior: quem ganhou na China no 2º turno das eleições 2026?"
  ],
  "jogos": {
   "proximo": {

@@ -1,15 +1,15 @@
 {
- "atualizado": "2026-10-25T04:09:52.878Z",
+ "atualizado": "2026-10-25T09:19:14.371Z",
  "clima": {
-  "temp": 22,
-  "max": 26,
+  "temp": 21,
+  "max": 27,
   "min": 18,
-  "cond": "chuva",
-  "texto": "Tempestade"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Votação no exterior: acompanhe os resultados do 2º turno entre Lula e Flávio Bolsonaro",
+  "Mundo: Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia e na Coreia do Sul; acompanhe",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
   "Mundo: Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",

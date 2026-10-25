@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-25T09:19:14.371Z",
+ "atualizado": "2026-10-25T13:51:58.988Z",
  "clima": {
-  "temp": 21,
-  "max": 27,
+  "temp": 23,
+  "max": 28,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia e na Coreia do Sul; acompanhe",
+  "Mundo: ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York",
+  "Mundo: Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026?",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Kim Jong-un encerra visita à China em gesto de aproximação com Pequim",
+  "Mundo: Votação no exterior: quem ganhou na China no 2º turno das eleições 2026?",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
+  "Mundo: Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e na Malásia",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques"
+  "Mundo: Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York"
  ],
  "jogos": {
   "proximo": {

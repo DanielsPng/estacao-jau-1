@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-24T23:34:03.289Z",
+ "atualizado": "2026-10-25T04:09:52.878Z",
  "clima": {
   "temp": 22,
-  "max": 30,
-  "min": 19,
+  "max": 26,
+  "min": 18,
   "cond": "chuva",
-  "texto": "Chuva"
+  "texto": "Tempestade"
  },
  "noticias": [
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
+  "Mundo: Votação no exterior: acompanhe os resultados do 2º turno entre Lula e Flávio Bolsonaro",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
+  "Mundo: Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Multidões protestam na França, Espanha, Itália, Bélgica e Albânia; confrontos incluem bombas, pedras e prisões",
+  "Mundo: Kim Jong-un encerra visita à China em gesto de aproximação com Pequim",
   "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Após morte de visitante, parque Six Flags anuncia instalação de cintos de segurança em montanhas-russas",
+  "Mundo: Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
   "Tecnologia: Google vai pagar a quem usar menos energia elétrica para aproveitar as sobras em seus data centers",
-  "Mundo: Milhares de pessoas protestam em Madri em defesa das aposentadorias"
+  "Mundo: Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques"
  ],
  "jogos": {
   "proximo": {

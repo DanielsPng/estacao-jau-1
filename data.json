@@ -1,13 +1,15 @@
 {
- "atualizado": "2026-10-25T20:40:12.151Z",
+ "atualizado": "2026-10-25T23:07:10.378Z",
  "clima": {
-  "temp": 23,
+  "temp": 21,
   "max": 24,
   "min": 19,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: É #FAKE que assinatura de eleitor em caderno de votação pode servir para comprovar eventual fraude nas urnas",
+  "Mundo: Imprensa internacional repercute prolongamento da votação no Brasil",
   "Tecnologia: É #FAKE foto de mulher rasgando bandeira de Nossa Senhora Aparecida em ato de apoio a Flávio Bolsonaro; cena foi criada com IA",
   "Mundo: Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
@@ -15,9 +17,7 @@
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
   "Mundo: Votação em Portugal: adolescente brasileira é agredida em Lisboa",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Líder da oposição, María Corina Machado volta à Venezuela após quase um ano no exílio",
-  "Tecnologia: Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-  "Mundo: Após ridicularizar voto antecipado, Trump vota 10 dias antes nas eleições parlamentares nos EUA"
+  "Mundo: Líder da oposição, María Corina Machado volta à Venezuela após quase um ano no exílio"
  ],
  "jogos": {
   "proximo": {

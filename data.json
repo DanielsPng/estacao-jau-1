@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-26T01:32:32.182Z",
+ "atualizado": "2026-10-26T07:38:24.642Z",
  "clima": {
-  "temp": 21,
+  "temp": 17,
   "max": 24,
-  "min": 20,
+  "min": 15,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Memes: Lula é reeleito após virada inédita apoiadores inundam a web com brincadeiras e celebração do 'tetra'",
+  "Mundo: Peru, Chile, Equador, Bolívia, Paraguai: líderes da direita parabenizam Lula, que contrariou a 'onda azul' na América Latina",
   "Tecnologia: É #FAKE que assinatura de eleitor em caderno de votação pode servir para comprovar eventual fraude nas urnas",
-  "Mundo: Presidentes de México, Uruguai, Bolívia e Paraguai parabenizam Lula; veja repercussão",
+  "Mundo: Presidentes de Canadá, Peru, Chile, Bolívia e Paraguai parabenizam Lula; veja repercussão",
   "Tecnologia: É #FAKE foto de mulher rasgando bandeira de Nossa Senhora Aparecida em ato de apoio a Flávio Bolsonaro; cena foi criada com IA",
   "Mundo: Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil",
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
   "Mundo: Imprensa internacional repercute prolongamento da votação no Brasil",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
-  "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Votação no exterior: quem ganhou em Portugal no 2º turno das eleições 2026?"
+  "Mundo: Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?"
  ],
  "jogos": {
   "proximo": {

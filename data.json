@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-26T15:02:29.727Z",
+ "atualizado": "2026-10-26T20:41:44.702Z",
  "clima": {
-  "temp": 24,
+  "temp": 22,
   "max": 25,
   "min": 15,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: 'Crackgate': imprensa internacional relata telas quebradas do iPhone Duo, que custa até R$ 31 mil",
+  "Mundo: Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral",
+  "Tecnologia: Microsoft oferece plano de demissão voluntária a 60 mil funcionários em quatro países",
+  "Mundo: Assessor de Lula diz que Trump 'está mal informado': 'Quem tentou fraudar a eleição foi a Meta'",
   "Tecnologia: Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
-  "Mundo: Lula venceu em 62 países; Flávio Bolsonaro, em 38: MAPA mostra como foi a eleição no exterior",
+  "Mundo: Da 'ótima química' ao tarifaço: relembre a relação de vaivém entre Trump e Lula",
   "Tecnologia: Meta quer levantar US$ 35 bilhões para financiar seus planos de inteligência artificial",
-  "Mundo: Trump chama Noruega de 'lixo' durante comício demonstrando irritação por não ter recebido o Nobel da Paz",
+  "Mundo: Sem apresentar provas, Trump diz que eleição no Brasil 'pareceu fraudada' e afirma que 'gosta do Lula'",
   "Tecnologia: Modelo de IA da Anthropic acessou dados de eleitores dos EUA",
-  "Mundo: O que silêncio de Trump sobre vitória de Lula diz sobre relação entre Brasil e EUA",
-  "Tecnologia: Memes: Lula é reeleito após virada inédita apoiadores inundam a web com brincadeiras e celebração do 'tetra'",
-  "Mundo: Lula vira em Nova York, e Flávio vence em Orlando e 5 cidades: veja como foi o 2º turno nos EUA",
-  "Tecnologia: É #FAKE que assinatura de eleitor em caderno de votação pode servir para comprovar eventual fraude nas urnas",
-  "Mundo: Presidente da Audi é acusado de violar regras da empresa ao aparecer com Trump em comício eleitoral"
+  "Mundo: Presidente da Venezuela acusa María Corina Machado de transformar sua volta ao país em 'espetáculo'"
  ],
  "jogos": {
   "proximo": {

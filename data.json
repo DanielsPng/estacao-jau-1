@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-25T23:07:10.378Z",
+ "atualizado": "2026-10-26T01:32:32.182Z",
  "clima": {
   "temp": 21,
   "max": 24,
-  "min": 19,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "min": 20,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: É #FAKE que assinatura de eleitor em caderno de votação pode servir para comprovar eventual fraude nas urnas",
-  "Mundo: Imprensa internacional repercute prolongamento da votação no Brasil",
+  "Mundo: Presidentes de México, Uruguai, Bolívia e Paraguai parabenizam Lula; veja repercussão",
   "Tecnologia: É #FAKE foto de mulher rasgando bandeira de Nossa Senhora Aparecida em ato de apoio a Flávio Bolsonaro; cena foi criada com IA",
-  "Mundo: Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
+  "Mundo: Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil",
   "Tecnologia: Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-  "Mundo: Votação no exterior: quem ganhou em Portugal no 2º turno das eleições 2026?",
+  "Mundo: Imprensa internacional repercute prolongamento da votação no Brasil",
   "Tecnologia: Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-  "Mundo: Votação em Portugal: adolescente brasileira é agredida em Lisboa",
+  "Mundo: Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
   "Tecnologia: Grécia aprova proibição de redes sociais para menores de 15 anos",
-  "Mundo: Líder da oposição, María Corina Machado volta à Venezuela após quase um ano no exílio"
+  "Mundo: Votação no exterior: quem ganhou em Portugal no 2º turno das eleições 2026?"
  ],
  "jogos": {
   "proximo": {

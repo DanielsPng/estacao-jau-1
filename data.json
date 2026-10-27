@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-26T20:41:44.702Z",
+ "atualizado": "2026-10-27T00:18:30.221Z",
  "clima": {
-  "temp": 22,
+  "temp": 17,
   "max": 25,
   "min": 15,
   "cond": "sol",
-  "texto": "Céu limpo"
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
+  "Mundo: Governo Trump processa ex-diretor do FBI que supostamente ameaçou Trump e mentiu ao Congresso",
   "Tecnologia: 'Crackgate': imprensa internacional relata telas quebradas do iPhone Duo, que custa até R$ 31 mil",
-  "Mundo: Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral",
+  "Mundo: Após mínima histórica, aprovação de Trump sobe 1% e chega a 32% antes das eleições nos EUA",
   "Tecnologia: Microsoft oferece plano de demissão voluntária a 60 mil funcionários em quatro países",
-  "Mundo: Assessor de Lula diz que Trump 'está mal informado': 'Quem tentou fraudar a eleição foi a Meta'",
+  "Mundo: Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral",
   "Tecnologia: Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
-  "Mundo: Da 'ótima química' ao tarifaço: relembre a relação de vaivém entre Trump e Lula",
+  "Mundo: Assessor de Lula diz que Trump 'está mal informado': 'Quem tentou fraudar a eleição foi a Meta'",
   "Tecnologia: Meta quer levantar US$ 35 bilhões para financiar seus planos de inteligência artificial",
-  "Mundo: Sem apresentar provas, Trump diz que eleição no Brasil 'pareceu fraudada' e afirma que 'gosta do Lula'",
-  "Tecnologia: Modelo de IA da Anthropic acessou dados de eleitores dos EUA",
-  "Mundo: Presidente da Venezuela acusa María Corina Machado de transformar sua volta ao país em 'espetáculo'"
+  "Mundo: Da 'ótima química' ao tarifaço: relembre a relação de vaivém entre Trump e Lula"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-27T16:19:39.691Z",
+ "atualizado": "2026-10-27T20:53:25.442Z",
  "clima": {
-  "temp": 24,
+  "temp": 22,
   "max": 24,
   "min": 13,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Autenticação digital sem fricção: como validar identidades sem complicar a jornada",
+  "Mundo: Eleições em Israel: urnas são fechadas, e pesquisas de boca de urna indicam impasse",
+  "Tecnologia: Trump diz que vai proibir o termo 'inteligência artificial'",
+  "Mundo: Governo retoma análise de pedidos de aval para embaixadores; situação de indicado dos EUA segue indefinida",
   "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Governo Milei diz que não comentará vitória de Lula",
+  "Mundo: Sem apresentar provas, Netanyahu alega tentativa de fraude nas eleições em Israel",
   "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
-  "Mundo: Imprensa espanhola vê com cautela aposta de Sánchez na fórmula da campanha de Lula, impulsionada por Janones",
+  "Mundo: Reuters e NYT dizem que Flávio Bolsonaro está a caminho dos EUA, segundo fontes anônimas",
   "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: Justiça italiana adia audiência sobre extradição de Carla Zambelli",
-  "Tecnologia: 'Crackgate': imprensa internacional relata telas quebradas do iPhone Duo, que custa até R$ 31 mil",
-  "Mundo: Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país",
-  "Tecnologia: Microsoft oferece plano de demissão voluntária a 60 mil funcionários em quatro países",
-  "Mundo: Meme 'Mbappé ditador' faz empresas chinesas romperem contratos com o jogador francês; entenda"
+  "Mundo: EUA anunciam 5 mortos em novo ataque contra suposta lancha do narcotráfico no Pacífico"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-27T10:52:37.379Z",
+ "atualizado": "2026-10-27T16:19:39.691Z",
  "clima": {
-  "temp": 16,
-  "max": 23,
+  "temp": 24,
+  "max": 24,
   "min": 13,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Quem é Gadi Eisenkot, principal adversário de Benjamin Netanyahu nas eleições legislativas de Israel",
+  "Mundo: Governo Milei diz que não comentará vitória de Lula",
   "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
-  "Mundo: Xi Jinping, da China, parabeniza Lula por reeleição e fala em 'relação mais proeminente' com Brasil",
+  "Mundo: Imprensa espanhola vê com cautela aposta de Sánchez na fórmula da campanha de Lula, impulsionada por Janones",
   "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: Israel vai às urnas pela 1ª vez após a guerra em Gaza, em disputa acirrada que definirá o futuro de Netanyahu",
+  "Mundo: Justiça italiana adia audiência sobre extradição de Carla Zambelli",
   "Tecnologia: 'Crackgate': imprensa internacional relata telas quebradas do iPhone Duo, que custa até R$ 31 mil",
-  "Mundo: Justiça suspende corte de árvores em campo de golfe que Trump quer reformar em Washington",
+  "Mundo: Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país",
   "Tecnologia: Microsoft oferece plano de demissão voluntária a 60 mil funcionários em quatro países",
-  "Mundo: Casos de Ebola passam de 10 mil no Congo"
+  "Mundo: Meme 'Mbappé ditador' faz empresas chinesas romperem contratos com o jogador francês; entenda"
  ],
  "jogos": {
   "proximo": {

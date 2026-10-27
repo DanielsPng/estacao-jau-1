@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-27T05:27:46.913Z",
+ "atualizado": "2026-10-27T10:52:37.379Z",
  "clima": {
-  "temp": 14,
+  "temp": 16,
   "max": 23,
-  "min": 14,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "min": 13,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
+  "Mundo: Quem é Gadi Eisenkot, principal adversário de Benjamin Netanyahu nas eleições legislativas de Israel",
+  "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
+  "Mundo: Xi Jinping, da China, parabeniza Lula por reeleição e fala em 'relação mais proeminente' com Brasil",
   "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: Taxação de bilionários: eleitores da Califórnia podem aprovar primeiro imposto do tipo no mundo?",
+  "Mundo: Israel vai às urnas pela 1ª vez após a guerra em Gaza, em disputa acirrada que definirá o futuro de Netanyahu",
   "Tecnologia: 'Crackgate': imprensa internacional relata telas quebradas do iPhone Duo, que custa até R$ 31 mil",
-  "Mundo: Milei é o único presidente da América do Sul a não reconhecer vitória de Lula",
+  "Mundo: Justiça suspende corte de árvores em campo de golfe que Trump quer reformar em Washington",
   "Tecnologia: Microsoft oferece plano de demissão voluntária a 60 mil funcionários em quatro países",
-  "Mundo: Eleição em Israel equivale a julgamento popular de Netanyahu",
-  "Tecnologia: Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
-  "Mundo: Jordânia ataca grupos terroristas na Síria após atentado contra igreja; 8 morrem em bombardeios",
-  "Tecnologia: Meta quer levantar US$ 35 bilhões para financiar seus planos de inteligência artificial",
-  "Mundo: Governo Trump processa ex-diretor do FBI que supostamente ameaçou Trump e mentiu ao Congresso"
+  "Mundo: Casos de Ebola passam de 10 mil no Congo"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-28T06:08:54.068Z",
+ "atualizado": "2026-10-28T13:25:38.079Z",
  "clima": {
-  "temp": 16,
+  "temp": 23,
   "max": 27,
-  "min": 15,
+  "min": 16,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia",
+  "Mundo: 'Confusão sobre paradeiro de Flávio Bolsonaro': imprensa mundial repercute fuga de senador para os EUA",
+  "Tecnologia: Anthropic se prepara para um dos maiores IPOs da história; veja ranking",
+  "Mundo: VÍDEO: imagens aéreas mostram dimensão do acidente com trens na Espanha",
   "Tecnologia: Autenticação digital sem fricção: como validar identidades sem complicar a jornada",
-  "Mundo: Trump diz que aprova ida de Flávio Bolsonaro aos EUA",
+  "Mundo: Viera se reúne com Marco Rubio nesta semana, após Trump não reconhecer resultado das eleições",
   "Tecnologia: Trump diz que vai proibir o termo 'inteligência artificial'",
-  "Mundo: Flávio Bolsonaro e família cruzam fronteira e seguem em voo privado para o Equador, diz Migração argentina",
+  "Mundo: Partidos árabes ganham poder de barganha em Israel",
   "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Inspirados no ‘Exército do Lula’ de Janones, ativistas criam canais na França, Espanha e Argentina",
-  "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
-  "Mundo: Flávio Bolsonaro chega aos EUA, diz BBC",
-  "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal"
+  "Mundo: Voo de Flávio Bolsonaro entra no espaço aéreo dos EUA; VEJA rota"
  ],
  "jogos": {
   "proximo": {

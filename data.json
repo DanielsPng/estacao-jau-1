@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-28T13:25:38.079Z",
+ "atualizado": "2026-10-28T19:02:18.510Z",
  "clima": {
   "temp": 23,
   "max": 27,
   "min": 16,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
-  "Tecnologia: Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia",
-  "Mundo: 'Confusão sobre paradeiro de Flávio Bolsonaro': imprensa mundial repercute fuga de senador para os EUA",
-  "Tecnologia: Anthropic se prepara para um dos maiores IPOs da história; veja ranking",
-  "Mundo: VÍDEO: imagens aéreas mostram dimensão do acidente com trens na Espanha",
-  "Tecnologia: Autenticação digital sem fricção: como validar identidades sem complicar a jornada",
-  "Mundo: Viera se reúne com Marco Rubio nesta semana, após Trump não reconhecer resultado das eleições",
-  "Tecnologia: Trump diz que vai proibir o termo 'inteligência artificial'",
-  "Mundo: Partidos árabes ganham poder de barganha em Israel",
-  "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Voo de Flávio Bolsonaro entra no espaço aéreo dos EUA; VEJA rota"
+  "Tecnologia: Anatel vai exigir prova de vida de donos de linhas de celular; veja como vai funcionar",
+  "Mundo: Flávio Bolsonaro usou passaporte diplomático cancelado para entrar nos EUA",
+  "Tecnologia: Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
+  "Mundo: Fed mantém juros dos EUA na faixa de 3,75% a 4% ao ano a poucos dias das eleições para o Congresso",
+  "Tecnologia: Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
+  "Mundo: Empresa de jatinho usado por Flávio Bolsonaro é investigada por esquema envolvendo irmã de Milei",
+  "Tecnologia: Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
+  "Mundo: Britânica era drogada pelo marido para ser violada por outros homens: 'Jamais teria aceitado'",
+  "Tecnologia: Snapchat é julgado nos EUA pela primeira vez em caso de dependência em redes sociais",
+  "Mundo: Flávio Bolsonaro chega aos EUA; ACOMPANHE"
  ],
  "jogos": {
   "proximo": {

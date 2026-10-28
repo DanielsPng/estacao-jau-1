@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-27T20:53:25.442Z",
+ "atualizado": "2026-10-28T00:22:00.327Z",
  "clima": {
-  "temp": 22,
+  "temp": 19,
   "max": 24,
   "min": 13,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Autenticação digital sem fricção: como validar identidades sem complicar a jornada",
-  "Mundo: Eleições em Israel: urnas são fechadas, e pesquisas de boca de urna indicam impasse",
+  "Mundo: Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal",
   "Tecnologia: Trump diz que vai proibir o termo 'inteligência artificial'",
-  "Mundo: Governo retoma análise de pedidos de aval para embaixadores; situação de indicado dos EUA segue indefinida",
+  "Mundo: FMI fecha acordo com a Argentina e pode liberar mais US$ 900 milhões ao país",
   "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Sem apresentar provas, Netanyahu alega tentativa de fraude nas eleições em Israel",
+  "Mundo: Trump volta a falar, sem provas, em fraude na eleição no Brasil",
   "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
-  "Mundo: Reuters e NYT dizem que Flávio Bolsonaro está a caminho dos EUA, segundo fontes anônimas",
+  "Mundo: Governo Trump dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA",
   "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: EUA anunciam 5 mortos em novo ataque contra suposta lancha do narcotráfico no Pacífico"
+  "Mundo: Eleições em Israel: urnas são fechadas, e pesquisas de boca de urna indicam impasse"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-28T00:22:00.327Z",
+ "atualizado": "2026-10-28T06:08:54.068Z",
  "clima": {
-  "temp": 19,
-  "max": 24,
-  "min": 13,
+  "temp": 16,
+  "max": 27,
+  "min": 15,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Autenticação digital sem fricção: como validar identidades sem complicar a jornada",
-  "Mundo: Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal",
+  "Mundo: Trump diz que aprova ida de Flávio Bolsonaro aos EUA",
   "Tecnologia: Trump diz que vai proibir o termo 'inteligência artificial'",
-  "Mundo: FMI fecha acordo com a Argentina e pode liberar mais US$ 900 milhões ao país",
+  "Mundo: Flávio Bolsonaro e família cruzam fronteira e seguem em voo privado para o Equador, diz Migração argentina",
   "Tecnologia: Empresas recorrem à religião para ensinar ética à IA",
-  "Mundo: Trump volta a falar, sem provas, em fraude na eleição no Brasil",
+  "Mundo: Inspirados no ‘Exército do Lula’ de Janones, ativistas criam canais na França, Espanha e Argentina",
   "Tecnologia: Celular com Android: saiba configurações para comprar um aparelho que dura mais e não trava",
-  "Mundo: Governo Trump dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA",
+  "Mundo: Flávio Bolsonaro chega aos EUA, diz BBC",
   "Tecnologia: Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
-  "Mundo: Eleições em Israel: urnas são fechadas, e pesquisas de boca de urna indicam impasse"
+  "Mundo: Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal"
  ],
  "jogos": {
   "proximo": {

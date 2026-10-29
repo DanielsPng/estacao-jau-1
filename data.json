@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-28T23:27:05.753Z",
+ "atualizado": "2026-10-29T02:44:42.543Z",
  "clima": {
-  "temp": 21,
+  "temp": 20,
   "max": 27,
   "min": 16,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Anatel vai exigir prova de vida para validar linhas de celular; veja como vai funcionar",
-  "Mundo: Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA",
+  "Mundo: Deputados argentinos acusam Milei de facilitar fuga de Flávio e pedem reconhecimento da vitória de Lula",
   "Tecnologia: Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
-  "Mundo: Trump evita apoiar declaração de Flávio Bolsonaro de que é o verdadeiro presidente do Brasil: 'Não vou me envolver'",
+  "Mundo: Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA",
   "Tecnologia: Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
-  "Mundo: Democratas bolaram 'plano secreto' para confundir eleitores do Alasca, diz jornal; Trump reage nas redes",
+  "Mundo: Trump evita apoiar declaração de Flávio Bolsonaro de que é o verdadeiro presidente do Brasil: 'Não vou me envolver'",
   "Tecnologia: Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
-  "Mundo: Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+  "Mundo: Democratas bolaram 'plano secreto' para confundir eleitores do Alasca, diz jornal; Trump reage nas redes",
   "Tecnologia: Snapchat é julgado nos EUA pela primeira vez em caso de dependência em redes sociais",
-  "Mundo: Sem apresentar provas, partido de Netanyahu acusa grupos árabes de fraudar eleições em Israel"
+  "Mundo: Flávio Bolsonaro chega aos EUA; ACOMPANHE"
  ],
  "jogos": {
   "proximo": {
@@ -29,8 +29,8 @@
    "emCasa": false,
    "campeonato": "Brasileirão",
    "local": "Arena Fonte Nova",
-   "placar": null,
-   "estado": "pre"
+   "placar": "3×2",
+   "estado": "post"
   },
   "seguintes": [
    {
@@ -59,15 +59,15 @@
    }
   ],
   "ultimo": {
-   "quando": "2026-10-24T19:30Z",
-   "casa": "Mirassol",
+   "quando": "2026-10-29T00:30Z",
+   "casa": "Bahia",
    "fora": "São Paulo",
-   "siglaCasa": "MIR",
+   "siglaCasa": "BAH",
    "siglaFora": "SAO",
    "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estadio Municipal José Maria de Campos Maia",
-   "placar": "1×1",
+   "local": "Arena Fonte Nova",
+   "placar": "3×2",
    "estado": "post"
   }
  },

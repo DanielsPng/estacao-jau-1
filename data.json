@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-29T16:48:10.398Z",
+ "atualizado": "2026-10-29T21:42:18.670Z",
  "clima": {
-  "temp": 25,
-  "max": 24,
+  "temp": 21,
+  "max": 22,
   "min": 18,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
+  "Mundo: Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
   "Tecnologia: 'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
-  "Mundo: Coreia do Norte lança cerca de 10 mísseis balísticos em direção ao mar na costa leste, afirma Seul",
+  "Mundo: María Corina Machado diz que EUA sugeriram eleições presidenciais na Venezuela em 2027",
   "Tecnologia: Governo Trump aponta plano de espionagem chinês contra CEO da Nvidia, diz jornal",
-  "Mundo: Por que as eleições nos EUA e em Israel têm consequências globais",
+  "Mundo: Principal comandante militar dos EUA apresenta a Trump opções de ataque ao Irã, diz jornal",
+  "Tecnologia: MPT processa Meta em R$ 50 milhões e quer remoção imediata de conteúdos de assédio eleitoral",
+  "Mundo: Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro",
   "Tecnologia: Vazamento expõe dados de mais de 40 mil funcionários da segurança dos EUA",
-  "Mundo: Brasileira está entre os feridos por acidente com trens de alta velocidade na Espanha",
-  "Tecnologia: Anatel vai exigir prova de vida para validar linhas de celular; veja como vai funcionar",
-  "Mundo: Presidente da Venezuela diz que vai oferecer ativos estatais ao setor privado e a antigos proprietários",
-  "Tecnologia: Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
-  "Mundo: Trump diz que não tomou partido nas eleições no Brasil a pedido de Lula"
+  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms"
  ],
  "jogos": {
   "proximo": {

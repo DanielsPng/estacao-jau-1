@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-29T09:43:09.967Z",
+ "atualizado": "2026-10-29T16:48:10.398Z",
  "clima": {
-  "temp": 18,
+  "temp": 25,
   "max": 24,
   "min": 18,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: 'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
+  "Mundo: Coreia do Norte lança cerca de 10 mísseis balísticos em direção ao mar na costa leste, afirma Seul",
+  "Tecnologia: Governo Trump aponta plano de espionagem chinês contra CEO da Nvidia, diz jornal",
+  "Mundo: Por que as eleições nos EUA e em Israel têm consequências globais",
+  "Tecnologia: Vazamento expõe dados de mais de 40 mil funcionários da segurança dos EUA",
+  "Mundo: Brasileira está entre os feridos por acidente com trens de alta velocidade na Espanha",
   "Tecnologia: Anatel vai exigir prova de vida para validar linhas de celular; veja como vai funcionar",
-  "Mundo: Rússia testa míssil nuclear intercontinental disparado por submarino",
+  "Mundo: Presidente da Venezuela diz que vai oferecer ativos estatais ao setor privado e a antigos proprietários",
   "Tecnologia: Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
-  "Mundo: Eleições de meio de mandato nos EUA: como funciona o sistema eleitoral americano?",
-  "Tecnologia: Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
-  "Mundo: Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
-  "Tecnologia: Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
-  "Mundo: Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes?",
-  "Tecnologia: Snapchat é julgado nos EUA pela primeira vez em caso de dependência em redes sociais",
-  "Mundo: Ciclone na costa leste da Índia deixa ao menos seis mortos"
+  "Mundo: Trump diz que não tomou partido nas eleições no Brasil a pedido de Lula"
  ],
  "jogos": {
   "proximo": {

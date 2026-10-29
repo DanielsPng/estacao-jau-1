@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-10-29T02:44:42.543Z",
+ "atualizado": "2026-10-29T09:43:09.967Z",
  "clima": {
-  "temp": 20,
-  "max": 27,
-  "min": 16,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "temp": 18,
+  "max": 24,
+  "min": 18,
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Anatel vai exigir prova de vida para validar linhas de celular; veja como vai funcionar",
-  "Mundo: Deputados argentinos acusam Milei de facilitar fuga de Flávio e pedem reconhecimento da vitória de Lula",
+  "Mundo: Rússia testa míssil nuclear intercontinental disparado por submarino",
   "Tecnologia: Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
-  "Mundo: Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA",
+  "Mundo: Eleições de meio de mandato nos EUA: como funciona o sistema eleitoral americano?",
   "Tecnologia: Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
-  "Mundo: Trump evita apoiar declaração de Flávio Bolsonaro de que é o verdadeiro presidente do Brasil: 'Não vou me envolver'",
+  "Mundo: Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
   "Tecnologia: Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
-  "Mundo: Democratas bolaram 'plano secreto' para confundir eleitores do Alasca, diz jornal; Trump reage nas redes",
+  "Mundo: Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes?",
   "Tecnologia: Snapchat é julgado nos EUA pela primeira vez em caso de dependência em redes sociais",
-  "Mundo: Flávio Bolsonaro chega aos EUA; ACOMPANHE"
+  "Mundo: Ciclone na costa leste da Índia deixa ao menos seis mortos"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-10-29T00:30Z",
-   "casa": "Bahia",
-   "fora": "São Paulo",
-   "siglaCasa": "BAH",
-   "siglaFora": "SAO",
-   "emCasa": false,
+   "quando": "2026-11-05T00:30Z",
+   "casa": "São Paulo",
+   "fora": "Corinthians",
+   "siglaCasa": "SAO",
+   "siglaFora": "COR",
+   "emCasa": true,
    "campeonato": "Brasileirão",
-   "local": "Arena Fonte Nova",
-   "placar": "3×2",
-   "estado": "post"
+   "local": "Estádio Vila Belmiro (Urbano Caldeira)",
+   "placar": null,
+   "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-11-05T00:30Z",
-    "casa": "São Paulo",
-    "fora": "Corinthians",
-    "siglaCasa": "SAO",
-    "siglaFora": "COR",
-    "emCasa": true,
-    "campeonato": "Brasileirão",
-    "local": "Estádio Vila Belmiro (Urbano Caldeira)",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2026-11-18T20:00Z",
     "casa": "São Paulo",
@@ -54,6 +42,18 @@
     "emCasa": true,
     "campeonato": "Brasileirão",
     "local": "Estádio Cícero Pompeu de Toledo",
+    "placar": null,
+    "estado": "pre"
+   },
+   {
+    "quando": "2026-11-21T20:00Z",
+    "casa": "Botafogo",
+    "fora": "São Paulo",
+    "siglaCasa": "BOT",
+    "siglaFora": "SAO",
+    "emCasa": false,
+    "campeonato": "Brasileirão",
+    "local": "Joao Havelange Stadium",
     "placar": null,
     "estado": "pre"
    }

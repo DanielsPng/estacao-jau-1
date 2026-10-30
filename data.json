@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-30T01:46:20.170Z",
+ "atualizado": "2026-10-30T08:24:34.260Z",
  "clima": {
-  "temp": 19,
-  "max": 22,
-  "min": 18,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "temp": 17,
+  "max": 28,
+  "min": 17,
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Governo questiona Meta sobre perfis derrubados no Instagram antes das eleições",
+  "Mundo: Insatisfação com Trump abre espaço para avanço democrata entre Latinos no Texas",
+  "Tecnologia: LED, Mini LED, QLED e OLED: entenda as diferenças tecnológicas antes de comprar uma TV nova",
+  "Mundo: Xi promove expurgo no Partido Comunista da China e classifica corrupção como 'maior ameaça'",
+  "Tecnologia: Justiça do Trabalho manda Meta remover publicações que incentivam demissão por causa do voto",
+  "Mundo: Canais estrangeiros inspirados no 'Exército do Lula' de Janones dobram de tamanho em dois dias",
   "Tecnologia: Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
-  "Mundo: VÍDEO mostra briga generalizada entre deputados no Parlamento da Armênia",
+  "Mundo: Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
   "Tecnologia: 'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
-  "Mundo: Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
-  "Tecnologia: Governo Trump aponta plano de espionagem chinês contra CEO da Nvidia, diz jornal",
-  "Mundo: María Corina Machado diz que EUA sugeriram eleições presidenciais na Venezuela em 2027",
-  "Tecnologia: MPT processa Meta em R$ 50 milhões e quer remoção imediata de conteúdos de assédio eleitoral",
-  "Mundo: Principal comandante militar dos EUA apresenta a Trump opções de ataque ao Irã, diz jornal",
-  "Tecnologia: Vazamento expõe dados de mais de 40 mil funcionários da segurança dos EUA",
-  "Mundo: Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro"
+  "Mundo: Cortes em programas sociais alimentam rejeição a Trump e podem influenciar eleições nos EUA"
  ],
  "jogos": {
   "proximo": {

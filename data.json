@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-30T08:24:34.260Z",
+ "atualizado": "2026-10-30T15:14:57.340Z",
  "clima": {
-  "temp": 17,
-  "max": 28,
-  "min": 17,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "temp": 26,
+  "max": 27,
+  "min": 18,
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
-  "Tecnologia: Governo questiona Meta sobre perfis derrubados no Instagram antes das eleições",
-  "Mundo: Insatisfação com Trump abre espaço para avanço democrata entre Latinos no Texas",
-  "Tecnologia: LED, Mini LED, QLED e OLED: entenda as diferenças tecnológicas antes de comprar uma TV nova",
-  "Mundo: Xi promove expurgo no Partido Comunista da China e classifica corrupção como 'maior ameaça'",
-  "Tecnologia: Justiça do Trabalho manda Meta remover publicações que incentivam demissão por causa do voto",
-  "Mundo: Canais estrangeiros inspirados no 'Exército do Lula' de Janones dobram de tamanho em dois dias",
-  "Tecnologia: Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
-  "Mundo: Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
-  "Tecnologia: 'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
-  "Mundo: Cortes em programas sociais alimentam rejeição a Trump e podem influenciar eleições nos EUA"
+  "Tecnologia: China rebate EUA e nega ter espionado CEO da Nvidia",
+  "Mundo: Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto",
+  "Tecnologia: Coreia do Sul criminalizará uso de óculos inteligentes em provas",
+  "Mundo: Novaya Gazeta, principal jornal de oposição da Rússia fundado por Nobel da Paz, anuncia fechamento: 'Nos mataram'",
+  "Tecnologia: Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilhões",
+  "Mundo: Papa Leão XIV vota por correspondência nas eleições dos EUA",
+  "Tecnologia: Hackers roubam R$ 34 bilhões em criptomoedas da Binance; veja os maiores ataques já registrados",
+  "Mundo: Mulher que sobreviveu a injeção letal nos EUA diz ter acordado 'confusa e com dor'",
+  "Tecnologia: Governo questionou Meta sobre perfis derrubados no Instagram antes das eleições",
+  "Mundo: 'Chaminés' desabam em principal ponto turístico da Capadócia, na Turquia, e deixam dois mortos"
  ],
  "jogos": {
   "proximo": {
@@ -34,7 +34,7 @@
   },
   "seguintes": [
    {
-    "quando": "2026-11-18T20:00Z",
+    "quando": "2026-11-20T00:30Z",
     "casa": "São Paulo",
     "fora": "Fluminense",
     "siglaCasa": "SAO",
@@ -46,7 +46,7 @@
     "estado": "pre"
    },
    {
-    "quando": "2026-11-21T20:00Z",
+    "quando": "2026-11-23T23:00Z",
     "casa": "Botafogo",
     "fora": "São Paulo",
     "siglaCasa": "BOT",

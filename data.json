@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-30T15:14:57.340Z",
+ "atualizado": "2026-10-30T20:02:50.530Z",
  "clima": {
   "temp": 26,
-  "max": 27,
+  "max": 26,
   "min": 18,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
-  "Tecnologia: China rebate EUA e nega ter espionado CEO da Nvidia",
-  "Mundo: Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto",
-  "Tecnologia: Coreia do Sul criminalizará uso de óculos inteligentes em provas",
-  "Mundo: Novaya Gazeta, principal jornal de oposição da Rússia fundado por Nobel da Paz, anuncia fechamento: 'Nos mataram'",
-  "Tecnologia: Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilhões",
-  "Mundo: Papa Leão XIV vota por correspondência nas eleições dos EUA",
-  "Tecnologia: Hackers roubam R$ 34 bilhões em criptomoedas da Binance; veja os maiores ataques já registrados",
-  "Mundo: Mulher que sobreviveu a injeção letal nos EUA diz ter acordado 'confusa e com dor'",
-  "Tecnologia: Governo questionou Meta sobre perfis derrubados no Instagram antes das eleições",
-  "Mundo: 'Chaminés' desabam em principal ponto turístico da Capadócia, na Turquia, e deixam dois mortos"
+  "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
+  "Mundo: Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA",
+  "Tecnologia: Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
+  "Mundo: Jornal britânico denuncia ao FBI material de abuso sexual infantil encontrado em depósito do pai de Meghan Markle",
+  "Tecnologia: OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
+  "Mundo: União Europeia quer flexibilizar regras para agrotóxicos; especialistas alertam para riscos",
+  "Tecnologia: Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
+  "Mundo: Em universidade dos EUA, filha de brasileira declama poema de exaltação à morte de Charlie Kirk",
+  "Tecnologia: Meta faz acordo com adolescente em processo que alega que redes sociais causaram depressão e transtornos alimentares",
+  "Mundo: Mauro Vieira e Rubio participam de encontro de chanceleres do G20"
  ],
  "jogos": {
   "proximo": {

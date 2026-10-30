@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-29T21:42:18.670Z",
+ "atualizado": "2026-10-30T01:46:20.170Z",
  "clima": {
-  "temp": 21,
+  "temp": 19,
   "max": 22,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
-  "Mundo: Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
+  "Mundo: VÍDEO mostra briga generalizada entre deputados no Parlamento da Armênia",
   "Tecnologia: 'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
-  "Mundo: María Corina Machado diz que EUA sugeriram eleições presidenciais na Venezuela em 2027",
+  "Mundo: Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
   "Tecnologia: Governo Trump aponta plano de espionagem chinês contra CEO da Nvidia, diz jornal",
-  "Mundo: Principal comandante militar dos EUA apresenta a Trump opções de ataque ao Irã, diz jornal",
+  "Mundo: María Corina Machado diz que EUA sugeriram eleições presidenciais na Venezuela em 2027",
   "Tecnologia: MPT processa Meta em R$ 50 milhões e quer remoção imediata de conteúdos de assédio eleitoral",
-  "Mundo: Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro",
+  "Mundo: Principal comandante militar dos EUA apresenta a Trump opções de ataque ao Irã, diz jornal",
   "Tecnologia: Vazamento expõe dados de mais de 40 mil funcionários da segurança dos EUA",
-  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms"
+  "Mundo: Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro"
  ],
  "jogos": {
   "proximo": {

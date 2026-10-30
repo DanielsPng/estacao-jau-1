@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-30T20:02:50.530Z",
+ "atualizado": "2026-10-30T23:59:03.919Z",
  "clima": {
-  "temp": 26,
+  "temp": 21,
   "max": 26,
   "min": 18,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
+  "Mundo: Mauro Vieira e Marco Rubio se encontram e acertam reunião antes da cúpula do G20",
   "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA",
+  "Mundo: Departamento de Justiça dos EUA pede liminar para impedir Alasca de oficializar resultado da eleição",
   "Tecnologia: Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
-  "Mundo: Jornal britânico denuncia ao FBI material de abuso sexual infantil encontrado em depósito do pai de Meghan Markle",
+  "Mundo: Parlamentares democratas cobram que Trump reconheça resultado da eleição no Brasil",
   "Tecnologia: OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
-  "Mundo: União Europeia quer flexibilizar regras para agrotóxicos; especialistas alertam para riscos",
+  "Mundo: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
   "Tecnologia: Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
-  "Mundo: Em universidade dos EUA, filha de brasileira declama poema de exaltação à morte de Charlie Kirk",
-  "Tecnologia: Meta faz acordo com adolescente em processo que alega que redes sociais causaram depressão e transtornos alimentares",
-  "Mundo: Mauro Vieira e Rubio participam de encontro de chanceleres do G20"
+  "Mundo: Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA"
  ],
  "jogos": {
   "proximo": {

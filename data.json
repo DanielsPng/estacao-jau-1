@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-31T11:07:11.041Z",
+ "atualizado": "2026-10-31T16:15:42.627Z",
  "clima": {
-  "temp": 21,
+  "temp": 28,
   "max": 28,
   "min": 18,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
+  "Mundo: Alemanha mobiliza polícia antes de protestos de jovens em mais de 30 Cidades",
   "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Mundo: Primeiro-ministro britânico diz estar aberto a pedido formal de desculpas pela escravidão, mas descarta reparações financeiras",
+  "Mundo: Irã promete resposta 'imediata e contundente' a novos ataques dos EUA",
   "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-  "Mundo: França vive novo dia de protestos em meio a temor de confrontos violentos e saques",
+  "Mundo: A história de como uma sobrevivente de violência sexual do século 15 buscou justiça",
   "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Mundo: Dois candidatos com o mesmo nome: por que a disputa pelo Senado no Alasca irritou Trump",
+  "Mundo: Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
   "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Tecnologia: Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
-  "Mundo: Aborto, armas, direitos trans, taxa para bilionários: eleições nos EUA tem referendos em 39 estados"
+  "Mundo: Premiê britânico diz estar aberto a pedido de desculpas pela escravidão, mas descarta reparações financeiras"
  ],
  "jogos": {
   "proximo": {

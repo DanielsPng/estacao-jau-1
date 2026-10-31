@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-30T23:59:03.919Z",
+ "atualizado": "2026-10-31T05:24:03.510Z",
  "clima": {
-  "temp": 21,
-  "max": 26,
-  "min": 18,
+  "temp": 18,
+  "max": 28,
+  "min": 17,
   "cond": "sol",
-  "texto": "Céu limpo"
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
+  "Mundo: Reeleição de Lula frusta planos de Trump, que deve acelerar pressão sobre a América Latina",
   "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Mundo: Mauro Vieira e Marco Rubio se encontram e acertam reunião antes da cúpula do G20",
+  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
   "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: Departamento de Justiça dos EUA pede liminar para impedir Alasca de oficializar resultado da eleição",
+  "Mundo: Voto antecipado para eleições de meio de mandato nos EUA bate recorde e chega a quase 48 milhões",
   "Tecnologia: Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
-  "Mundo: Parlamentares democratas cobram que Trump reconheça resultado da eleição no Brasil",
+  "Mundo: O que pode acontecer com Flávio Bolsonaro nos EUA se democratas derrotarem Trump no Congresso?",
   "Tecnologia: OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
-  "Mundo: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Tecnologia: Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
-  "Mundo: Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA"
+  "Mundo: Mauro Vieira e Marco Rubio se encontram nos EUA e acertam reunião antes da cúpula do G20"
  ],
  "jogos": {
   "proximo": {

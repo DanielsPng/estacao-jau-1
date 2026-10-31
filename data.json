@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-31T05:24:03.510Z",
+ "atualizado": "2026-10-31T11:07:11.041Z",
  "clima": {
-  "temp": 18,
+  "temp": 21,
   "max": 28,
-  "min": 17,
+  "min": 18,
   "cond": "sol",
-  "texto": "Poucas nuvens"
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
+  "Mundo: Primeiro-ministro britânico diz estar aberto a pedido formal de desculpas pela escravidão, mas descarta reparações financeiras",
   "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-  "Mundo: Reeleição de Lula frusta planos de Trump, que deve acelerar pressão sobre a América Latina",
+  "Mundo: França vive novo dia de protestos em meio a temor de confrontos violentos e saques",
   "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+  "Mundo: Dois candidatos com o mesmo nome: por que a disputa pelo Senado no Alasca irritou Trump",
   "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: Voto antecipado para eleições de meio de mandato nos EUA bate recorde e chega a quase 48 milhões",
+  "Mundo: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
   "Tecnologia: Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
-  "Mundo: O que pode acontecer com Flávio Bolsonaro nos EUA se democratas derrotarem Trump no Congresso?",
-  "Tecnologia: OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
-  "Mundo: Mauro Vieira e Marco Rubio se encontram nos EUA e acertam reunião antes da cúpula do G20"
+  "Mundo: Aborto, armas, direitos trans, taxa para bilionários: eleições nos EUA tem referendos em 39 estados"
  ],
  "jogos": {
   "proximo": {

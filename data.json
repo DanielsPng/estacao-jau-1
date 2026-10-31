@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-31T16:15:42.627Z",
+ "atualizado": "2026-10-31T20:12:56.054Z",
  "clima": {
-  "temp": 28,
+  "temp": 27,
   "max": 28,
   "min": 18,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
   "Tecnologia: Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
-  "Mundo: Alemanha mobiliza polícia antes de protestos de jovens em mais de 30 Cidades",
+  "Mundo: Confrontos e carros incendiados marcam protestos na França; veja fotos",
   "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Mundo: Irã promete resposta 'imediata e contundente' a novos ataques dos EUA",
+  "Mundo: As famílias que trocaram de parceiros e de casas após passar férias juntas: 'Isso nos destruiu'",
   "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-  "Mundo: A história de como uma sobrevivente de violência sexual do século 15 buscou justiça",
+  "Mundo: Protesto em apoio a grupo pró-Palestina termina com mais de 40 presos em Londres",
   "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Mundo: Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
+  "Mundo: Prefeito de Taipé é recebido com indignação em evento Pride após batida policial em bar gay",
   "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: Premiê britânico diz estar aberto a pedido de desculpas pela escravidão, mas descarta reparações financeiras"
+  "Mundo: Novos protestos reúnem mais de 300 mil na França e terminam em confrontos com a polícia em Paris"
  ],
  "jogos": {
   "proximo": {

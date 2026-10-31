@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-31T20:12:56.054Z",
+ "atualizado": "2026-10-31T23:36:15.440Z",
  "clima": {
-  "temp": 27,
-  "max": 28,
+  "temp": 23,
+  "max": 29,
   "min": 18,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
+  "Mundo: Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda",
+  "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
+  "Mundo: Protestos na Alemanha liderados pela geração Z terminam com roubos de lojas",
   "Tecnologia: Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
-  "Mundo: Confrontos e carros incendiados marcam protestos na França; veja fotos",
+  "Mundo: Por que uma desavença entre matemáticos alimenta temores de que a IA prejudica a ciência",
   "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Mundo: As famílias que trocaram de parceiros e de casas após passar férias juntas: 'Isso nos destruiu'",
+  "Mundo: Polônia busca saída para crise institucional após intervenção policial no Tribunal Constitucional",
   "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-  "Mundo: Protesto em apoio a grupo pró-Palestina termina com mais de 40 presos em Londres",
-  "Tecnologia: Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-  "Mundo: Prefeito de Taipé é recebido com indignação em evento Pride após batida policial em bar gay",
-  "Tecnologia: Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-  "Mundo: Novos protestos reúnem mais de 300 mil na França e terminam em confrontos com a polícia em Paris"
+  "Mundo: Educação e custo de vida: por que a França tem sido tomada por uma onda de protestos"
  ],
  "jogos": {
   "proximo": {

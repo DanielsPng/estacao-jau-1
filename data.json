@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-01T13:00:02.275Z",
+ "atualizado": "2026-11-01T18:24:31.212Z",
  "clima": {
   "temp": 28,
   "max": 29,
   "min": 19,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "cond": "chuva",
+  "texto": "Tempestade"
  },
  "noticias": [
   "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Lojas são saqueadas durante protestos da geração Z na Alemanha; veja FOTOS",
+  "Mundo: Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
   "Tecnologia: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-  "Mundo: Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
+  "Mundo: Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
   "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
-  "Mundo: Cadê o 'Tiririca americano'? Candidatos 'meme' são raros nas eleições dos EUA; entenda por quê",
+  "Mundo: Crise de moradia provoca confrontos entre manifestantes e forças de segurança em Portugal",
   "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
+  "Mundo: 'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
   "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: Financiamento de campanha: quem leva a vantagem nas midterms dos EUA?"
+  "Mundo: O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?"
  ],
  "jogos": {
   "proximo": {

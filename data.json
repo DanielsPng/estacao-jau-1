@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-01T18:24:31.212Z",
+ "atualizado": "2026-11-01T22:16:24.342Z",
  "clima": {
-  "temp": 28,
-  "max": 29,
+  "temp": 24,
+  "max": 31,
   "min": 19,
-  "cond": "chuva",
-  "texto": "Tempestade"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+  "Mundo: Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
   "Tecnologia: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-  "Mundo: Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+  "Mundo: VÍDEO: Jatinho cai em área residencial e deixa nove mortos nos EUA",
   "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
-  "Mundo: Crise de moradia provoca confrontos entre manifestantes e forças de segurança em Portugal",
+  "Mundo: Justiça impede ação de Trump sobre eleição para o Senado no Alasca",
   "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: 'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+  "Mundo: Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
   "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?"
+  "Mundo: Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?"
  ],
  "jogos": {
   "proximo": {

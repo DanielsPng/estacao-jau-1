@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-01T05:30:18.977Z",
+ "atualizado": "2026-11-01T13:00:02.275Z",
  "clima": {
-  "temp": 20,
-  "max": 30,
+  "temp": 28,
+  "max": 29,
   "min": 19,
   "cond": "sol",
-  "texto": "Céu limpo"
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
+  "Mundo: Lojas são saqueadas durante protestos da geração Z na Alemanha; veja FOTOS",
+  "Tecnologia: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
+  "Mundo: Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
   "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
-  "Mundo: Os principais temas das eleições legislativas de meio de mandato nos EUA",
+  "Mundo: Cadê o 'Tiririca americano'? Candidatos 'meme' são raros nas eleições dos EUA; entenda por quê",
   "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: Bombardeio militar contra guerrilha ELN deixa mortos na Venezuela, diz ONG",
+  "Mundo: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
   "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser'",
-  "Tecnologia: Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
-  "Mundo: Operação contra tráfico humano e crimes sexuais prende 281 pessoas nos EUA",
-  "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Mundo: Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda"
+  "Mundo: Financiamento de campanha: quem leva a vantagem nas midterms dos EUA?"
  ],
  "jogos": {
   "proximo": {

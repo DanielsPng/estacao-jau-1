@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-10-31T23:36:15.440Z",
+ "atualizado": "2026-11-01T05:30:18.977Z",
  "clima": {
-  "temp": 23,
-  "max": 29,
-  "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "temp": 20,
+  "max": 30,
+  "min": 19,
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
+  "Mundo: Os principais temas das eleições legislativas de meio de mandato nos EUA",
   "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda",
+  "Mundo: Bombardeio militar contra guerrilha ELN deixa mortos na Venezuela, diz ONG",
   "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: Protestos na Alemanha liderados pela geração Z terminam com roubos de lojas",
+  "Mundo: Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser'",
   "Tecnologia: Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
-  "Mundo: Por que uma desavença entre matemáticos alimenta temores de que a IA prejudica a ciência",
+  "Mundo: Operação contra tráfico humano e crimes sexuais prende 281 pessoas nos EUA",
   "Tecnologia: 'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
-  "Mundo: Polônia busca saída para crise institucional após intervenção policial no Tribunal Constitucional",
-  "Tecnologia: IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
-  "Mundo: Educação e custo de vida: por que a França tem sido tomada por uma onda de protestos"
+  "Mundo: Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda"
  ],
  "jogos": {
   "proximo": {

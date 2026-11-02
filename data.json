@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-02T09:11:05.375Z",
+ "atualizado": "2026-11-02T19:41:46.606Z",
  "clima": {
   "temp": 22,
   "max": 27,
-  "min": 21,
+  "min": 19,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
+  "Mundo: Autoridade dos EUA vê indícios de que avião com filha de brasileiros se despedaçou antes do impacto",
+  "Tecnologia: Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
+  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+  "Tecnologia: Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
+  "Mundo: Eleições nos EUA: partidos encerram campanha antes das decisivas midterms",
+  "Tecnologia: Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
+  "Mundo: Reino Unido exigirá que parte dos migrantes espere 10 anos por residência",
   "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Eleições nos EUA: alvos do ICE e pressionados pela inflação, latinos se viram contra Trump e são trunfo dos democratas",
-  "Tecnologia: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-  "Mundo: Presidente interina da Bulgária vence 2º turno das eleições no país",
-  "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
-  "Mundo: A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-  "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
-  "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil"
+  "Mundo: Governo de Trump leva disputa eleitoral da Califórnia à Suprema Corte"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-02T01:43:22.653Z",
+ "atualizado": "2026-11-02T09:11:05.375Z",
  "clima": {
-  "temp": 24,
-  "max": 31,
-  "min": 19,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "temp": 22,
+  "max": 27,
+  "min": 21,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Três entradas na Argentina em 40 minutos: os bastidores da fuga de Flávio Bolsonaro do Brasil",
+  "Mundo: Eleições nos EUA: alvos do ICE e pressionados pela inflação, latinos se viram contra Trump e são trunfo dos democratas",
   "Tecnologia: Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-  "Mundo: Tráfico internacional de ovos de aves nativas do Brasil movimentou R$ 90 milhões, diz PF",
+  "Mundo: Presidente interina da Bulgária vence 2º turno das eleições no país",
   "Tecnologia: Pluxee fora do ar? Usuários relatam problemas no aplicativo",
-  "Mundo: Ciara Mageean, ex-campeã europeia de atletismo, morre aos 34 anos",
+  "Mundo: A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
   "Tecnologia: FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
-  "Mundo: Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
+  "Mundo: Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
   "Tecnologia: 'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-  "Mundo: VÍDEO: Jatinho cai em área residencial e deixa nove mortos nos EUA"
+  "Mundo: Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil"
  ],
  "jogos": {
   "proximo": {

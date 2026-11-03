@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-03T17:40:13.776Z",
+ "atualizado": "2026-11-03T23:05:33.764Z",
  "clima": {
-  "temp": 30,
+  "temp": 25,
   "max": 30,
   "min": 17,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: É #FAKE que foto de avião prestes a atingir o solo mostre acidente com jatinho nos EUA; imagem foi feita com inteligência artificial",
+  "Mundo: Eleições nos EUA: acompanhe os resultados para a Câmara",
+  "Tecnologia: Documentos falsos e inteligência artificial: como KYC, biometria facial e análise de dispositivos trabalham juntos",
+  "Mundo: Eleições nos EUA: primeiras urnas fecham em dois estados; ACOMPANHE",
   "Tecnologia: Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
-  "Mundo: Eleições nos EUA: entenda a disputa nos 3 estados com mais brasileiros",
+  "Mundo: Após dois acidentes ferroviários que deixaram 115 mortos, ministro dos Transportes da Espanha renuncia",
   "Tecnologia: Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
-  "Mundo: Eleições nos EUA: urnas estão abertas em todo o país; SIGA",
+  "Mundo: Eleições nos EUA: astronautas da Nasa votam do espaço",
   "Tecnologia: O que se sabe sobre nova onda de ciberataques a supermercados europeus",
-  "Mundo: Orações e cultos na Casa Branca: cristianismo vira peça-chave para governo Trump nas midterms",
-  "Tecnologia: IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
-  "Mundo: VÍDEO mostra colisão de helicópteros no ar perto do Monte Everest",
-  "Tecnologia: Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
-  "Mundo: Polícia dos EUA prende 17 funcionários da Disney e da Universal suspeitos de crimes sexuais contra crianças, diz TV"
+  "Mundo: 3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA"
  ],
  "jogos": {
   "proximo": {

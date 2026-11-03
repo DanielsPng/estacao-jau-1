@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-03T09:55:32.396Z",
+ "atualizado": "2026-11-03T17:40:13.776Z",
  "clima": {
-  "temp": 19,
-  "max": 31,
+  "temp": 30,
+  "max": 30,
   "min": 17,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
+  "Mundo: Eleições nos EUA: entenda a disputa nos 3 estados com mais brasileiros",
+  "Tecnologia: Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
+  "Mundo: Eleições nos EUA: urnas estão abertas em todo o país; SIGA",
+  "Tecnologia: O que se sabe sobre nova onda de ciberataques a supermercados europeus",
+  "Mundo: Orações e cultos na Casa Branca: cristianismo vira peça-chave para governo Trump nas midterms",
   "Tecnologia: IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
-  "Mundo: Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+  "Mundo: VÍDEO mostra colisão de helicópteros no ar perto do Monte Everest",
   "Tecnologia: Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
-  "Mundo: Polícia espanhola desmantela acampamento pelo direito à moradia em Madri",
-  "Tecnologia: Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
-  "Mundo: EUA vão às urnas para renovar o Congresso; eleição é decisiva para Trump",
-  "Tecnologia: Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
-  "Mundo: Eleições nos EUA: à espera de uma derrota, Trump ensaia o papel de 'Sr. Veto'",
-  "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Dois helicópteros colidem na região do Everest e deixam um morto"
+  "Mundo: Polícia dos EUA prende 17 funcionários da Disney e da Universal suspeitos de crimes sexuais contra crianças, diz TV"
  ],
  "jogos": {
   "proximo": {

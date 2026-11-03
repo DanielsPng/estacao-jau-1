@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-02T19:41:46.606Z",
+ "atualizado": "2026-11-03T02:07:06.184Z",
  "clima": {
-  "temp": 22,
+  "temp": 19,
   "max": 27,
   "min": 19,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
-  "Mundo: Autoridade dos EUA vê indícios de que avião com filha de brasileiros se despedaçou antes do impacto",
+  "Mundo: EUA atacaram a ilha de Qeshm, no Irã, diz jornal",
   "Tecnologia: Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
-  "Mundo: Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+  "Mundo: Suprema Corte rejeita tentativa do governo Trump de desconsiderar quase 20 mil votos da Califórnia",
   "Tecnologia: Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
-  "Mundo: Eleições nos EUA: partidos encerram campanha antes das decisivas midterms",
+  "Mundo: Reuters/Ipsos: aprovação de Trump segue baixa na véspera de eleição de meio de mandato",
   "Tecnologia: Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
-  "Mundo: Reino Unido exigirá que parte dos migrantes espere 10 anos por residência",
+  "Mundo: Às vésperas de dia decisivo para o futuro do governo, Trump chama eleições de meio de mandato de as 'mais importantes das nossas vidas'",
   "Tecnologia: Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-  "Mundo: Governo de Trump leva disputa eleitoral da Califórnia à Suprema Corte"
+  "Mundo: Família com crianças de 2 e 4 anos estava em avião que caiu na Flórida"
  ],
  "jogos": {
   "proximo": {

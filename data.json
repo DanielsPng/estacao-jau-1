@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-03T23:05:33.764Z",
+ "atualizado": "2026-11-04T03:08:07.215Z",
  "clima": {
-  "temp": 25,
-  "max": 30,
-  "min": 17,
+  "temp": 23,
+  "max": 32,
+  "min": 20,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
   "Tecnologia: É #FAKE que foto de avião prestes a atingir o solo mostre acidente com jatinho nos EUA; imagem foi feita com inteligência artificial",
-  "Mundo: Eleições nos EUA: acompanhe os resultados para a Câmara",
+  "Mundo: Eleições nos EUA tem 16 senadores eleitos, incluindo uma virada; ACOMPANHE",
   "Tecnologia: Documentos falsos e inteligência artificial: como KYC, biometria facial e análise de dispositivos trabalham juntos",
-  "Mundo: Eleições nos EUA: primeiras urnas fecham em dois estados; ACOMPANHE",
+  "Mundo: Geórgia elege 1ª mulher negra governadora da história dos EUA",
   "Tecnologia: Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
-  "Mundo: Após dois acidentes ferroviários que deixaram 115 mortos, ministro dos Transportes da Espanha renuncia",
+  "Mundo: Chris Pappas se torna primeiro homem abertamente gay eleito para o Senado dos EUA",
   "Tecnologia: Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
-  "Mundo: Eleições nos EUA: astronautas da Nasa votam do espaço",
+  "Mundo: Candidata republicana vence disputa acirrada para o Senado na Flórida",
   "Tecnologia: O que se sabe sobre nova onda de ciberataques a supermercados europeus",
-  "Mundo: 3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA"
+  "Mundo: Eleições nos EUA: democrata vence disputa para o Senado pela Carolina do Norte"
  ],
  "jogos": {
   "proximo": {

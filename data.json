@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-04T11:27:26.199Z",
+ "atualizado": "2026-11-04T18:49:47.073Z",
  "clima": {
-  "temp": 28,
+  "temp": 31,
   "max": 32,
   "min": 21,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Canva anuncia demissão de 1,2 mil funcionários em reestruturação",
-  "Mundo: Após vitória, democratas podem agir contra Flávio Bolsonaro nos EUA?",
-  "Tecnologia: Alexa+ acerta nome, conversa melhor e ganha força com tela, mas ainda exagera na propaganda",
-  "Mundo: Eleições nos EUA: democratas conquistam maioria no Senado e na Câmara; SIGA",
-  "Tecnologia: É #FAKE que foto de avião prestes a atingir o solo mostre acidente com jatinho nos EUA; imagem foi feita com inteligência artificial",
-  "Mundo: 'Estão orgulhosos de nós?': americanos agradecem Brasil nas redes após onda democrata nas eleições",
-  "Tecnologia: Documentos falsos e inteligência artificial: como KYC, biometria facial e análise de dispositivos trabalham juntos",
-  "Mundo: Talarico e Gina Hinojosa garantem vitória histórica dos democratas no Texas; entenda",
-  "Tecnologia: Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
-  "Mundo: Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil"
+  "Tecnologia: França investiga ataque cibernético contra câmaras frias de banco de sangue",
+  "Mundo: Trump sobre eleições: 'Provavelmente me darei bem com os democratas, a menos que queiram ser destrutivos '",
+  "Tecnologia: CEO da OpenAI muda nome para ‘Ram Altman’ no X após polêmica sobre memória de computadores",
+  "Mundo: Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC",
+  "Tecnologia: Google obriga escolas a escolher entre permitir uso de IA ou perder acesso a seu buscador",
+  "Mundo: Paraguaios vão às ruas em protesto após quebra de banco digital e renúncia do presidente do BC",
+  "Tecnologia: Governo publica novas regras para combater golpes por SMS; veja o que muda",
+  "Mundo: Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
+  "Tecnologia: Canva anuncia demissão de 22% da equipe após primeira desaceleração em 10 anos",
+  "Mundo: Após derrota de partido de Trump nas eleições, Irã descarta mudança na política americana"
  ],
  "jogos": {
   "proximo": {

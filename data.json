@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-04T03:08:07.215Z",
+ "atualizado": "2026-11-04T11:27:26.199Z",
  "clima": {
-  "temp": 23,
+  "temp": 28,
   "max": 32,
-  "min": 20,
+  "min": 21,
   "cond": "sol",
-  "texto": "Céu limpo"
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Canva anuncia demissão de 1,2 mil funcionários em reestruturação",
+  "Mundo: Após vitória, democratas podem agir contra Flávio Bolsonaro nos EUA?",
+  "Tecnologia: Alexa+ acerta nome, conversa melhor e ganha força com tela, mas ainda exagera na propaganda",
+  "Mundo: Eleições nos EUA: democratas conquistam maioria no Senado e na Câmara; SIGA",
   "Tecnologia: É #FAKE que foto de avião prestes a atingir o solo mostre acidente com jatinho nos EUA; imagem foi feita com inteligência artificial",
-  "Mundo: Eleições nos EUA tem 16 senadores eleitos, incluindo uma virada; ACOMPANHE",
+  "Mundo: 'Estão orgulhosos de nós?': americanos agradecem Brasil nas redes após onda democrata nas eleições",
   "Tecnologia: Documentos falsos e inteligência artificial: como KYC, biometria facial e análise de dispositivos trabalham juntos",
-  "Mundo: Geórgia elege 1ª mulher negra governadora da história dos EUA",
+  "Mundo: Talarico e Gina Hinojosa garantem vitória histórica dos democratas no Texas; entenda",
   "Tecnologia: Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
-  "Mundo: Chris Pappas se torna primeiro homem abertamente gay eleito para o Senado dos EUA",
-  "Tecnologia: Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
-  "Mundo: Candidata republicana vence disputa acirrada para o Senado na Flórida",
-  "Tecnologia: O que se sabe sobre nova onda de ciberataques a supermercados europeus",
-  "Mundo: Eleições nos EUA: democrata vence disputa para o Senado pela Carolina do Norte"
+  "Mundo: Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-05T07:14:45.394Z",
+ "atualizado": "2026-11-05T15:44:26.097Z",
  "clima": {
-  "temp": 23,
-  "max": 30,
+  "temp": 24,
+  "max": 29,
   "min": 22,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
+  "Mundo: Eleições nos EUA: youtuber \"The AK Guy\", defensor das armas, perde disputa por cadeira na Câmara",
+  "Tecnologia: Motorola lança Signature 27, celular premium com chip inédito e 'superzoom' com IA; conheça",
+  "Mundo: Paraguai: entenda por que Peña pode sofrer impeachment após crise bancária",
+  "Tecnologia: FGC sofre invasão que expõe nomes, CPFs e outros dados pessoais de clientes",
+  "Mundo: Crise política no Paraguai se agrava, e base governista retira apoio a Peña e se declara a favor de impeachment",
   "Tecnologia: Hackers atacam banco francês e desviam cerca de R$ 615 milhões",
-  "Mundo: Democratas são azuis e republicanos são vermelhos, mas já foi o contrário: entenda origem das cores dos partidos nos EUA",
+  "Mundo: Eleições nos EUA: Trump diz que votos de candidato pivô de polêmica no Alasca devem ser 'transferidos' para republicano",
   "Tecnologia: Após ataque hacker, Binance libera saques de mais criptomoedas",
-  "Mundo: EUA batem recorde de mulheres governadoras após eleição marcada por vitórias inéditas",
-  "Tecnologia: Maior financiador republicano, Musk perde mais de R$ 200 bilhões após derrota eleitoral de aliados de Trump",
-  "Mundo: Eleições nos EUA: votação popular proíbe foie gras em Washington; Brasil também vetou neste ano",
-  "Tecnologia: França investiga ataque cibernético contra câmaras frias de banco de sangue",
-  "Mundo: O formato do bumbum não revela níveis de hormônios, apesar do que dizem nas redes sociais",
-  "Tecnologia: CEO da OpenAI muda nome para ‘Ram Altman’ no X após polêmica sobre memória de computadores",
-  "Mundo: Filho de ex-presidente do Equador é preso por suspeita de narcotráfico"
+  "Mundo: VÍDEO mostra momento que bombardeio russo atinge escola na Ucrânia; mortos sobem para 43"
  ],
  "jogos": {
   "proximo": {

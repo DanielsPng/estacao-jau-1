@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-11-05T00:15:59.515Z",
+ "atualizado": "2026-11-05T07:14:45.394Z",
  "clima": {
-  "temp": 27,
-  "max": 33,
-  "min": 21,
+  "temp": 23,
+  "max": 30,
+  "min": 22,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Hackers atacam banco francês e desviam cerca de R$ 615 milhões",
+  "Mundo: Democratas são azuis e republicanos são vermelhos, mas já foi o contrário: entenda origem das cores dos partidos nos EUA",
+  "Tecnologia: Após ataque hacker, Binance libera saques de mais criptomoedas",
+  "Mundo: EUA batem recorde de mulheres governadoras após eleição marcada por vitórias inéditas",
   "Tecnologia: Maior financiador republicano, Musk perde mais de R$ 200 bilhões após derrota eleitoral de aliados de Trump",
-  "Mundo: Presidente da Câmara dos EUA decide renunciar após derrota republicana",
+  "Mundo: Eleições nos EUA: votação popular proíbe foie gras em Washington; Brasil também vetou neste ano",
   "Tecnologia: França investiga ataque cibernético contra câmaras frias de banco de sangue",
-  "Mundo: De casa sem janela em Duque de Caxias à Assembleia da Flórida: a trajetória do carioca eleito deputado nos EUA",
+  "Mundo: O formato do bumbum não revela níveis de hormônios, apesar do que dizem nas redes sociais",
   "Tecnologia: CEO da OpenAI muda nome para ‘Ram Altman’ no X após polêmica sobre memória de computadores",
-  "Mundo: Filha de comerciantes eleita deputada nos EUA cresceu vendo caminhão do pai virar palanque em MT",
-  "Tecnologia: Google obriga escolas a escolher entre permitir uso de IA ou perder acesso a seu buscador",
-  "Mundo: Vitória dos democratas no Congresso dos EUA vai colocar fim à Doutrina Donroe?",
-  "Tecnologia: Governo publica novas regras para combater golpes por SMS; veja o que muda",
-  "Mundo: Eleições nos EUA: mineira reeleita deputada chegou ao país ainda criança e advoga pelos imigrantes"
+  "Mundo: Filho de ex-presidente do Equador é preso por suspeita de narcotráfico"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-11-05T00:30Z",
+   "quando": "2026-11-20T00:30Z",
    "casa": "São Paulo",
-   "fora": "Corinthians",
+   "fora": "Fluminense",
    "siglaCasa": "SAO",
-   "siglaFora": "COR",
+   "siglaFora": "FLU",
    "emCasa": true,
    "campeonato": "Brasileirão",
-   "local": "Estádio Vila Belmiro (Urbano Caldeira)",
+   "local": "Estádio Cícero Pompeu de Toledo",
    "placar": null,
    "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-11-20T00:30Z",
-    "casa": "São Paulo",
-    "fora": "Fluminense",
-    "siglaCasa": "SAO",
-    "siglaFora": "FLU",
-    "emCasa": true,
-    "campeonato": "Brasileirão",
-    "local": "Estádio Cícero Pompeu de Toledo",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2026-11-23T23:00Z",
     "casa": "Botafogo",
@@ -56,18 +44,30 @@
     "local": "Joao Havelange Stadium",
     "placar": null,
     "estado": "pre"
+   },
+   {
+    "quando": "2026-11-28T20:00Z",
+    "casa": "São Paulo",
+    "fora": "Remo",
+    "siglaCasa": "SAO",
+    "siglaFora": "REMO",
+    "emCasa": true,
+    "campeonato": "Brasileirão",
+    "local": "Estádio Cícero Pompeu de Toledo",
+    "placar": null,
+    "estado": "pre"
    }
   ],
   "ultimo": {
-   "quando": "2026-10-29T00:30Z",
-   "casa": "Bahia",
-   "fora": "São Paulo",
-   "siglaCasa": "BAH",
-   "siglaFora": "SAO",
-   "emCasa": false,
+   "quando": "2026-11-05T00:30Z",
+   "casa": "São Paulo",
+   "fora": "Corinthians",
+   "siglaCasa": "SAO",
+   "siglaFora": "COR",
+   "emCasa": true,
    "campeonato": "Brasileirão",
-   "local": "Arena Fonte Nova",
-   "placar": "3×2",
+   "local": "Estádio Vila Belmiro (Urbano Caldeira)",
+   "placar": "0×0",
    "estado": "post"
   }
  },

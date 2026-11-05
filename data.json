@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-05T15:44:26.097Z",
+ "atualizado": "2026-11-05T21:52:03.235Z",
  "clima": {
-  "temp": 24,
-  "max": 29,
+  "temp": 25,
+  "max": 28,
   "min": 22,
   "cond": "chuva",
   "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028",
+  "Mundo: EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028",
+  "Tecnologia: Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado",
+  "Mundo: Crise no Paraguai: manifestantes e polícia entram em confronto",
   "Tecnologia: Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
-  "Mundo: Eleições nos EUA: youtuber \"The AK Guy\", defensor das armas, perde disputa por cadeira na Câmara",
+  "Mundo: Após culpar guerra por 'onda azul', Trump diz que 'talvez' tenha que destruir o Irã",
   "Tecnologia: Motorola lança Signature 27, celular premium com chip inédito e 'superzoom' com IA; conheça",
-  "Mundo: Paraguai: entenda por que Peña pode sofrer impeachment após crise bancária",
+  "Mundo: Chefe do Pentágono desafia 'onda azul' e diz que pedidos de impeachment 'não funcionarão' contra ele",
   "Tecnologia: FGC sofre invasão que expõe nomes, CPFs e outros dados pessoais de clientes",
-  "Mundo: Crise política no Paraguai se agrava, e base governista retira apoio a Peña e se declara a favor de impeachment",
-  "Tecnologia: Hackers atacam banco francês e desviam cerca de R$ 615 milhões",
-  "Mundo: Eleições nos EUA: Trump diz que votos de candidato pivô de polêmica no Alasca devem ser 'transferidos' para republicano",
-  "Tecnologia: Após ataque hacker, Binance libera saques de mais criptomoedas",
-  "Mundo: VÍDEO mostra momento que bombardeio russo atinge escola na Ucrânia; mortos sobem para 43"
+  "Mundo: Ministério Público do Paraguai abre investigação contra presidente por suspeita de corrupção"
  ],
  "jogos": {
   "proximo": {

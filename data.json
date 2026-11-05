@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-04T18:49:47.073Z",
+ "atualizado": "2026-11-05T00:15:59.515Z",
  "clima": {
-  "temp": 31,
-  "max": 32,
+  "temp": 27,
+  "max": 33,
   "min": 21,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Maior financiador republicano, Musk perde mais de R$ 200 bilhões após derrota eleitoral de aliados de Trump",
+  "Mundo: Presidente da Câmara dos EUA decide renunciar após derrota republicana",
   "Tecnologia: França investiga ataque cibernético contra câmaras frias de banco de sangue",
-  "Mundo: Trump sobre eleições: 'Provavelmente me darei bem com os democratas, a menos que queiram ser destrutivos '",
+  "Mundo: De casa sem janela em Duque de Caxias à Assembleia da Flórida: a trajetória do carioca eleito deputado nos EUA",
   "Tecnologia: CEO da OpenAI muda nome para ‘Ram Altman’ no X após polêmica sobre memória de computadores",
-  "Mundo: Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC",
+  "Mundo: Filha de comerciantes eleita deputada nos EUA cresceu vendo caminhão do pai virar palanque em MT",
   "Tecnologia: Google obriga escolas a escolher entre permitir uso de IA ou perder acesso a seu buscador",
-  "Mundo: Paraguaios vão às ruas em protesto após quebra de banco digital e renúncia do presidente do BC",
+  "Mundo: Vitória dos democratas no Congresso dos EUA vai colocar fim à Doutrina Donroe?",
   "Tecnologia: Governo publica novas regras para combater golpes por SMS; veja o que muda",
-  "Mundo: Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
-  "Tecnologia: Canva anuncia demissão de 22% da equipe após primeira desaceleração em 10 anos",
-  "Mundo: Após derrota de partido de Trump nas eleições, Irã descarta mudança na política americana"
+  "Mundo: Eleições nos EUA: mineira reeleita deputada chegou ao país ainda criança e advoga pelos imigrantes"
  ],
  "jogos": {
   "proximo": {

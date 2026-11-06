@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-06T17:17:51.578Z",
+ "atualizado": "2026-11-06T22:17:56.387Z",
  "clima": {
-  "temp": 31,
+  "temp": 22,
   "max": 31,
   "min": 21,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Tempestade"
  },
  "noticias": [
+  "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
+  "Mundo: De escândalo bancário ao impeachment: veja a cronologia da crise no Paraguai que derrubou o presidente",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Pai de Meghan Markle é preso na Flórida sob acusação de posse de pornografia infantil",
+  "Mundo: Quem é Pedro Alliana, vice que assume a Presidência do Paraguai após impeachment",
   "Tecnologia: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
-  "Mundo: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
+  "Mundo: Senado do Paraguai aprova por unanimidade impeachment de Santiago Peña",
   "Tecnologia: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
-  "Mundo: Paraguai: Senado rejeita pedido de Santiago Peña para adiar julgamento de impeachment e retoma processo",
+  "Mundo: Presidente do Paraguai justifica ausência em julgamento de impeachment em nome da 'paz social'",
   "Tecnologia: Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
-  "Mundo: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
-  "Tecnologia: Wall Street perde trilhões em um dia: entenda o que derrubou as ações de IA",
-  "Mundo: VÍDEO: australiana salva filhote de coala de ataque de cobra"
+  "Mundo: Papa Leão XIV aterrisa no Uruguai para iniciar viagem pela América do Sul"
  ],
  "jogos": {
   "proximo": {

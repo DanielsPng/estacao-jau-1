@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-06T02:08:32.854Z",
+ "atualizado": "2026-11-06T09:44:07.584Z",
  "clima": {
-  "temp": 25,
-  "max": 28,
+  "temp": 23,
+  "max": 31,
   "min": 22,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
   "Tecnologia: EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028",
-  "Mundo: Paraguai ignora pedido de renúncia e dá continuidade a processo de impeachment contra Santiago Peña",
+  "Mundo: Acidente com ônibus escolar na França deixa 'várias vítimas'",
   "Tecnologia: Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado",
-  "Mundo: Jornalista Yoani Sánchez e líder oposicionista são presas em Cuba",
+  "Mundo: Justiça dos EUA bloqueia gigantesco projeto de Arco do Triunfo de Trump",
   "Tecnologia: Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
-  "Mundo: Crise no Paraguai: Senado conclui primeira sessão do processo de impeachment contra o presidente Santiago Peña",
+  "Mundo: Eleições nos EUA: estado aprova rifle famoso em filmes de faroeste como arma oficial",
   "Tecnologia: Motorola lança Signature 27, celular premium com chip inédito e 'superzoom' com IA; conheça",
-  "Mundo: Peña diz que vai se apresentar ao Senado em meio a processo de impeachment; porta-voz nega fuga do presidente",
+  "Mundo: Ministro do Interior do Paraguai renuncia e volta ao Senado para julgar impeachment de Peña, diz imprensa paraguaia",
   "Tecnologia: FGC sofre invasão que expõe nomes, CPFs e outros dados pessoais de clientes",
-  "Mundo: EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028"
+  "Mundo: Paraguai: o escândalo financeiro que deixou o país sem comando - O Assunto #1840"
  ],
  "jogos": {
   "proximo": {

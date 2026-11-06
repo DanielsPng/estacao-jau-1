@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-06T09:44:07.584Z",
+ "atualizado": "2026-11-06T17:17:51.578Z",
  "clima": {
-  "temp": 23,
+  "temp": 31,
   "max": 31,
-  "min": 22,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "min": 21,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028",
-  "Mundo: Acidente com ônibus escolar na França deixa 'várias vítimas'",
-  "Tecnologia: Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado",
-  "Mundo: Justiça dos EUA bloqueia gigantesco projeto de Arco do Triunfo de Trump",
-  "Tecnologia: Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
-  "Mundo: Eleições nos EUA: estado aprova rifle famoso em filmes de faroeste como arma oficial",
-  "Tecnologia: Motorola lança Signature 27, celular premium com chip inédito e 'superzoom' com IA; conheça",
-  "Mundo: Ministro do Interior do Paraguai renuncia e volta ao Senado para julgar impeachment de Peña, diz imprensa paraguaia",
-  "Tecnologia: FGC sofre invasão que expõe nomes, CPFs e outros dados pessoais de clientes",
-  "Mundo: Paraguai: o escândalo financeiro que deixou o país sem comando - O Assunto #1840"
+  "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
+  "Mundo: Pai de Meghan Markle é preso na Flórida sob acusação de posse de pornografia infantil",
+  "Tecnologia: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
+  "Mundo: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
+  "Tecnologia: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
+  "Mundo: Paraguai: Senado rejeita pedido de Santiago Peña para adiar julgamento de impeachment e retoma processo",
+  "Tecnologia: Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
+  "Mundo: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
+  "Tecnologia: Wall Street perde trilhões em um dia: entenda o que derrubou as ações de IA",
+  "Mundo: VÍDEO: australiana salva filhote de coala de ataque de cobra"
  ],
  "jogos": {
   "proximo": {

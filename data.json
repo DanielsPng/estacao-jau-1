@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-07T20:04:02.881Z",
+ "atualizado": "2026-11-07T23:50:53.818Z",
  "clima": {
-  "temp": 25,
+  "temp": 24,
   "max": 33,
   "min": 22,
   "cond": "nuvens",
@@ -9,15 +9,15 @@
  },
  "noticias": [
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Presidente de Israel escolhe rival de Netanyahu para tentar formar novo governo",
+  "Mundo: Justiça do Paraguai decreta prisão preventiva de ex-presidente Santiago Peña",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Trump oferece cargo de secretário de imprensa da Casa Branca a presidente do UFC",
+  "Mundo: Presidente de Israel escolhe rival de Netanyahu para tentar formar novo governo",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
+  "Mundo: Trump oferece cargo de secretário de imprensa da Casa Branca a presidente do UFC; Dana White indica que aceita",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Ministério Público do Paraguai acusa ex-presidente Peña formalmente e pede prisão preventiva",
+  "Mundo: O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Deputado da oposição e 3 policiais morrem após ataque armado na Guatemala"
+  "Mundo: Ministério Público do Paraguai acusa ex-presidente Peña formalmente e pede prisão preventiva"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-07T15:51:28.175Z",
+ "atualizado": "2026-11-07T20:04:02.881Z",
  "clima": {
-  "temp": 33,
+  "temp": 25,
   "max": 33,
   "min": 22,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Tiroteio na praça principal de Cracóvia, na Polônia, deixa 5 mortos",
+  "Mundo: Presidente de Israel escolhe rival de Netanyahu para tentar formar novo governo",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai",
+  "Mundo: Trump oferece cargo de secretário de imprensa da Casa Branca a presidente do UFC",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Santiago Peña depõe à Justiça paraguaia após impeachment e prisão domiciliar",
+  "Mundo: O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+  "Mundo: Ministério Público do Paraguai acusa ex-presidente Peña formalmente e pede prisão preventiva",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Bombardeios sauditas no Iêmen deixam ao menos 22 mortos, diz mídia ligada aos Houthis"
+  "Mundo: Deputado da oposição e 3 policiais morrem após ataque armado na Guatemala"
  ],
  "jogos": {
   "proximo": {

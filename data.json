@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-07T02:16:15.156Z",
+ "atualizado": "2026-11-07T09:07:36.067Z",
  "clima": {
-  "temp": 24,
+  "temp": 23,
   "max": 32,
-  "min": 21,
+  "min": 22,
   "cond": "sol",
-  "texto": "Poucas nuvens"
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
+  "Mundo: A cidade no Alasca onde quase todos os moradores vivem no mesmo prédio",
+  "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
+  "Mundo: Democrata no Texas desiste de eleição, abandona campanha um mês antes e é eleita mesmo assim",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Pedro Alliana toma posse como presidente do Paraguai após impeachment de Santiago Peña",
+  "Mundo: 'Paraguai não é para CLT': o que brasileiros contam em grupos sobre a vida no país e a crise do Ueno",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Santiago Peña, ex-presidente do Paraguai, é preso em Assunção",
+  "Mundo: Espionagem e canhão: Santiago Peña teve dois episódios problemáticos envolvendo o Brasil; relembre",
   "Tecnologia: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
-  "Mundo: Santiago Peña, presidente do Paraguai que sofreu impeachment, é de direita ou esquerda? Entenda a posição política",
-  "Tecnologia: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
-  "Mundo: De escândalo bancário ao impeachment: veja a cronologia da crise no Paraguai que derrubou o presidente",
-  "Tecnologia: Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
-  "Mundo: Quem é Pedro Alliana, vice que assumiu a Presidência do Paraguai após impeachment"
+  "Mundo: Homem venezuelano é preso perto da Casa Branca após dizer que iria matar Trump"
  ],
  "jogos": {
   "proximo": {

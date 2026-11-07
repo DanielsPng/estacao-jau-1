@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-07T09:07:36.067Z",
+ "atualizado": "2026-11-07T15:51:28.175Z",
  "clima": {
-  "temp": 23,
-  "max": 32,
+  "temp": 33,
+  "max": 33,
   "min": 22,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
+  "Mundo: Tiroteio na praça principal de Cracóvia, na Polônia, deixa 5 mortos",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: A cidade no Alasca onde quase todos os moradores vivem no mesmo prédio",
+  "Mundo: VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Democrata no Texas desiste de eleição, abandona campanha um mês antes e é eleita mesmo assim",
+  "Mundo: Santiago Peña depõe à Justiça paraguaia após impeachment e prisão domiciliar",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: 'Paraguai não é para CLT': o que brasileiros contam em grupos sobre a vida no país e a crise do Ueno",
+  "Mundo: Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Espionagem e canhão: Santiago Peña teve dois episódios problemáticos envolvendo o Brasil; relembre",
-  "Tecnologia: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
-  "Mundo: Homem venezuelano é preso perto da Casa Branca após dizer que iria matar Trump"
+  "Mundo: Bombardeios sauditas no Iêmen deixam ao menos 22 mortos, diz mídia ligada aos Houthis"
  ],
  "jogos": {
   "proximo": {

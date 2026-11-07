@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-06T22:17:56.387Z",
+ "atualizado": "2026-11-07T02:16:15.156Z",
  "clima": {
-  "temp": 22,
-  "max": 31,
+  "temp": 24,
+  "max": 32,
   "min": 21,
-  "cond": "chuva",
-  "texto": "Tempestade"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: De escândalo bancário ao impeachment: veja a cronologia da crise no Paraguai que derrubou o presidente",
+  "Mundo: Pedro Alliana toma posse como presidente do Paraguai após impeachment de Santiago Peña",
   "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Quem é Pedro Alliana, vice que assume a Presidência do Paraguai após impeachment",
+  "Mundo: Santiago Peña, ex-presidente do Paraguai, é preso em Assunção",
   "Tecnologia: UE exige que TikTok mude feeds personalizados por possíveis efeitos nocivos",
-  "Mundo: Senado do Paraguai aprova por unanimidade impeachment de Santiago Peña",
+  "Mundo: Santiago Peña, presidente do Paraguai que sofreu impeachment, é de direita ou esquerda? Entenda a posição política",
   "Tecnologia: Trump chama IA de 'ouro' e defende expansão após queda de ações de tecnologia",
-  "Mundo: Presidente do Paraguai justifica ausência em julgamento de impeachment em nome da 'paz social'",
+  "Mundo: De escândalo bancário ao impeachment: veja a cronologia da crise no Paraguai que derrubou o presidente",
   "Tecnologia: Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
-  "Mundo: Papa Leão XIV aterrisa no Uruguai para iniciar viagem pela América do Sul"
+  "Mundo: Quem é Pedro Alliana, vice que assumiu a Presidência do Paraguai após impeachment"
  ],
  "jogos": {
   "proximo": {

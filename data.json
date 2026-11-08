@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-08T18:27:14.717Z",
+ "atualizado": "2026-11-08T22:24:36.143Z",
  "clima": {
-  "temp": 20,
-  "max": 21,
+  "temp": 18,
+  "max": 22,
   "min": 17,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Nvidia abre investigação após suspeitas de que CEO foi alvo de espionagem estrangeira",
+  "Mundo: Trump diz que novo ataque ao Irã é \"altamente improvável\" se negociações avançarem",
   "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
+  "Mundo: Papa Leão XIV chega à Argentina em viagem em homenagem a Francisco",
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
+  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
+  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito",
-  "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Papa Leão XIV pede aos homens que tratem com respeito as suas esposas"
+  "Mundo: Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo"
  ],
  "jogos": {
   "proximo": {

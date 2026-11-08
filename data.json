@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-08T13:05:01.133Z",
+ "atualizado": "2026-11-08T18:27:14.717Z",
  "clima": {
   "temp": 20,
   "max": 21,
   "min": 17,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
   "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-  "Mundo: Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA",
+  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Ataque russo deixa mais de 600 mil pessoas sem energia no leste da Ucrânia",
+  "Mundo: Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Japão alerta para novos tremores após terremoto de magnitude 5,7 deixar feridos",
+  "Mundo: Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas"
+  "Mundo: Papa Leão XIV pede aos homens que tratem com respeito as suas esposas"
  ],
  "jogos": {
   "proximo": {

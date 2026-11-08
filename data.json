@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-08T05:32:36.369Z",
+ "atualizado": "2026-11-08T13:05:01.133Z",
  "clima": {
-  "temp": 21,
-  "max": 22,
-  "min": 16,
+  "temp": 20,
+  "max": 21,
+  "min": 17,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
+  "Mundo: Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Irã executa três homens acusados de envolvimento em protestos e de atuar para Israel e EUA, diz mídia estatal",
+  "Mundo: Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Papa Leão XIV condena violência contra crianças em visita a bairro pobre do Uruguai",
+  "Mundo: Ataque russo deixa mais de 600 mil pessoas sem energia no leste da Ucrânia",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Justiça do Paraguai decreta prisão preventiva de ex-presidente Santiago Peña",
+  "Mundo: Japão alerta para novos tremores após terremoto de magnitude 5,7 deixar feridos",
   "Tecnologia: Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-  "Mundo: Presidente de Israel escolhe rival de Netanyahu para tentar formar novo governo",
-  "Tecnologia: Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
-  "Mundo: Trump oferece cargo de secretário de imprensa da Casa Branca a presidente do UFC; Dana White indica que aceita"
+  "Mundo: Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas"
  ],
  "jogos": {
   "proximo": {
@@ -46,7 +46,7 @@
     "estado": "pre"
    },
    {
-    "quando": "2026-11-28T20:00Z",
+    "quando": "2026-11-26T23:00Z",
     "casa": "São Paulo",
     "fora": "Remo",
     "siglaCasa": "SAO",

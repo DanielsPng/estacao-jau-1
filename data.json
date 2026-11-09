@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-09T09:31:29.943Z",
+ "atualizado": "2026-11-09T20:35:07.933Z",
  "clima": {
-  "temp": 16,
+  "temp": 21,
   "max": 24,
   "min": 15,
   "cond": "sol",
-  "texto": "Poucas nuvens"
+  "texto": "Céu limpo"
  },
  "noticias": [
-  "Tecnologia: 'Já tirei R$ 5 mil no mês': como funciona o trabalho de vender imagens de tarefas domésticas para IA e quais são os riscos",
-  "Mundo: Ex-presidente da Colômbia é investigado após denúncia de contratos públicos em troca de sexo",
-  "Tecnologia: Traição, espionagem e investigação: entenda o caso que expõe a Nvidia e seu CEO",
-  "Mundo: Grécia encontra barco com imigrantes mortos perto da ilha de Creta",
-  "Tecnologia: Nvidia investiga suspeita de espionagem contra CEO; Jensen Huang admite relacionamento com executiva ligada à China",
-  "Mundo: Incêndio em prédio de apartamentos mata 14 pessoas na China",
-  "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-  "Mundo: Trump culpa política migratória por derrota e fala em acordo, mas promove ‘pai do muro’ na fronteira com México em seguida",
-  "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Papa chega à Argentina em visita que deve expor discordâncias com Javier Milei; veja pontos de divergência"
+  "Tecnologia: Anthropic, criadora do Claude, lança IA mais potente e barata a uma semana de possível estreia na bolsa",
+  "Mundo: Trump defende chefe do Pentágono alvo de pedido de impeachment: 'Ele venceu duas guerras'",
+  "Tecnologia: França acusa grupo ligado ao Irã por ataque a geladeiras de supermercados e anuncia sanções",
+  "Mundo: Universiade nos EUA investiga vídeo de homens pegando fogo; fraternidade foi suspensa",
+  "Tecnologia: França acusa Irã por ataque cibernético contra refrigeradores e promete impor sanções ao país",
+  "Mundo: Rubio sai em defesa do chefe do Pentágono após pedido de impeachment: 'Acho injusto'",
+  "Tecnologia: Traição envolvendo CEO da Nvidia rende memes nas redes sociais",
+  "Mundo: Suprema Corte autoriza Trump a retomar muro em área de parque ecológico na fronteira",
+  "Tecnologia: Quem é Alice Huang, suposta amante do CEO da Nvidia",
+  "Mundo: Deputado dos EUA apresenta pedido de impeachment contra secretário de Guerra de Trump"
  ],
  "jogos": {
   "proximo": {

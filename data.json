@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-08T22:24:36.143Z",
+ "atualizado": "2026-11-09T01:52:27.411Z",
  "clima": {
-  "temp": 18,
+  "temp": 17,
   "max": 22,
-  "min": 17,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "min": 16,
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
-  "Tecnologia: Nvidia abre investigação após suspeitas de que CEO foi alvo de espionagem estrangeira",
-  "Mundo: Trump diz que novo ataque ao Irã é \"altamente improvável\" se negociações avançarem",
+  "Tecnologia: Nvidia investiga suspeita de espionagem contra CEO; Jensen Huang admite relacionamento com executiva ligada à China",
+  "Mundo: 'Eu estava só brincando', diz Trump sobre convite a presidente do UFC para cargo na Casa Branca",
   "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-  "Mundo: Papa Leão XIV chega à Argentina em viagem em homenagem a Francisco",
+  "Mundo: Trump diz que novo ataque ao Irã é \"altamente improvável\" se negociações avançarem",
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
+  "Mundo: Papa Leão XIV, em visita à Argentina, pede a Milei que preserve a democracia e reconheça os limites do poder",
   "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
+  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
   "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo"
+  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália"
  ],
  "jogos": {
   "proximo": {

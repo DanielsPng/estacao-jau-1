@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-09T01:52:27.411Z",
+ "atualizado": "2026-11-09T09:31:29.943Z",
  "clima": {
-  "temp": 17,
-  "max": 22,
-  "min": 16,
+  "temp": 16,
+  "max": 24,
+  "min": 15,
   "cond": "sol",
   "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: 'Já tirei R$ 5 mil no mês': como funciona o trabalho de vender imagens de tarefas domésticas para IA e quais são os riscos",
+  "Mundo: Ex-presidente da Colômbia é investigado após denúncia de contratos públicos em troca de sexo",
+  "Tecnologia: Traição, espionagem e investigação: entenda o caso que expõe a Nvidia e seu CEO",
+  "Mundo: Grécia encontra barco com imigrantes mortos perto da ilha de Creta",
   "Tecnologia: Nvidia investiga suspeita de espionagem contra CEO; Jensen Huang admite relacionamento com executiva ligada à China",
-  "Mundo: 'Eu estava só brincando', diz Trump sobre convite a presidente do UFC para cargo na Casa Branca",
+  "Mundo: Incêndio em prédio de apartamentos mata 14 pessoas na China",
   "Tecnologia: Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-  "Mundo: Trump diz que novo ataque ao Irã é \"altamente improvável\" se negociações avançarem",
+  "Mundo: Trump culpa política migratória por derrota e fala em acordo, mas promove ‘pai do muro’ na fronteira com México em seguida",
   "Tecnologia: Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
-  "Mundo: Papa Leão XIV, em visita à Argentina, pede a Milei que preserve a democracia e reconheça os limites do poder",
-  "Tecnologia: Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
-  "Mundo: Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
-  "Tecnologia: Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
-  "Mundo: Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália"
+  "Mundo: Papa chega à Argentina em visita que deve expor discordâncias com Javier Milei; veja pontos de divergência"
  ],
  "jogos": {
   "proximo": {

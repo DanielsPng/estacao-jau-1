@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-10T11:37:40.770Z",
+ "atualizado": "2026-11-10T19:32:17.219Z",
  "clima": {
-  "temp": 20,
-  "max": 27,
+  "temp": 25,
+  "max": 28,
   "min": 14,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
-  "Tecnologia: Por que infidelidade do chefe da Nvidia com suposta espiã da China preocupa EUA e o setor de IA",
-  "Mundo: Dos tatames ao Élysée: conheça o judoca Teddy Riner, que se candidatou à presidência da França",
-  "Tecnologia: Trump diz que FBI investiga suspeita de espionagem em caso de traição por CEO da Nvidia",
-  "Mundo: Pai de Meghan Markle tem exame psiquiátrico pedido pela Justiça",
-  "Tecnologia: Anthropic, criadora do Claude, lança IA mais potente e barata a uma semana de possível estreia na bolsa",
-  "Mundo: Acidente com mais de 50 veículos mata pelo menos 11 pessoas na Bulgária",
-  "Tecnologia: França acusa grupo ligado ao Irã por ataque a geladeiras de supermercados e anuncia sanções",
-  "Mundo: Rússia e Ucrânia se reúnem com autoridades dos EUA para tentar negociar paz",
-  "Tecnologia: França acusa Irã por ataque cibernético contra refrigeradores e promete impor sanções ao país",
-  "Mundo: Impeachment do secretário de Guerra dos EUA: entenda como funciona o processo que pode afastar aliado de Trump do cargo"
+  "Tecnologia: Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil",
+  "Mundo: Autoridades do Paraguai abrem cofre em mansão de Santiago Peña, mas encontram o compartimento vazio, diz imprensa",
+  "Tecnologia: Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência",
+  "Mundo: Peru inaugura estátua gigante em homenagem ao papa Leão XIV antes da visita do pontífice",
+  "Tecnologia: Fabricante dos chips da Nvidia vai investir US$ 1 bilhão na OpenAI e na Anthropic",
+  "Mundo: É #FATO: Foto mostra papa Leão XIV segurando carne em churrasco no Uruguai; veja imagem",
+  "Tecnologia: Microsoft pressiona Trump a desistir de proibição de tecnologia chinesa para data centers",
+  "Mundo: Paraguai: promotores de Justiça tentarão abrir cofre encontrado em casa de verão de Peña",
+  "Tecnologia: Caso Ana Elisa: como rastros digitais podem ajudar a identificar autor de ameaças à deputada federal eleita",
+  "Mundo: Chefe de segurança do Irã diz que país não está negociando com os EUA"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-09T20:35:07.933Z",
+ "atualizado": "2026-11-10T03:21:17.398Z",
  "clima": {
-  "temp": 21,
-  "max": 24,
-  "min": 15,
+  "temp": 15,
+  "max": 27,
+  "min": 14,
   "cond": "sol",
-  "texto": "Céu limpo"
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Trump diz que FBI investiga suspeita de espionagem em caso de traição por CEO da Nvidia",
+  "Mundo: Como banco digital que quebrou no Paraguai chegou a concentrar contas de 6 em cada 10 adultos do país",
   "Tecnologia: Anthropic, criadora do Claude, lança IA mais potente e barata a uma semana de possível estreia na bolsa",
-  "Mundo: Trump defende chefe do Pentágono alvo de pedido de impeachment: 'Ele venceu duas guerras'",
+  "Mundo: Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth",
   "Tecnologia: França acusa grupo ligado ao Irã por ataque a geladeiras de supermercados e anuncia sanções",
-  "Mundo: Universiade nos EUA investiga vídeo de homens pegando fogo; fraternidade foi suspensa",
+  "Mundo: Suspeita de espionagem: como aproximação entre Trump e CEO da Nvidia coincidiu com decisões favoráveis à empresa",
   "Tecnologia: França acusa Irã por ataque cibernético contra refrigeradores e promete impor sanções ao país",
-  "Mundo: Rubio sai em defesa do chefe do Pentágono após pedido de impeachment: 'Acho injusto'",
+  "Mundo: Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador",
   "Tecnologia: Traição envolvendo CEO da Nvidia rende memes nas redes sociais",
-  "Mundo: Suprema Corte autoriza Trump a retomar muro em área de parque ecológico na fronteira",
-  "Tecnologia: Quem é Alice Huang, suposta amante do CEO da Nvidia",
-  "Mundo: Deputado dos EUA apresenta pedido de impeachment contra secretário de Guerra de Trump"
+  "Mundo: Trump diz que FBI investiga suspeita de espionagem em caso de traição por CEO da Nvidia"
  ],
  "jogos": {
   "proximo": {

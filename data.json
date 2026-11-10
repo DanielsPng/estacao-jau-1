@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-10T03:21:17.398Z",
+ "atualizado": "2026-11-10T11:37:40.770Z",
  "clima": {
-  "temp": 15,
+  "temp": 20,
   "max": 27,
   "min": 14,
   "cond": "sol",
-  "texto": "Poucas nuvens"
+  "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: Por que infidelidade do chefe da Nvidia com suposta espiã da China preocupa EUA e o setor de IA",
+  "Mundo: Dos tatames ao Élysée: conheça o judoca Teddy Riner, que se candidatou à presidência da França",
   "Tecnologia: Trump diz que FBI investiga suspeita de espionagem em caso de traição por CEO da Nvidia",
-  "Mundo: Como banco digital que quebrou no Paraguai chegou a concentrar contas de 6 em cada 10 adultos do país",
+  "Mundo: Pai de Meghan Markle tem exame psiquiátrico pedido pela Justiça",
   "Tecnologia: Anthropic, criadora do Claude, lança IA mais potente e barata a uma semana de possível estreia na bolsa",
-  "Mundo: Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth",
+  "Mundo: Acidente com mais de 50 veículos mata pelo menos 11 pessoas na Bulgária",
   "Tecnologia: França acusa grupo ligado ao Irã por ataque a geladeiras de supermercados e anuncia sanções",
-  "Mundo: Suspeita de espionagem: como aproximação entre Trump e CEO da Nvidia coincidiu com decisões favoráveis à empresa",
+  "Mundo: Rússia e Ucrânia se reúnem com autoridades dos EUA para tentar negociar paz",
   "Tecnologia: França acusa Irã por ataque cibernético contra refrigeradores e promete impor sanções ao país",
-  "Mundo: Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador",
-  "Tecnologia: Traição envolvendo CEO da Nvidia rende memes nas redes sociais",
-  "Mundo: Trump diz que FBI investiga suspeita de espionagem em caso de traição por CEO da Nvidia"
+  "Mundo: Impeachment do secretário de Guerra dos EUA: entenda como funciona o processo que pode afastar aliado de Trump do cargo"
  ],
  "jogos": {
   "proximo": {

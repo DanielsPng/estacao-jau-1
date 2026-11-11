@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-11T15:59:03.491Z",
+ "atualizado": "2026-11-11T22:37:19.367Z",
  "clima": {
-  "temp": 28,
-  "max": 28,
+  "temp": 20,
+  "max": 29,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Crise na Nvidia: novo caso extraconjugal de CEO vem à tona, diz jornal",
+  "Mundo: Papa Leão XIV chega ao Peru, sua 'segunda pátria', na última etapa do tour pela América do Sul",
+  "Tecnologia: The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
+  "Mundo: Transatlântico é afundado na costa da Flórida para criar maior recife artificial do mundo",
   "Tecnologia: Influenciadores que divulgavam bets têm contas derrubadas no Instagram após pedido do governo",
-  "Mundo: Em último dia na Argentina, papa Leão XIV visita presídio e celebra missa para mais de 2 milhões de fiéis",
+  "Mundo: Barcelona tem confrontos entre manifestantes e polícia durante greve geral; veja FOTOS",
   "Tecnologia: Resort, restaurante e sede da Nvidia: suposta espiã e CEO tiveram encontros pelo mundo nos últimos 3 anos",
-  "Mundo: Secretário do Tesouro dos Estados Unidos se muda para base militar após ameaça do Irã, diz jornal",
+  "Mundo: Polícia divulga foto de pai de Meghan Markle após prisão",
   "Tecnologia: Suposta espiã chinesa que teve caso com CEO da Nvidia entrou em Taiwan com passaporte de Hong Kong",
-  "Mundo: Em dia de greve geral na Espanha, manifestantes entram em confronto com a polícia; VÍDEO",
-  "Tecnologia: Como o caso do CEO da Nvidia com suposta espiã chinesa impacta o setor de IA",
-  "Mundo: Netanyahu afirma que Israel não é culpada por crise em Gaza",
-  "Tecnologia: TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
-  "Mundo: Suprema Corte revoga criminalização da homossexualidade em Trinidad e Tobago"
+  "Mundo: VÍDEO: Guarda de honra desmaia diante de Macron durante chegada de presidente eslovaco na França"
  ],
  "jogos": {
   "proximo": {

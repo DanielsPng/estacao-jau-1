@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-10T19:32:17.219Z",
+ "atualizado": "2026-11-11T00:30:20.462Z",
  "clima": {
-  "temp": 25,
+  "temp": 21,
   "max": 28,
   "min": 14,
-  "cond": "sol",
-  "texto": "Céu limpo"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil",
-  "Mundo: Autoridades do Paraguai abrem cofre em mansão de Santiago Peña, mas encontram o compartimento vazio, diz imprensa",
+  "Mundo: Câmara dos EUA barra pedido de impeachment de secretário de Guerra de Trump",
   "Tecnologia: Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência",
-  "Mundo: Peru inaugura estátua gigante em homenagem ao papa Leão XIV antes da visita do pontífice",
+  "Mundo: Republicanos escolhem aliado ultraconservador de Trump para liderar o partido na Câmara dos EUA",
   "Tecnologia: Fabricante dos chips da Nvidia vai investir US$ 1 bilhão na OpenAI e na Anthropic",
-  "Mundo: É #FATO: Foto mostra papa Leão XIV segurando carne em churrasco no Uruguai; veja imagem",
+  "Mundo: Rival de Netanyahu propõe comissão sobre ataques de 7 de Outubro, em ofensiva contra o premiê israelense",
   "Tecnologia: Microsoft pressiona Trump a desistir de proibição de tecnologia chinesa para data centers",
-  "Mundo: Paraguai: promotores de Justiça tentarão abrir cofre encontrado em casa de verão de Peña",
+  "Mundo: Procurador pede prisão de pai de Meghan Markle até julgamento",
   "Tecnologia: Caso Ana Elisa: como rastros digitais podem ajudar a identificar autor de ameaças à deputada federal eleita",
-  "Mundo: Chefe de segurança do Irã diz que país não está negociando com os EUA"
+  "Mundo: Pai de Meghan Markle volta a ser preso nos EUA após romper tornozeleira eletrônica"
  ],
  "jogos": {
   "proximo": {

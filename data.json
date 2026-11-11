@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-11T00:30:20.462Z",
+ "atualizado": "2026-11-11T07:38:58.392Z",
  "clima": {
-  "temp": 21,
-  "max": 28,
-  "min": 14,
+  "temp": 18,
+  "max": 29,
+  "min": 18,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Como o caso do CEO da Nvidia com suposta espiã chinesa impacta o setor de IA",
+  "Mundo: Carro invade calçada em Los Angeles, deixa 3 mortos e feridos",
   "Tecnologia: Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil",
-  "Mundo: Câmara dos EUA barra pedido de impeachment de secretário de Guerra de Trump",
+  "Mundo: A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
   "Tecnologia: Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência",
-  "Mundo: Republicanos escolhem aliado ultraconservador de Trump para liderar o partido na Câmara dos EUA",
+  "Mundo: 'Seja fiel ao povo americano': Carta privada de Trump a Biden é revelada em livro do ex-presidente",
   "Tecnologia: Fabricante dos chips da Nvidia vai investir US$ 1 bilhão na OpenAI e na Anthropic",
-  "Mundo: Rival de Netanyahu propõe comissão sobre ataques de 7 de Outubro, em ofensiva contra o premiê israelense",
+  "Mundo: Bebê é encontrado vivo após passar cerca de 24 horas enterrado nos EUA",
   "Tecnologia: Microsoft pressiona Trump a desistir de proibição de tecnologia chinesa para data centers",
-  "Mundo: Procurador pede prisão de pai de Meghan Markle até julgamento",
-  "Tecnologia: Caso Ana Elisa: como rastros digitais podem ajudar a identificar autor de ameaças à deputada federal eleita",
-  "Mundo: Pai de Meghan Markle volta a ser preso nos EUA após romper tornozeleira eletrônica"
+  "Mundo: Família Kennedy tenta impedir Arco do Triunfo de Trump que faria sombra sobre túmulos"
  ],
  "jogos": {
   "proximo": {

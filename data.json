@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-12T03:42:10.147Z",
+ "atualizado": "2026-11-12T12:25:39.111Z",
  "clima": {
-  "temp": 22,
+  "temp": 26,
   "max": 29,
   "min": 20,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Universidade chinesa conseguiu comprar chips da Nvidia apesar das restrições dos EUA",
+  "Mundo: Universidade chinesa conseguiu comprar chips da Nvidia apesar das restrições dos EUA",
+  "Tecnologia: Malévola, Léo Neiff e ex-BBB: veja influencers que divulgavam bets e tiveram perfis derrubados",
+  "Mundo: Christine Lagarde, ex-FMI e Banco Central Europeu, surge como possível rival de candidatos de centro em eleição na França",
+  "Tecnologia: Como suposto novo caso extraconjugal de CEO da Nvidia aumenta pressão para que ele saia do cargo",
+  "Mundo: Desabamento de prédio no Brooklyn: número de mortos sobe para 5; VÍDEO mostra resgate",
   "Tecnologia: Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
-  "Mundo: Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump",
+  "Mundo: Putin se encontra com enviados de Trump na Rússia para debater acordo de paz após nova rodada de negociações",
   "Tecnologia: CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
-  "Mundo: Em reviravolta, democrata vence no Mississippi e será o 1º senador negro do estado em 150 anos",
-  "Tecnologia: The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
-  "Mundo: Prédio de 3 andares desaba na região do Brooklyn, em Nova York, e deixa 2 mortos e 17 feridos",
-  "Tecnologia: Malévola e outros influenciadores que divulgavam bets têm contas derrubadas no Instagram após pedido do governo",
-  "Mundo: Papa Leão XIV chega ao Peru, sua 'segunda pátria', na última etapa do tour pela América do Sul",
-  "Tecnologia: Resort, restaurante e sede da Nvidia: suposta espiã e CEO tiveram encontros pelo mundo nos últimos 3 anos",
-  "Mundo: Transatlântico é afundado na costa da Flórida para criar maior recife artificial do mundo"
+  "Mundo: Alerta de bomba na estação de trem de Calais, na França, fecha local e causa atrasos"
  ],
  "jogos": {
   "proximo": {

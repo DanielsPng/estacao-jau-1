@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-12T12:25:39.111Z",
+ "atualizado": "2026-11-12T20:19:31.317Z",
  "clima": {
-  "temp": 26,
-  "max": 29,
+  "temp": 24,
+  "max": 30,
   "min": 20,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Universidade chinesa conseguiu comprar chips da Nvidia apesar das restrições dos EUA",
-  "Mundo: Universidade chinesa conseguiu comprar chips da Nvidia apesar das restrições dos EUA",
-  "Tecnologia: Malévola, Léo Neiff e ex-BBB: veja influencers que divulgavam bets e tiveram perfis derrubados",
-  "Mundo: Christine Lagarde, ex-FMI e Banco Central Europeu, surge como possível rival de candidatos de centro em eleição na França",
-  "Tecnologia: Como suposto novo caso extraconjugal de CEO da Nvidia aumenta pressão para que ele saia do cargo",
-  "Mundo: Desabamento de prédio no Brooklyn: número de mortos sobe para 5; VÍDEO mostra resgate",
-  "Tecnologia: Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
-  "Mundo: Putin se encontra com enviados de Trump na Rússia para debater acordo de paz após nova rodada de negociações",
-  "Tecnologia: CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
-  "Mundo: Alerta de bomba na estação de trem de Calais, na França, fecha local e causa atrasos"
+  "Tecnologia: Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
+  "Mundo: Trump fala em 'invasão' de imigrantes mexicanos e ameaça dobrar taifas; México desmente",
+  "Tecnologia: O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
+  "Mundo: Lula se reúne com rival de Trump na COP 31, na Turquia",
+  "Tecnologia: Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
+  "Mundo: VÍDEO mostra transatlântico maior que o Titanic sendo afundado na costa da Flórida",
+  "Tecnologia: Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilhões em novembro",
+  "Mundo: Lula embarca para Filipinas para participar de cúpula e ampliar mercado brasileiro na Ásia",
+  "Tecnologia: Jensen Huang: como CEO da Nvidia foi de 'rock star' da IA à saída dramática",
+  "Mundo: Tailândia: brasileiros são presos com R$ 3,3 milhões em cocaína"
  ],
  "jogos": {
   "proximo": {

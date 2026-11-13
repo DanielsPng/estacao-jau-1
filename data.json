@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-13T17:03:49.777Z",
+ "atualizado": "2026-11-13T22:47:30.513Z",
  "clima": {
-  "temp": 32,
+  "temp": 23,
   "max": 32,
   "min": 21,
   "cond": "sol",
   "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Biometria facial contra deepfakes: o que avaliar em liveness, escala e privacidade",
+  "Mundo: Paralisação de voos nos EUA: agência suspende todas as decolagens no país",
+  "Tecnologia: OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
+  "Mundo: Suspensão de voos nos EUA: veja FOTOS de aeroportos durante paralisação",
+  "Tecnologia: Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
+  "Mundo: Suspensão de voos nos EUA: secretário de Segurança descarta ataque: 'Não é um novo 11/9'",
   "Tecnologia: Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
-  "Mundo: Terremoto atinge a costa do Peru durante visita do papa Leão XIV",
+  "Mundo: Falha de internet afeta sites do serviço de meteorologia dos Estados Unidos",
   "Tecnologia: Outlook voltou: por que demorou para Microsoft resolver o problema?",
-  "Mundo: Em Chiclayo, papa diz que está 'superando' seus problemas de saúde",
-  "Tecnologia: Faxes, celulares e Bluetooth: queda da Microsoft força empresas a recorrer a soluções antigas",
-  "Mundo: VÍDEO: Papa Leão XIV se confunde nos idiomas e ri ao rezar missa em italiano no Peru",
-  "Tecnologia: Antes de deixar comando da Nvidia, Jensen Huang menosprezou sucessora, diz jornal",
-  "Mundo: VÍDEO: Leão XVI 'invade' cabine de voo e agradece trabalhadores da aviação ao chegar ao Peru",
-  "Tecnologia: Pane na Microsoft: governo diz que serviços do gov.br funcionam normalmente; STF, TSE e STJ foram afetados por falha",
-  "Mundo: 'Leão XIV volta para casa': papa chega a Chiclayo, cidade em que viveu no Peru, e é recebido por milhares de fiéis"
+  "Mundo: Passageiros fazem vídeo dentro de avião durante suspensão de voos nos EUA: 'Estou literalmente no ar'"
  ],
  "jogos": {
   "proximo": {

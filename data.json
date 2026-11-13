@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-13T01:23:39.199Z",
+ "atualizado": "2026-11-13T08:38:36.531Z",
  "clima": {
-  "temp": 24,
-  "max": 30,
+  "temp": 20,
+  "max": 32,
   "min": 20,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Como escolher um notebook para comprar na Black Friday",
+  "Mundo: Irã diz ter atacado radar dos EUA no Bahrein",
+  "Tecnologia: A epidemia de ataques cibernéticos e os riscos para a segurança global - O Assunto #1845",
+  "Mundo: SpaceX faz novo teste da Starship e tentará manobra inédita para recuperar nave e propulsor",
+  "Tecnologia: Outlook e IA da Microsoft seguem instáveis nesta sexta-feira",
+  "Mundo: VÍDEO: Soldado dá bronca em secretário de Guerra dos EUA por risadas e recebe medalha",
   "Tecnologia: Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
   "Mundo: Nove dias após votação, democrata é declarada vencedora da eleição para governo do Kansas",
   "Tecnologia: Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
-  "Mundo: Trump diz que quer 'resolver a questão de Cuba' antes de deixar cargo",
-  "Tecnologia: O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
-  "Mundo: VÍDEO: Condenado por terrorismo, italiano de 74 anos escala prédio e foge de prisão domiciliar na Argentina",
-  "Tecnologia: Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
-  "Mundo: É #FAKE que vídeo de trânsito no Paraguai mostre 'êxodo' bolsonarista; cena é de congestionamento do feriado de 12 de outubro",
-  "Tecnologia: Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilhões em novembro",
-  "Mundo: Trump fala em 'invasão' de imigrantes mexicanos e ameaça dobrar taifas; México desmente"
+  "Mundo: Trump diz que quer 'resolver a questão de Cuba' antes de deixar cargo"
  ],
  "jogos": {
   "proximo": {

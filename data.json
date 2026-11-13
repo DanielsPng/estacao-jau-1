@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-13T08:38:36.531Z",
+ "atualizado": "2026-11-13T17:03:49.777Z",
  "clima": {
-  "temp": 20,
+  "temp": 32,
   "max": 32,
-  "min": 20,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "min": 21,
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
-  "Tecnologia: Como escolher um notebook para comprar na Black Friday",
-  "Mundo: Irã diz ter atacado radar dos EUA no Bahrein",
-  "Tecnologia: A epidemia de ataques cibernéticos e os riscos para a segurança global - O Assunto #1845",
-  "Mundo: SpaceX faz novo teste da Starship e tentará manobra inédita para recuperar nave e propulsor",
-  "Tecnologia: Outlook e IA da Microsoft seguem instáveis nesta sexta-feira",
-  "Mundo: VÍDEO: Soldado dá bronca em secretário de Guerra dos EUA por risadas e recebe medalha",
-  "Tecnologia: Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
-  "Mundo: Nove dias após votação, democrata é declarada vencedora da eleição para governo do Kansas",
-  "Tecnologia: Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
-  "Mundo: Trump diz que quer 'resolver a questão de Cuba' antes de deixar cargo"
+  "Tecnologia: Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
+  "Mundo: Terremoto atinge a costa do Peru durante visita do papa Leão XIV",
+  "Tecnologia: Outlook voltou: por que demorou para Microsoft resolver o problema?",
+  "Mundo: Em Chiclayo, papa diz que está 'superando' seus problemas de saúde",
+  "Tecnologia: Faxes, celulares e Bluetooth: queda da Microsoft força empresas a recorrer a soluções antigas",
+  "Mundo: VÍDEO: Papa Leão XIV se confunde nos idiomas e ri ao rezar missa em italiano no Peru",
+  "Tecnologia: Antes de deixar comando da Nvidia, Jensen Huang menosprezou sucessora, diz jornal",
+  "Mundo: VÍDEO: Leão XVI 'invade' cabine de voo e agradece trabalhadores da aviação ao chegar ao Peru",
+  "Tecnologia: Pane na Microsoft: governo diz que serviços do gov.br funcionam normalmente; STF, TSE e STJ foram afetados por falha",
+  "Mundo: 'Leão XIV volta para casa': papa chega a Chiclayo, cidade em que viveu no Peru, e é recebido por milhares de fiéis"
  ],
  "jogos": {
   "proximo": {

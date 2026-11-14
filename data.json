@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T02:58:03.591Z",
+ "atualizado": "2026-11-14T10:06:31.923Z",
  "clima": {
   "temp": 21,
   "max": 32,
@@ -8,16 +8,16 @@
   "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+  "Mundo: Mãe de menino brasileiro que teve dedo mutilado em escola diz que família teve que mudar de cidade e espera Justiça para deixar Portugal: 'Traumas para a vida toda'",
+  "Tecnologia: FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
+  "Mundo: Traições que abalaram o mundo: além do escândalo da Nvidia, relembre histórias de Bill Clinton a Dom Pedro I",
   "Tecnologia: Biometria facial contra deepfakes: o que avaliar em liveness, escala e privacidade",
-  "Mundo: Suspensão de voos nos EUA: secretário cita inconsistências entre radar e torre e diz que sistema de tráfego aéreo é velho",
+  "Mundo: FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
   "Tecnologia: OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
-  "Mundo: Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
+  "Mundo: O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
   "Tecnologia: Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
-  "Mundo: Caos aéreo nos EUA: agência retira suspensão de decolagens após 4 horas; normalização deve levar tempo",
-  "Tecnologia: Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
-  "Mundo: Grupo de cinco engenheiros de IA fica retido em aeroporto nos EUA após suspensão de voos: 'Filas grandes e clima de tensão'",
-  "Tecnologia: Outlook voltou: por que demorou para Microsoft resolver o problema?",
-  "Mundo: Trump diz que paralisação aérea não parece ter relação com ataque cibernético ou com IA"
+  "Mundo: Caos aéreo: 10 perguntas e respostas sobre a paralisação dos aeroportos nos Estados Unidos"
  ],
  "jogos": {
   "proximo": {

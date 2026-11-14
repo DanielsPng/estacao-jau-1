@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-13T22:47:30.513Z",
+ "atualizado": "2026-11-14T02:58:03.591Z",
  "clima": {
-  "temp": 23,
+  "temp": 21,
   "max": 32,
   "min": 21,
   "cond": "sol",
@@ -9,15 +9,15 @@
  },
  "noticias": [
   "Tecnologia: Biometria facial contra deepfakes: o que avaliar em liveness, escala e privacidade",
-  "Mundo: Paralisação de voos nos EUA: agência suspende todas as decolagens no país",
+  "Mundo: Suspensão de voos nos EUA: secretário cita inconsistências entre radar e torre e diz que sistema de tráfego aéreo é velho",
   "Tecnologia: OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
-  "Mundo: Suspensão de voos nos EUA: veja FOTOS de aeroportos durante paralisação",
+  "Mundo: Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
   "Tecnologia: Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
-  "Mundo: Suspensão de voos nos EUA: secretário de Segurança descarta ataque: 'Não é um novo 11/9'",
+  "Mundo: Caos aéreo nos EUA: agência retira suspensão de decolagens após 4 horas; normalização deve levar tempo",
   "Tecnologia: Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
-  "Mundo: Falha de internet afeta sites do serviço de meteorologia dos Estados Unidos",
+  "Mundo: Grupo de cinco engenheiros de IA fica retido em aeroporto nos EUA após suspensão de voos: 'Filas grandes e clima de tensão'",
   "Tecnologia: Outlook voltou: por que demorou para Microsoft resolver o problema?",
-  "Mundo: Passageiros fazem vídeo dentro de avião durante suspensão de voos nos EUA: 'Estou literalmente no ar'"
+  "Mundo: Trump diz que paralisação aérea não parece ter relação com ataque cibernético ou com IA"
  ],
  "jogos": {
   "proximo": {

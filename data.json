@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-14T10:06:31.923Z",
+ "atualizado": "2026-11-14T16:41:10.627Z",
  "clima": {
-  "temp": 21,
-  "max": 32,
-  "min": 21,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "temp": 31,
+  "max": 31,
+  "min": 19,
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
+  "Mundo: Governo Trump diz não acreditar em ataque hacker e aponta troca de cabos como causa de apagão aéreo nos EUA",
+  "Tecnologia: Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem consentimento",
+  "Mundo: Em retorno à cidade onde foi bispo, papa Leão XIV comanda rito de coroação da Virgem Imaculada no Peru",
+  "Tecnologia: Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
+  "Mundo: Nas Filipinas, ministro diz estar 'otimista' com negociações e que restrição à carne suína do Brasil 'é medida de 60 dias'",
   "Tecnologia: Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
-  "Mundo: Mãe de menino brasileiro que teve dedo mutilado em escola diz que família teve que mudar de cidade e espera Justiça para deixar Portugal: 'Traumas para a vida toda'",
+  "Mundo: EUA propõem que Ucrânia ceda território à Rússia em troca de entrada na Otan, diz Zelensky",
   "Tecnologia: FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
-  "Mundo: Traições que abalaram o mundo: além do escândalo da Nvidia, relembre histórias de Bill Clinton a Dom Pedro I",
-  "Tecnologia: Biometria facial contra deepfakes: o que avaliar em liveness, escala e privacidade",
-  "Mundo: FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
-  "Tecnologia: OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
-  "Mundo: O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
-  "Tecnologia: Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
-  "Mundo: Caos aéreo: 10 perguntas e respostas sobre a paralisação dos aeroportos nos Estados Unidos"
+  "Mundo: França se prepara para novo dia de mobilização nacional com mais de 300 protestos e 70 mil policiais"
  ],
  "jogos": {
   "proximo": {

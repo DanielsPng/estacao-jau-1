@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-15T08:19:45.834Z",
+ "atualizado": "2026-11-15T15:48:24.640Z",
  "clima": {
-  "temp": 21,
-  "max": 29,
+  "temp": 26,
+  "max": 30,
   "min": 20,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Coreia do Sul investiga 1º colocado em prova após confissão de fraude com IA",
+  "Mundo: Guatemala decreta estado de emergência após ataque que matou deputado e três policiais",
+  "Tecnologia: Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
+  "Mundo: Trump culpa governo Biden por paralisação nacional de voos nos EUA",
   "Tecnologia: Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-  "Mundo: Ameaças de bomba, sabotagem de refrigeradores e desinformação: guerra híbrida chegou enfim à Europa?",
+  "Mundo: Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
   "Tecnologia: O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
-  "Mundo: Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
+  "Mundo: Pequim proíbe posse de drones e autoriza polícia a apreender aparelhos",
   "Tecnologia: Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
-  "Mundo: Como opera a indústria de exércitos de mercenários e quanto eles ganham",
-  "Tecnologia: Casamento de 40 anos e dois filhos: quem é quem na família de Jensen Huang, que deixou Nvidia após casos extraconjugais",
-  "Mundo: Tendas alagadas e falta de agasalhos: chuvas e chegada do inverno agravam crise humanitária na Faixa de Gaza",
-  "Tecnologia: Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
-  "Mundo: Aviões de carga e de passageiros colidem no aeroporto de Miami, nos EUA"
+  "Mundo: Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025"
  ],
  "jogos": {
   "proximo": {

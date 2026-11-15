@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-15T15:48:24.640Z",
+ "atualizado": "2026-11-15T20:56:23.850Z",
  "clima": {
-  "temp": 26,
-  "max": 30,
+  "temp": 28,
+  "max": 32,
   "min": 20,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Ex-CEO da Nvidia, Jensen Huang articula retorno ao cargo após escândalo, diz jornal",
+  "Mundo: Governo Trump diz que problemas nos voos dos EUA podem seguir até segunda-feira",
+  "Tecnologia: Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+  "Mundo: Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
   "Tecnologia: Coreia do Sul investiga 1º colocado em prova após confissão de fraude com IA",
   "Mundo: Guatemala decreta estado de emergência após ataque que matou deputado e três policiais",
   "Tecnologia: Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
   "Mundo: Trump culpa governo Biden por paralisação nacional de voos nos EUA",
   "Tecnologia: Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-  "Mundo: Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
-  "Tecnologia: O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
-  "Mundo: Pequim proíbe posse de drones e autoriza polícia a apreender aparelhos",
-  "Tecnologia: Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
-  "Mundo: Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025"
+  "Mundo: Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil"
  ],
  "jogos": {
   "proximo": {

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T07:48:11.995Z",
+ "atualizado": "2026-11-16T18:13:48.323Z",
  "clima": {
   "temp": 20,
   "max": 27,
@@ -8,16 +8,16 @@
   "texto": "Chuva"
  },
  "noticias": [
-  "Tecnologia: Ex-CEO da Nvidia, Jensen Huang articula retorno ao cargo após escândalo, diz jornal",
-  "Mundo: Viúva de presidente assassinado disputa 1ª eleição presidencial do Haiti em uma década",
-  "Tecnologia: Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
-  "Mundo: Incêndio deixa 11 mortos e 16 feridos na Tailândia",
-  "Tecnologia: Coreia do Sul investiga 1º colocado em prova após confissão de fraude com IA",
-  "Mundo: O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-  "Tecnologia: Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
-  "Mundo: Fundador do cartel de Guadalajara, Miguel Ángel Félix Gallardo morre aos 80 anos em hospital no México",
-  "Tecnologia: Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-  "Mundo: Governo Trump diz que problemas nos voos dos EUA podem seguir até segunda-feira"
+  "Tecnologia: Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
+  "Mundo: ‘Traga suas amigas’: reportagem do NYT conta como Epstein usou brasileira para recrutar vítimas de abuso sexual",
+  "Tecnologia: EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
+  "Mundo: Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
+  "Tecnologia: Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
+  "Mundo: Países europeus anunciam plano para enviar imigrantes com visto negado a Ruanda",
+  "Tecnologia: Avião comercial 100% elétrico faz primeiro voo tripulado na China; VÍDEO",
+  "Mundo: Turistas embriagados destroem estátua de Jesus após roubá-la de igreja na Lituânia; VÍDEO",
+  "Tecnologia: 'Armadilha de mel': suposta espiã chinesa teria usado romance para se aproximar de fundador da Nvidia; entenda escândalo",
+  "Mundo: Justiça do Paraguai ordena transferir ex-presidente para prisão militar após denúncias de privilégios em presídio"
  ],
  "jogos": {
   "proximo": {

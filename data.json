@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-16T18:13:48.323Z",
+ "atualizado": "2026-11-17T01:59:21.699Z",
  "clima": {
-  "temp": 20,
-  "max": 27,
+  "temp": 22,
+  "max": 30,
   "min": 20,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "sol",
+  "texto": "Céu limpo"
  },
  "noticias": [
-  "Tecnologia: Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
-  "Mundo: ‘Traga suas amigas’: reportagem do NYT conta como Epstein usou brasileira para recrutar vítimas de abuso sexual",
-  "Tecnologia: EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
-  "Mundo: Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
-  "Tecnologia: Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
-  "Mundo: Países europeus anunciam plano para enviar imigrantes com visto negado a Ruanda",
-  "Tecnologia: Avião comercial 100% elétrico faz primeiro voo tripulado na China; VÍDEO",
-  "Mundo: Turistas embriagados destroem estátua de Jesus após roubá-la de igreja na Lituânia; VÍDEO",
-  "Tecnologia: 'Armadilha de mel': suposta espiã chinesa teria usado romance para se aproximar de fundador da Nvidia; entenda escândalo",
-  "Mundo: Justiça do Paraguai ordena transferir ex-presidente para prisão militar após denúncias de privilégios em presídio"
+  "Tecnologia: United Airlines enfrenta falha generalizada, três dias após apagão aéreo",
+  "Mundo: Coreia do Sul envia caças após incursão de aviões russos em sua zona de defesa aérea; Japão relata violação",
+  "Tecnologia: FOTOS e VÍDEOS mostram momento em que Starship, da SpaceX, é capturada por braços mecânicos",
+  "Mundo: Pescadores equatorianos processam governo Trump após ataque com drone afundar barco",
+  "Tecnologia: Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
+  "Mundo: Jornalista que denunciava crime organizado é morto na Costa Rica",
+  "Tecnologia: Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
+  "Mundo: El Salvador diz que vai retirar tropas do Haiti quando militares desaparecidos forem resgatados",
+  "Tecnologia: Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
+  "Mundo: Reuters/Ipsos: desaprovação ao governo Trump volta ao maior patamar e atinge 2 a cada 3 americanos"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-17T01:59:21.699Z",
+ "atualizado": "2026-11-17T10:34:29.079Z",
  "clima": {
   "temp": 22,
-  "max": 30,
-  "min": 20,
+  "max": 31,
+  "min": 18,
   "cond": "sol",
   "texto": "Céu limpo"
  },
  "noticias": [
+  "Tecnologia: O outro fim do mundo: antes de boato de 2026, Brasil teve até abrigo contra 'profecia maia' em 2012",
+  "Mundo: Perito diz que fotos da autópsia de Epstein sugerem que ele foi assassinado na prisão",
+  "Tecnologia: O que agentes de IA sem controle e ataques hackers representam como perigo para a humanidade?",
+  "Mundo: Petroleiro pega fogo após atingir mina naval no Estreito de Ormuz; tripulação está desaparecida",
+  "Tecnologia: Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados digitais; entenda",
+  "Mundo: Por que a Europa pediu a seus cidadãos para fazerem kits de emergência?",
   "Tecnologia: United Airlines enfrenta falha generalizada, três dias após apagão aéreo",
-  "Mundo: Coreia do Sul envia caças após incursão de aviões russos em sua zona de defesa aérea; Japão relata violação",
+  "Mundo: 'Por que minha família branca nunca me disse que eu era negra?'",
   "Tecnologia: FOTOS e VÍDEOS mostram momento em que Starship, da SpaceX, é capturada por braços mecânicos",
-  "Mundo: Pescadores equatorianos processam governo Trump após ataque com drone afundar barco",
-  "Tecnologia: Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
-  "Mundo: Jornalista que denunciava crime organizado é morto na Costa Rica",
-  "Tecnologia: Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
-  "Mundo: El Salvador diz que vai retirar tropas do Haiti quando militares desaparecidos forem resgatados",
-  "Tecnologia: Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
-  "Mundo: Reuters/Ipsos: desaprovação ao governo Trump volta ao maior patamar e atinge 2 a cada 3 americanos"
+  "Mundo: Rússia atinge duas pontes em Kiev, na Ucrânia; ataques causam cortes de água e energia"
  ],
  "jogos": {
   "proximo": {

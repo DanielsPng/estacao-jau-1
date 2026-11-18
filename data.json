@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-17T19:42:34.020Z",
+ "atualizado": "2026-11-18T02:16:48.433Z",
  "clima": {
-  "temp": 30,
-  "max": 31,
+  "temp": 24,
+  "max": 32,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
+  "Mundo: Reino Unido entrega oficial do Exército dos EUA em investigação de espionagem",
   "Tecnologia: Ataque hacker afeta quase 200 sites, incluindo BBC, IKEA e Air France; criminosos tentavam roubar dados bancários",
-  "Mundo: EUA fazem teste nacional em serviço de emergência; mensagem foi transmitida em rádios e TVs",
+  "Mundo: Aliado do principal rival de Netanyahu é eleito presidente do Parlamento de Israel",
   "Tecnologia: Proibição das bets: levantamento do MJ identifica, em 53 dias, 60 mil conteúdos ilegais sobre apostas",
-  "Mundo: EUA suspendem instalação de roteadores que levaram à paralisação de voos no país",
+  "Mundo: Trump minimiza série de falhas tecnológicas nos EUA e diz que está 'tudo bem'",
   "Tecnologia: Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-  "Mundo: Protestos no Irã pedem volta da monarquia após morte de 13 trabalhadores em acidente de ônibus",
+  "Mundo: Caças dos EUA atacam ilha do Irã",
   "Tecnologia: China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-  "Mundo: Vladimir Putin chega à China para reunião trilateral com Xi Jinping e Trump",
-  "Tecnologia: Ataque usa páginas de sites famosos para roubar criptomoedas e infectar celulares; entenda",
-  "Mundo: VÍDEO: Kim Jong-un inspeciona complexo turístico na Coreia do Norte e acompanha filha praticando esqui"
+  "Mundo: EUA fazem teste nacional em serviço de emergência; mensagem foi transmitida em rádios e TVs"
  ],
  "jogos": {
   "proximo": {

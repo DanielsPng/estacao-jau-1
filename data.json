@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-18T10:34:51.856Z",
+ "atualizado": "2026-11-18T19:18:54.278Z",
  "clima": {
-  "temp": 25,
-  "max": 33,
+  "temp": 27,
+  "max": 32,
   "min": 21,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Celular Android na Black Friday: veja como escolher um que não trava",
-  "Mundo: Irã ataca instalações de drones e mísseis dos EUA no Kuwait",
-  "Tecnologia: Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
-  "Mundo: Trump chega à China para cúpula e é recebido por Xi Jinping com abraço e festa",
-  "Tecnologia: Ataque hacker afeta quase 200 sites, incluindo BBC, IKEA e Air France; criminosos tentavam roubar dados bancários",
-  "Mundo: EUA ainda não sabem causa de falha que cancelou 18 mil voos, diz secretário de Trump",
-  "Tecnologia: Proibição das bets: levantamento do MJ identifica, em 53 dias, 60 mil conteúdos ilegais sobre apostas",
-  "Mundo: Alunos do quarto ano descobrem moeda de quase 2 mil anos em passeio da escola",
-  "Tecnologia: Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-  "Mundo: De festas a funerais: entenda por que o karaokê é uma obsessão nacional nas Filipinas"
+  "Tecnologia: Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
+  "Mundo: Integrante da delegação russa carrega maleta nuclear de Putin em visita à China",
+  "Tecnologia: IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
+  "Mundo: Inteligência dos EUA descarta atividade 'maliciosa' por trás de falhas tecnológicas",
+  "Tecnologia: Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+  "Mundo: Secretário de Guerra dos EUA visita Venezuela e anuncia ampliação de parceria militar",
+  "Tecnologia: Nvidia interrompe envio de chips Hopper para a China em meio à crise por espionagem",
+  "Mundo: Trump terá reunião a sós com Putin na China, diz agência",
+  "Tecnologia: Nvidia descarta volta de Jensen Huang ao comando da empresa e promete acelerar busca por novo CEO",
+  "Mundo: Bukele divulga vídeo de helicóptero bombardeando mansão no Haiti e diz que casa era de chefe de gangue; VEJA"
  ],
  "jogos": {
   "proximo": {

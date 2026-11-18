@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-18T02:16:48.433Z",
+ "atualizado": "2026-11-18T10:34:51.856Z",
  "clima": {
-  "temp": 24,
-  "max": 32,
-  "min": 18,
-  "cond": "sol",
-  "texto": "Poucas nuvens"
+  "temp": 25,
+  "max": 33,
+  "min": 21,
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Celular Android na Black Friday: veja como escolher um que não trava",
+  "Mundo: Irã ataca instalações de drones e mísseis dos EUA no Kuwait",
   "Tecnologia: Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
-  "Mundo: Reino Unido entrega oficial do Exército dos EUA em investigação de espionagem",
+  "Mundo: Trump chega à China para cúpula e é recebido por Xi Jinping com abraço e festa",
   "Tecnologia: Ataque hacker afeta quase 200 sites, incluindo BBC, IKEA e Air France; criminosos tentavam roubar dados bancários",
-  "Mundo: Aliado do principal rival de Netanyahu é eleito presidente do Parlamento de Israel",
+  "Mundo: EUA ainda não sabem causa de falha que cancelou 18 mil voos, diz secretário de Trump",
   "Tecnologia: Proibição das bets: levantamento do MJ identifica, em 53 dias, 60 mil conteúdos ilegais sobre apostas",
-  "Mundo: Trump minimiza série de falhas tecnológicas nos EUA e diz que está 'tudo bem'",
+  "Mundo: Alunos do quarto ano descobrem moeda de quase 2 mil anos em passeio da escola",
   "Tecnologia: Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-  "Mundo: Caças dos EUA atacam ilha do Irã",
-  "Tecnologia: China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-  "Mundo: EUA fazem teste nacional em serviço de emergência; mensagem foi transmitida em rádios e TVs"
+  "Mundo: De festas a funerais: entenda por que o karaokê é uma obsessão nacional nas Filipinas"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-19T09:19:20.698Z",
+ "atualizado": "2026-11-19T18:33:22.884Z",
  "clima": {
-  "temp": 22,
+  "temp": 33,
   "max": 34,
   "min": 21,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
-  "Tecnologia: Fones com cancelamento de ruído: g1 testa dois modelos com bom custo-benefício",
-  "Mundo: Trump, Putin e Xi fazem reunião trilateral histórica: 'Nossos três países estão em uma posição única', diz presidente dos EUA",
-  "Tecnologia: Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilhão; conheça a empresa",
-  "Mundo: EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
-  "Tecnologia: De ruptura com a OpenAI a gigante da bolsa: veja 5 fatos importantes sobre a Anthropic",
-  "Mundo: Tropas de Bukele no Haiti: população manifesta apoio, mas analistas alertam para escalada",
-  "Tecnologia: Maior IPO da história: como a Anthropic superou a SpaceX em estreia bilionária na bolsa",
-  "Mundo: Que tipo de cidade é amiga da longevidade",
-  "Tecnologia: Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
-  "Mundo: Trump diz que cúpula histórica com Xi e Putin já é uma 'vitória' antes mesmo do evento"
+  "Tecnologia: Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
+  "Mundo: Música usada por Trump em eventos, YMCA é tocada durante visita à China",
+  "Tecnologia: iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
+  "Mundo: VÍDEO: Trump fecha os olhos e aparenta 'cochilar' durante discurso de Xi Jinping na China",
+  "Tecnologia: Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
+  "Mundo: Veterinários usam técnica com vibração para ajudar hipopótamo a expelir gorro que engoliu em zoológico",
+  "Tecnologia: Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
+  "Mundo: Trump, Xi e Putin ignoram guerras e passam ao largo do multilateralismo em 'declaração de paz'",
+  "Tecnologia: Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
+  "Mundo: Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-19T01:24:24.870Z",
+ "atualizado": "2026-11-19T09:19:20.698Z",
  "clima": {
-  "temp": 23,
-  "max": 32,
+  "temp": 22,
+  "max": 34,
   "min": 21,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Fones com cancelamento de ruído: g1 testa dois modelos com bom custo-benefício",
+  "Mundo: Trump, Putin e Xi fazem reunião trilateral histórica: 'Nossos três países estão em uma posição única', diz presidente dos EUA",
+  "Tecnologia: Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilhão; conheça a empresa",
+  "Mundo: EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
+  "Tecnologia: De ruptura com a OpenAI a gigante da bolsa: veja 5 fatos importantes sobre a Anthropic",
+  "Mundo: Tropas de Bukele no Haiti: população manifesta apoio, mas analistas alertam para escalada",
+  "Tecnologia: Maior IPO da história: como a Anthropic superou a SpaceX em estreia bilionária na bolsa",
+  "Mundo: Que tipo de cidade é amiga da longevidade",
   "Tecnologia: Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
-  "Mundo: Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
-  "Tecnologia: 99 é alvo de ação por cobrar de motoristas para liberar corridas sem taxas; MPT pede R$ 100 milhões",
-  "Mundo: Enquanto Putin se reúne com Trump e Xi, Ucrânia ataca ponte da Crimeia pela terceira vez na semana",
-  "Tecnologia: VÍDEO: mais de 100 robôs humanoides fazem coreografia na cidade chinesa onde acontece cúpula mundial",
-  "Mundo: Ex-deputada de direita se inscreve para disputar a Presidência de El Salvador",
-  "Tecnologia: Banco do Brasil alerta clientes sobre vazamento de dados pessoais; veja o que foi exposto",
-  "Mundo: Novo líder dos democratas na Câmara dos EUA promete investigar Trump",
-  "Tecnologia: Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
-  "Mundo: Juíza dos EUA prorroga bloqueio à construção de Arco do Triunfo de Trump"
+  "Mundo: Trump diz que cúpula histórica com Xi e Putin já é uma 'vitória' antes mesmo do evento"
  ],
  "jogos": {
   "proximo": {

@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-11-20T01:08:14.182Z",
+ "atualizado": "2026-11-20T09:01:37.554Z",
  "clima": {
-  "temp": 26,
-  "max": 32,
-  "min": 21,
+  "temp": 24,
+  "max": 35,
+  "min": 22,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
+  "Mundo: Rússia ataca Kiev após Putin prometer retaliação; 3 morrem, há apagões e pontes são atingidas",
+  "Tecnologia: Meta vê emissões subirem 45% e reavalia meta climática",
+  "Mundo: Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
   "Tecnologia: Governo Trump liberou quase 900 mil chips avançados de IA para empresas chinesas, diz comitê dos EUA",
-  "Mundo: Guiana afirma que EUA apoiam decisão da Corte Internacional em disputa com a Venezuela por Essequibo",
+  "Mundo: Perigo global: conheça as armas nucleares mais poderosas de Estados Unidos, Rússia e China",
   "Tecnologia: Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
-  "Mundo: Príncipe Harry diz estar disposto a voltar ao Exército para lutar contra a Rússia",
+  "Mundo: Turquia receberá 10 mil rohingyas após Corte Internacional reconhecer genocídio em Mianmar",
   "Tecnologia: iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
-  "Mundo: Operação de segurança no Haiti deixa 34 membros de gangues mortos, segundo a polícia",
-  "Tecnologia: Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
-  "Mundo: Aliados da Ucrânia alertam contra partilha ao estilo da 2ª Guerra Mundial enquanto Trump se reúne com 'amigo' Putin",
-  "Tecnologia: Anthropic fecha a US$ 97 por ação, alta de 17%; valor da empresa chega a US$ 1,75 trilhão",
-  "Mundo: Fiona, hipopótamo famoso nas redes, morre após engolir gorro de tricô em zoológico nos EUA"
+  "Mundo: Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-11-20T00:30Z",
-   "casa": "São Paulo",
-   "fora": "Fluminense",
-   "siglaCasa": "SAO",
-   "siglaFora": "FLU",
-   "emCasa": true,
+   "quando": "2026-11-23T23:00Z",
+   "casa": "Botafogo",
+   "fora": "São Paulo",
+   "siglaCasa": "BOT",
+   "siglaFora": "SAO",
+   "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estádio Cícero Pompeu de Toledo",
+   "local": "Joao Havelange Stadium",
    "placar": null,
-   "estado": "in"
+   "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-11-23T23:00Z",
-    "casa": "Botafogo",
-    "fora": "São Paulo",
-    "siglaCasa": "BOT",
-    "siglaFora": "SAO",
-    "emCasa": false,
-    "campeonato": "Brasileirão",
-    "local": "Joao Havelange Stadium",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2026-11-26T23:00Z",
     "casa": "São Paulo",
@@ -56,18 +44,30 @@
     "local": "Estádio Cícero Pompeu de Toledo",
     "placar": null,
     "estado": "pre"
+   },
+   {
+    "quando": "2026-12-03T00:30Z",
+    "casa": "Athletico-PR",
+    "fora": "São Paulo",
+    "siglaCasa": "CAP",
+    "siglaFora": "SAO",
+    "emCasa": false,
+    "campeonato": "Brasileirão",
+    "local": "Arena da Baixada",
+    "placar": null,
+    "estado": "pre"
    }
   ],
   "ultimo": {
-   "quando": "2026-11-05T00:30Z",
+   "quando": "2026-11-20T00:30Z",
    "casa": "São Paulo",
-   "fora": "Corinthians",
+   "fora": "Fluminense",
    "siglaCasa": "SAO",
-   "siglaFora": "COR",
+   "siglaFora": "FLU",
    "emCasa": true,
    "campeonato": "Brasileirão",
-   "local": "Estádio Vila Belmiro (Urbano Caldeira)",
-   "placar": "0×0",
+   "local": "Estádio Cícero Pompeu de Toledo",
+   "placar": "0×1",
    "estado": "post"
   }
  },

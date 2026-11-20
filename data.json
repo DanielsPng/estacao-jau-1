@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-20T17:56:54.927Z",
+ "atualizado": "2026-11-20T23:55:30.433Z",
  "clima": {
-  "temp": 31,
-  "max": 34,
+  "temp": 24,
+  "max": 35,
   "min": 23,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
-  "Mundo: EUA: Trump diz que outros 10 acordos comerciais serão fechados após viagem à Ásia e cúpula com Putin e Xi Jinping",
-  "Tecnologia: 'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
-  "Mundo: Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
-  "Tecnologia: Estudantes processam empresa de tecnologia por erro em sistema de IA que confundiu pacote de salgadinho com arma",
-  "Mundo: Rússia tentou matar rapper ucraniano na Dinamarca, diz Serviço Secreto dinamarquês",
-  "Tecnologia: Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
-  "Mundo: Prédio mais alto da Arábia Saudita é atingido em ataque dos houthis à sede de fundo soberano do país",
-  "Tecnologia: Meta vê emissões subirem 45% e reavalia meta climática",
-  "Mundo: Como mulher foi dopada e oferecida a desconhecidos pelo marido durante 13 anos"
+  "Tecnologia: Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
+  "Mundo: Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+  "Tecnologia: Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+  "Mundo: Áustria diz que site de ministério foi hackeado e que houve acesso a dados de funcionários",
+  "Tecnologia: TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
+  "Mundo: TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
+  "Tecnologia: Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+  "Mundo: Senado francês aprova lei sobre disparos feitos por policiais, chamada de 'licença para matar' por críticos",
+  "Tecnologia: Trump diz que não permitirá que empresas construam data centers fora dos EUA",
+  "Mundo: 'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro"
  ],
  "jogos": {
   "proximo": {

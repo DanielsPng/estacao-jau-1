@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-20T09:01:37.554Z",
+ "atualizado": "2026-11-20T17:56:54.927Z",
  "clima": {
-  "temp": 24,
-  "max": 35,
-  "min": 22,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "temp": 31,
+  "max": 34,
+  "min": 23,
+  "cond": "chuva",
+  "texto": "Chuva"
  },
  "noticias": [
+  "Tecnologia: Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
+  "Mundo: EUA: Trump diz que outros 10 acordos comerciais serão fechados após viagem à Ásia e cúpula com Putin e Xi Jinping",
+  "Tecnologia: 'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
+  "Mundo: Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
+  "Tecnologia: Estudantes processam empresa de tecnologia por erro em sistema de IA que confundiu pacote de salgadinho com arma",
+  "Mundo: Rússia tentou matar rapper ucraniano na Dinamarca, diz Serviço Secreto dinamarquês",
   "Tecnologia: Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
-  "Mundo: Rússia ataca Kiev após Putin prometer retaliação; 3 morrem, há apagões e pontes são atingidas",
+  "Mundo: Prédio mais alto da Arábia Saudita é atingido em ataque dos houthis à sede de fundo soberano do país",
   "Tecnologia: Meta vê emissões subirem 45% e reavalia meta climática",
-  "Mundo: Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
-  "Tecnologia: Governo Trump liberou quase 900 mil chips avançados de IA para empresas chinesas, diz comitê dos EUA",
-  "Mundo: Perigo global: conheça as armas nucleares mais poderosas de Estados Unidos, Rússia e China",
-  "Tecnologia: Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
-  "Mundo: Turquia receberá 10 mil rohingyas após Corte Internacional reconhecer genocídio em Mianmar",
-  "Tecnologia: iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
-  "Mundo: Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA"
+  "Mundo: Como mulher foi dopada e oferecida a desconhecidos pelo marido durante 13 anos"
  ],
  "jogos": {
   "proximo": {

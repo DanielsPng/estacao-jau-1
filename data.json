@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-21T06:44:02.313Z",
+ "atualizado": "2026-11-21T15:13:19.426Z",
  "clima": {
-  "temp": 24,
-  "max": 36,
-  "min": 23,
+  "temp": 33,
+  "max": 34,
+  "min": 22,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: União Europeia propõe taxar big techs para financiar orçamento até 2034",
+  "Mundo: O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos",
+  "Tecnologia: Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
+  "Mundo: Mais de 500 camelos atravessam deserto na China em migração anual na Mongólia Interior",
   "Tecnologia: Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-  "Mundo: Até onde estratégia de Trump contra o Irã depende de China e Rússia",
+  "Mundo: Drones atingem cargueiro russo no Golfo da Finlândia; país reforça segurança e suspeita de material militar em navio",
   "Tecnologia: Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-  "Mundo: 'Anel do Titanic', joia de diamante vai a leilão com valor estimado em até R$ 934 mil",
+  "Mundo: México captura narcotraficante que está entre os dez mais procurados pelo FBI",
   "Tecnologia: Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
-  "Mundo: Chapéu preso no intestino causou morte da hipopótamo Fiona, aponta necropsia",
-  "Tecnologia: Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
-  "Mundo: Ex-procurador-geral do Paraguai denuncia perseguição política à ONU após escândalo bancário",
-  "Tecnologia: TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
-  "Mundo: Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão"
+  "Mundo: Cúpula na China foi 'muito malsucedida' para a Rússia, diz Zelensky"
  ],
  "jogos": {
   "proximo": {

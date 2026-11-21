@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-20T23:55:30.433Z",
+ "atualizado": "2026-11-21T06:44:02.313Z",
  "clima": {
   "temp": 24,
-  "max": 35,
+  "max": 36,
   "min": 23,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
+  "Mundo: Até onde estratégia de Trump contra o Irã depende de China e Rússia",
+  "Tecnologia: Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+  "Mundo: 'Anel do Titanic', joia de diamante vai a leilão com valor estimado em até R$ 934 mil",
   "Tecnologia: Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
-  "Mundo: Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+  "Mundo: Chapéu preso no intestino causou morte da hipopótamo Fiona, aponta necropsia",
   "Tecnologia: Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
-  "Mundo: Áustria diz que site de ministério foi hackeado e que houve acesso a dados de funcionários",
+  "Mundo: Ex-procurador-geral do Paraguai denuncia perseguição política à ONU após escândalo bancário",
   "Tecnologia: TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
-  "Mundo: TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
-  "Tecnologia: Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-  "Mundo: Senado francês aprova lei sobre disparos feitos por policiais, chamada de 'licença para matar' por críticos",
-  "Tecnologia: Trump diz que não permitirá que empresas construam data centers fora dos EUA",
-  "Mundo: 'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro"
+  "Mundo: Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão"
  ],
  "jogos": {
   "proximo": {

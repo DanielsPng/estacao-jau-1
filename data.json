@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-22T17:00:00.863Z",
+ "atualizado": "2026-11-22T22:25:59.249Z",
  "clima": {
-  "temp": 33,
+  "temp": 25,
   "max": 33,
   "min": 23,
-  "cond": "chuva",
-  "texto": "Chuva"
+  "cond": "nuvens",
+  "texto": "Nublado"
  },
  "noticias": [
   "Tecnologia: A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
-  "Mundo: Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
+  "Mundo: Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
   "Tecnologia: União Europeia propõe taxar big techs para financiar orçamento até 2034",
-  "Mundo: Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
+  "Mundo: 'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
   "Tecnologia: Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-  "Mundo: Os 20 melhores destinos de viagem em 2027",
+  "Mundo: Agência de aviação dos EUA suspende voos de companhia aérea após falha em sistema",
   "Tecnologia: Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-  "Mundo: El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+  "Mundo: EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido",
   "Tecnologia: Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-  "Mundo: Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online"
+  "Mundo: Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos"
  ],
  "jogos": {
   "proximo": {

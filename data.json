@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-21T21:00:51.881Z",
+ "atualizado": "2026-11-22T01:30:07.284Z",
  "clima": {
-  "temp": 29,
+  "temp": 26,
   "max": 32,
   "min": 22,
   "cond": "nuvens",
@@ -9,15 +9,15 @@
  },
  "noticias": [
   "Tecnologia: União Europeia propõe taxar big techs para financiar orçamento até 2034",
-  "Mundo: Como El Chapo Isidro ascendeu de pequeno traficante a magnata do narcotráfico no México",
+  "Mundo: Como uma especialista em aves foi presa na Rússia por causa de US$ 30",
   "Tecnologia: Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-  "Mundo: Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+  "Mundo: Como El Chapo Isidro ascendeu de pequeno traficante a magnata do narcotráfico no México",
   "Tecnologia: Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-  "Mundo: Protestos levam milhares de pessoas às ruas em diferentes países da Europa neste sábado; VÍDEO",
+  "Mundo: Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
   "Tecnologia: Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-  "Mundo: Britânico atravessa Estreito de Ormuz a nado para alertar sobre o impacto ambiental da guerra",
+  "Mundo: Protestos levam milhares de pessoas às ruas em diferentes países da Europa neste sábado; VÍDEO",
   "Tecnologia: Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
-  "Mundo: Terremoto de magnitude 6,7 deixou 15 feridos no Peru e danificou 127 casas"
+  "Mundo: Britânico atravessa Estreito de Ormuz a nado para alertar sobre o impacto ambiental da guerra"
  ],
  "jogos": {
   "proximo": {

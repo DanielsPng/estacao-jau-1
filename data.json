@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-23T03:01:39.648Z",
+ "atualizado": "2026-11-23T13:32:06.131Z",
  "clima": {
-  "temp": 26,
-  "max": 33,
-  "min": 24,
+  "temp": 29,
+  "max": 31,
+  "min": 21,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
+  "Mundo: Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
+  "Tecnologia: Caos digital alimenta teorias de ataque cibernético nos Estados Unidos",
+  "Mundo: Alemanha tem ameaças de bomba em mais de 450 escolas em meio a falsos alertas em toda a Europa",
+  "Tecnologia: GTA 6: especialistas explicam como o game virou fenômeno mundial",
+  "Mundo: Bukele exporta seu modelo de combate ao crime para o atoleiro haitiano",
+  "Tecnologia: Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
+  "Mundo: Menino de 7 anos é resgatado após 14 \nhoras sob escombros na Ucrânia: 'Não tenham pressa, estou bem'",
   "Tecnologia: A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
-  "Mundo: Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
-  "Tecnologia: União Europeia propõe taxar big techs para financiar orçamento até 2034",
-  "Mundo: Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo; VÍDEO mostra abordagem",
-  "Tecnologia: Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-  "Mundo: Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
-  "Tecnologia: Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-  "Mundo: 'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
-  "Tecnologia: Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-  "Mundo: Agência de aviação dos EUA suspende voos de companhia aérea após falha em sistema"
+  "Mundo: Como foi a captura de narcotraficante mexicano na lista dos 10 mais procurados do FBI"
  ],
  "jogos": {
   "proximo": {

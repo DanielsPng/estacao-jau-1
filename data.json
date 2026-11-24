@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-24T12:15:36.910Z",
+ "atualizado": "2026-11-24T22:41:38.035Z",
  "clima": {
-  "temp": 30,
+  "temp": 24,
   "max": 33,
   "min": 22,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Trump teria lucrado até R$ 90 milhões com alta das ações da Nvidia após retorno de Huang, diz jornal",
-  "Mundo: Bombardeiros russos causam alerta na Coreia do Sul; Rússia fala em voo programado",
-  "Tecnologia: A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
-  "Mundo: A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
-  "Tecnologia: Férias para jogar e 15 horas diante da tela: lançamento de GTA 6 vira evento entre gamers",
-  "Mundo: Violência doméstica matou cinco mulheres por hora em 2025, afirma ONU",
-  "Tecnologia: Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
-  "Mundo: Carro-bomba deixa 20 feridos na Colômbia às vésperas dos dez anos do acordo de paz",
-  "Tecnologia: Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
-  "Mundo: A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube"
+  "Tecnologia: Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
+  "Mundo: Imprensa iraniana divulga VÍDEO de suposto ataque a avião comercial no início da guerra",
+  "Tecnologia: Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
+  "Mundo: Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
+  "Tecnologia: CIA e agência de inteligência dos EUA sofrem ataque cibernético e têm dados expostos, diz NYT",
+  "Mundo: VÍDEO: EUA usam cavalos para prender imigrantes na fronteira com o México",
+  "Tecnologia: Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
+  "Mundo: Bombeiros são condenados no Chile por incêndio com 138 mortos; réus queriam ganhos com horas extras",
+  "Tecnologia: WhatsApp começa a liberar figurinhas com som; veja como funciona",
+  "Mundo: CIA e agência de inteligência dos EUA sofrem ataque cibernético e têm dados expostos, diz NYT"
  ],
  "jogos": {
   "proximo": {

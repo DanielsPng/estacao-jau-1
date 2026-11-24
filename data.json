@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T13:32:06.131Z",
+ "atualizado": "2026-11-24T01:34:14.743Z",
  "clima": {
   "temp": 29,
   "max": 31,
@@ -8,16 +8,16 @@
   "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
-  "Mundo: Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
-  "Tecnologia: Caos digital alimenta teorias de ataque cibernético nos Estados Unidos",
-  "Mundo: Alemanha tem ameaças de bomba em mais de 450 escolas em meio a falsos alertas em toda a Europa",
-  "Tecnologia: GTA 6: especialistas explicam como o game virou fenômeno mundial",
-  "Mundo: Bukele exporta seu modelo de combate ao crime para o atoleiro haitiano",
-  "Tecnologia: Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
-  "Mundo: Menino de 7 anos é resgatado após 14 \nhoras sob escombros na Ucrânia: 'Não tenham pressa, estou bem'",
-  "Tecnologia: A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
-  "Mundo: Como foi a captura de narcotraficante mexicano na lista dos 10 mais procurados do FBI"
+  "Tecnologia: Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+  "Mundo: Justiça dos EUA autoriza detonação de 5 toneladas de material explosivo em meio a críticas ambientais, diz jornal",
+  "Tecnologia: EUA entram com ação para recuperar mais de US$ 1 bilhão em criptomoedas roubadas em ataque à Binance",
+  "Mundo: China condena funcionário à morte por espionagem e vazamento de segredos de Estado",
+  "Tecnologia: Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
+  "Mundo: Irã aplica pena de 74 chibatadas em cantora que se apresentou sem hijab",
+  "Tecnologia: Jensen Huang volta à Nvidia: veja a cronologia da crise que envolve traição e espionagem",
+  "Mundo: Deputada de SP diz que foi detida e deportada por Israel ao tentar entrar na Cisjordânia",
+  "Tecnologia: Ações da Nvidia fecham em alta de 31% após volta de Jensen Huang; Nasdaq sobe mais de 6%",
+  "Mundo: Trump faz evento com famílias de pessoas assassinadas para criticar governador cotado para a Casa Branca"
  ],
  "jogos": {
   "proximo": {
@@ -29,8 +29,8 @@
    "emCasa": false,
    "campeonato": "Brasileirão",
    "local": "Joao Havelange Stadium",
-   "placar": null,
-   "estado": "pre"
+   "placar": "1×1",
+   "estado": "in"
   },
   "seguintes": [
    {
@@ -59,15 +59,15 @@
    }
   ],
   "ultimo": {
-   "quando": "2026-11-20T00:30Z",
-   "casa": "São Paulo",
-   "fora": "Fluminense",
-   "siglaCasa": "SAO",
-   "siglaFora": "FLU",
-   "emCasa": true,
+   "quando": "2026-11-23T23:00Z",
+   "casa": "Botafogo",
+   "fora": "São Paulo",
+   "siglaCasa": "BOT",
+   "siglaFora": "SAO",
+   "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estádio Cícero Pompeu de Toledo",
-   "placar": "0×1",
+   "local": "Joao Havelange Stadium",
+   "placar": "1×1",
    "estado": "post"
   }
  },

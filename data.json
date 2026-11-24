@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-11-24T01:34:14.743Z",
+ "atualizado": "2026-11-24T12:15:36.910Z",
  "clima": {
-  "temp": 29,
-  "max": 31,
-  "min": 21,
+  "temp": 30,
+  "max": 33,
+  "min": 22,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
-  "Tecnologia: Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
-  "Mundo: Justiça dos EUA autoriza detonação de 5 toneladas de material explosivo em meio a críticas ambientais, diz jornal",
-  "Tecnologia: EUA entram com ação para recuperar mais de US$ 1 bilhão em criptomoedas roubadas em ataque à Binance",
-  "Mundo: China condena funcionário à morte por espionagem e vazamento de segredos de Estado",
-  "Tecnologia: Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
-  "Mundo: Irã aplica pena de 74 chibatadas em cantora que se apresentou sem hijab",
-  "Tecnologia: Jensen Huang volta à Nvidia: veja a cronologia da crise que envolve traição e espionagem",
-  "Mundo: Deputada de SP diz que foi detida e deportada por Israel ao tentar entrar na Cisjordânia",
-  "Tecnologia: Ações da Nvidia fecham em alta de 31% após volta de Jensen Huang; Nasdaq sobe mais de 6%",
-  "Mundo: Trump faz evento com famílias de pessoas assassinadas para criticar governador cotado para a Casa Branca"
+  "Tecnologia: Trump teria lucrado até R$ 90 milhões com alta das ações da Nvidia após retorno de Huang, diz jornal",
+  "Mundo: Bombardeiros russos causam alerta na Coreia do Sul; Rússia fala em voo programado",
+  "Tecnologia: A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
+  "Mundo: A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
+  "Tecnologia: Férias para jogar e 15 horas diante da tela: lançamento de GTA 6 vira evento entre gamers",
+  "Mundo: Violência doméstica matou cinco mulheres por hora em 2025, afirma ONU",
+  "Tecnologia: Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
+  "Mundo: Carro-bomba deixa 20 feridos na Colômbia às vésperas dos dez anos do acordo de paz",
+  "Tecnologia: Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
+  "Mundo: A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-11-23T23:00Z",
-   "casa": "Botafogo",
-   "fora": "São Paulo",
-   "siglaCasa": "BOT",
-   "siglaFora": "SAO",
-   "emCasa": false,
+   "quando": "2026-11-26T23:00Z",
+   "casa": "São Paulo",
+   "fora": "Remo",
+   "siglaCasa": "SAO",
+   "siglaFora": "REMO",
+   "emCasa": true,
    "campeonato": "Brasileirão",
-   "local": "Joao Havelange Stadium",
-   "placar": "1×1",
-   "estado": "in"
+   "local": "Estádio Cícero Pompeu de Toledo",
+   "placar": null,
+   "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-11-26T23:00Z",
-    "casa": "São Paulo",
-    "fora": "Remo",
-    "siglaCasa": "SAO",
-    "siglaFora": "REMO",
-    "emCasa": true,
-    "campeonato": "Brasileirão",
-    "local": "Estádio Cícero Pompeu de Toledo",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2026-12-03T00:30Z",
     "casa": "Athletico-PR",

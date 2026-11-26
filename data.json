@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-26T08:47:28.508Z",
+ "atualizado": "2026-11-26T18:54:41.164Z",
  "clima": {
-  "temp": 21,
+  "temp": 27,
   "max": 28,
   "min": 20,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
+  "Mundo: Imagens de satélite mostram nuvem gigante de fumaça sobre refinaria na Arábia Saudita após ataque",
+  "Tecnologia: FIFA diz ter sido vítima de ataque cibernético que acessou 'informações pessoais e comerciais'",
+  "Mundo: 'Musa do Jihad': francesa que foi uma das vozes femininas do Estado Islâmico começa a ser julgada em Paris",
+  "Tecnologia: Musk dobra a aposta e promete doar duas ações da SpaceX para cada criança dos EUA",
+  "Mundo: Brasileiros foram atraídos para lutar pela Rússia e roubados pelos próprios recrutadores, relata NYT",
+  "Tecnologia: Em meio a suspeita de espionagem, Nvidia suspende envio de servidores ao Sudeste Asiático",
+  "Mundo: Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
   "Tecnologia: Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-  "Mundo: Brasileiro tem prisão decretada no Paraguai por falsificar canetas emagrecedoras em condomínio de luxo",
-  "Tecnologia: Qual iPhone 'antigo' comprar na Black Friday?",
-  "Mundo: Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
-  "Tecnologia: FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
-  "Mundo: Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-  "Tecnologia: Austrália aprova lei que prevê multas bilionárias para big techs por conteúdo prejudicial",
-  "Mundo: Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
-  "Tecnologia: Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-  "Mundo: A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha"
+  "Mundo: Nova Miss Universo tem dois mestrados e é a primeira mãe a vencer o concurso"
  ],
  "jogos": {
   "proximo": {
@@ -44,20 +44,21 @@
     "local": "Arena da Baixada",
     "placar": null,
     "estado": "pre"
+   },
+   {
+    "quando": "2027-01-10T20:00Z",
+    "casa": "São Paulo",
+    "fora": "Mirassol",
+    "siglaCasa": "SAO",
+    "siglaFora": "MIR",
+    "emCasa": true,
+    "campeonato": "Paulistão",
+    "local": "",
+    "placar": null,
+    "estado": "pre"
    }
   ],
-  "ultimo": {
-   "quando": "2026-11-23T23:00Z",
-   "casa": "Botafogo",
-   "fora": "São Paulo",
-   "siglaCasa": "BOT",
-   "siglaFora": "SAO",
-   "emCasa": false,
-   "campeonato": "Brasileirão",
-   "local": "Joao Havelange Stadium",
-   "placar": "1×1",
-   "estado": "post"
-  }
+  "ultimo": null
  },
  "privado": {
   "v": 1,

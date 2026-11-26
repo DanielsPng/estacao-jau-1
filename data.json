@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T15:57:06.046Z",
+ "atualizado": "2026-11-26T00:10:35.981Z",
  "clima": {
   "temp": 26,
   "max": 29,
@@ -8,16 +8,16 @@
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
+  "Mundo: Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
   "Tecnologia: Austrália aprova lei que prevê multas bilionárias para big techs por conteúdo prejudicial",
-  "Mundo: EUA fazem explosão controlada de material tóxico que gerou polêmica e virou batalha judicial",
+  "Mundo: Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
   "Tecnologia: Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-  "Mundo: VÍDEO: Turista tenta atravessar ponte móvel durante ventania no Chile e enfrenta forte 'turbulência'",
+  "Mundo: Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
   "Tecnologia: Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
-  "Mundo: VÍDEO: policiais resgatam canguru após perseguição 'veloz e furiosa' nos EUA",
+  "Mundo: Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
   "Tecnologia: Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
-  "Mundo: Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar",
-  "Tecnologia: CIA e agência de inteligência dos EUA sofrem ataque cibernético e têm dados expostos, diz NYT",
-  "Mundo: VÍDEO: EUA divulgam preparativos para explosão controlada de material tóxico"
+  "Mundo: Crise na Colômbia: dois policiais morrem em emboscada de homens armados no norte do país"
  ],
  "jogos": {
   "proximo": {

@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-26T00:10:35.981Z",
+ "atualizado": "2026-11-26T08:47:28.508Z",
  "clima": {
-  "temp": 26,
-  "max": 29,
-  "min": 21,
+  "temp": 21,
+  "max": 28,
+  "min": 20,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+  "Mundo: Brasileiro tem prisão decretada no Paraguai por falsificar canetas emagrecedoras em condomínio de luxo",
+  "Tecnologia: Qual iPhone 'antigo' comprar na Black Friday?",
+  "Mundo: Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
   "Tecnologia: FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
-  "Mundo: Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
+  "Mundo: Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
   "Tecnologia: Austrália aprova lei que prevê multas bilionárias para big techs por conteúdo prejudicial",
-  "Mundo: Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
+  "Mundo: Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
   "Tecnologia: Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-  "Mundo: Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
-  "Tecnologia: Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
-  "Mundo: Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
-  "Tecnologia: Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
-  "Mundo: Crise na Colômbia: dois policiais morrem em emboscada de homens armados no norte do país"
+  "Mundo: A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha"
  ],
  "jogos": {
   "proximo": {

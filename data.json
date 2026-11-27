@@ -1,50 +1,38 @@
 {
- "atualizado": "2026-11-26T18:54:41.164Z",
+ "atualizado": "2026-11-27T02:05:24.699Z",
  "clima": {
-  "temp": 27,
-  "max": 28,
+  "temp": 21,
+  "max": 27,
   "min": 20,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Chargeback e falsos positivos: como reduzir fraude sem bloquear bons clientes",
+  "Mundo: Venezuela revogará lei que previa até 30 anos de prisão para opositores",
   "Tecnologia: Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
-  "Mundo: Imagens de satélite mostram nuvem gigante de fumaça sobre refinaria na Arábia Saudita após ataque",
+  "Mundo: EUA divulgam arquivos oficiais sobre Pé-Grande e reacendem mistério",
   "Tecnologia: FIFA diz ter sido vítima de ataque cibernético que acessou 'informações pessoais e comerciais'",
-  "Mundo: 'Musa do Jihad': francesa que foi uma das vozes femininas do Estado Islâmico começa a ser julgada em Paris",
-  "Tecnologia: Musk dobra a aposta e promete doar duas ações da SpaceX para cada criança dos EUA",
-  "Mundo: Brasileiros foram atraídos para lutar pela Rússia e roubados pelos próprios recrutadores, relata NYT",
+  "Mundo: Passageiro tenta abrir porta de avião e voo é desviado nos EUA; veja VÍDEO",
+  "Tecnologia: Elon Musk promete dar duas ações da SpaceX para cada criança dos EUA; valor pode chegar a US$ 18 bilhões",
+  "Mundo: Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
   "Tecnologia: Em meio a suspeita de espionagem, Nvidia suspende envio de servidores ao Sudeste Asiático",
-  "Mundo: Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
-  "Tecnologia: Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-  "Mundo: Nova Miss Universo tem dois mestrados e é a primeira mãe a vencer o concurso"
+  "Mundo: 'Musa do Jihad': francesa que foi uma das vozes femininas do Estado Islâmico começa a ser julgada em Paris"
  ],
  "jogos": {
   "proximo": {
-   "quando": "2026-11-26T23:00Z",
-   "casa": "São Paulo",
-   "fora": "Remo",
-   "siglaCasa": "SAO",
-   "siglaFora": "REMO",
-   "emCasa": true,
+   "quando": "2026-12-03T00:30Z",
+   "casa": "Athletico-PR",
+   "fora": "São Paulo",
+   "siglaCasa": "CAP",
+   "siglaFora": "SAO",
+   "emCasa": false,
    "campeonato": "Brasileirão",
-   "local": "Estádio Cícero Pompeu de Toledo",
+   "local": "Arena da Baixada",
    "placar": null,
    "estado": "pre"
   },
   "seguintes": [
-   {
-    "quando": "2026-12-03T00:30Z",
-    "casa": "Athletico-PR",
-    "fora": "São Paulo",
-    "siglaCasa": "CAP",
-    "siglaFora": "SAO",
-    "emCasa": false,
-    "campeonato": "Brasileirão",
-    "local": "Arena da Baixada",
-    "placar": null,
-    "estado": "pre"
-   },
    {
     "quando": "2027-01-10T20:00Z",
     "casa": "São Paulo",
@@ -52,6 +40,18 @@
     "siglaCasa": "SAO",
     "siglaFora": "MIR",
     "emCasa": true,
+    "campeonato": "Paulistão",
+    "local": "",
+    "placar": null,
+    "estado": "pre"
+   },
+   {
+    "quando": "2027-01-13T20:00Z",
+    "casa": "Portuguesa",
+    "fora": "São Paulo",
+    "siglaCasa": "PTG",
+    "siglaFora": "SAO",
+    "emCasa": false,
     "campeonato": "Paulistão",
     "local": "",
     "placar": null,

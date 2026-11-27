@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-27T11:17:17.538Z",
+ "atualizado": "2026-11-27T20:11:57.468Z",
  "clima": {
-  "temp": 20,
-  "max": 27,
+  "temp": 27,
+  "max": 29,
   "min": 18,
-  "cond": "nuvens",
-  "texto": "Nublado"
+  "cond": "sol",
+  "texto": "Poucas nuvens"
  },
  "noticias": [
+  "Tecnologia: OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
+  "Mundo: Líder da seita do jejum é considerado culpado pela morte de 123 pessoas no Quênia",
+  "Tecnologia: Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu número; VÍDEO",
+  "Mundo: 'Passando fome e frio': irmã relata rotina de camisa 10 da Seleção Brasileira em prisão na Rússia",
+  "Tecnologia: É #FAKE vídeo de balões de Dora Aventureira e agentes do ICE em desfile de Ação de Graças de Nova York; cena foi criada com IA",
+  "Mundo: Putin apresenta novo submarino nuclear e promete modernizar marinha russa",
+  "Tecnologia: Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
+  "Mundo: 'Minha filha virou moeda de troca', diz mãe de jogadora brasileira presa na Rússia",
   "Tecnologia: Reino Unido tira serviços do ar após 'incidente cibernético' em órgão que paga aposentadorias",
-  "Mundo: Trump declara apoio à decisão do Iraque de enviar de tropas para fora do país",
-  "Tecnologia: Celular na Black Friday: 9 de 16 modelos têm desconto real nesta sexta",
-  "Mundo: Reino Unido tira serviços do ar após 'incidente cibernético' em órgão que paga aposentadorias",
-  "Tecnologia: Notebook ideal: como escolher um com boa configuração na Black Friday",
-  "Mundo: Espanha encerra campanha eleitoral; Sánchez tenta frear a direita e a extrema direita",
-  "Tecnologia: Chargeback e falsos positivos: como reduzir fraude sem bloquear bons clientes",
-  "Mundo: Operação Vivaldi: como a Ucrânia frustrou os planos da Rússia para cercar o Donbass",
-  "Tecnologia: Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
-  "Mundo: 'Como descobri que um desconhecido foi enterrado no túmulo que comprei'"
+  "Mundo: Argentina aprova lei contra bets, que proíbe patrocínio no esporte"
  ],
  "jogos": {
   "proximo": {

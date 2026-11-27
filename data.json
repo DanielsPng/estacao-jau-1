@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-27T02:05:24.699Z",
+ "atualizado": "2026-11-27T11:17:17.538Z",
  "clima": {
-  "temp": 21,
+  "temp": 20,
   "max": 27,
-  "min": 20,
+  "min": 18,
   "cond": "nuvens",
   "texto": "Nublado"
  },
  "noticias": [
+  "Tecnologia: Reino Unido tira serviços do ar após 'incidente cibernético' em órgão que paga aposentadorias",
+  "Mundo: Trump declara apoio à decisão do Iraque de enviar de tropas para fora do país",
+  "Tecnologia: Celular na Black Friday: 9 de 16 modelos têm desconto real nesta sexta",
+  "Mundo: Reino Unido tira serviços do ar após 'incidente cibernético' em órgão que paga aposentadorias",
+  "Tecnologia: Notebook ideal: como escolher um com boa configuração na Black Friday",
+  "Mundo: Espanha encerra campanha eleitoral; Sánchez tenta frear a direita e a extrema direita",
   "Tecnologia: Chargeback e falsos positivos: como reduzir fraude sem bloquear bons clientes",
-  "Mundo: Venezuela revogará lei que previa até 30 anos de prisão para opositores",
+  "Mundo: Operação Vivaldi: como a Ucrânia frustrou os planos da Rússia para cercar o Donbass",
   "Tecnologia: Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
-  "Mundo: EUA divulgam arquivos oficiais sobre Pé-Grande e reacendem mistério",
-  "Tecnologia: FIFA diz ter sido vítima de ataque cibernético que acessou 'informações pessoais e comerciais'",
-  "Mundo: Passageiro tenta abrir porta de avião e voo é desviado nos EUA; veja VÍDEO",
-  "Tecnologia: Elon Musk promete dar duas ações da SpaceX para cada criança dos EUA; valor pode chegar a US$ 18 bilhões",
-  "Mundo: Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
-  "Tecnologia: Em meio a suspeita de espionagem, Nvidia suspende envio de servidores ao Sudeste Asiático",
-  "Mundo: 'Musa do Jihad': francesa que foi uma das vozes femininas do Estado Islâmico começa a ser julgada em Paris"
+  "Mundo: 'Como descobri que um desconhecido foi enterrado no túmulo que comprei'"
  ],
  "jogos": {
   "proximo": {
